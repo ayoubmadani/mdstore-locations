@@ -1,0 +1,341 @@
+{
+ "country": "TN",
+ "regions": [
+  {
+   "id": 788011,
+   "code": "TN-11",
+   "name": "Tunis",
+   "ar_name": "تونس",
+   "localities": [
+    {
+     "id": 78801101,
+     "name": "Tunis",
+     "ar_name": "تونس",
+     "post_code": "1000"
+    }
+   ]
+  },
+  {
+   "id": 788012,
+   "code": "TN-12",
+   "name": "Ariana",
+   "ar_name": "أريانة",
+   "localities": [
+    {
+     "id": 78801201,
+     "name": "Ariana",
+     "ar_name": "أريانة",
+     "post_code": "2080"
+    }
+   ]
+  },
+  {
+   "id": 788013,
+   "code": "TN-13",
+   "name": "Ben Arous",
+   "ar_name": "بن عروس",
+   "localities": [
+    {
+     "id": 78801301,
+     "name": "Ben Arous",
+     "ar_name": "بن عروس",
+     "post_code": "2013"
+    }
+   ]
+  },
+  {
+   "id": 788014,
+   "code": "TN-14",
+   "name": "Manouba",
+   "ar_name": "منوبة",
+   "localities": [
+    {
+     "id": 78801401,
+     "name": "Manouba",
+     "ar_name": "منوبة",
+     "post_code": "2010"
+    }
+   ]
+  },
+  {
+   "id": 788021,
+   "code": "TN-21",
+   "name": "Nabeul",
+   "ar_name": "نابل",
+   "localities": [
+    {
+     "id": 78802101,
+     "name": "Nabeul",
+     "ar_name": "نابل",
+     "post_code": "8000"
+    }
+   ]
+  },
+  {
+   "id": 788022,
+   "code": "TN-22",
+   "name": "Zaghouan",
+   "ar_name": "زغوان",
+   "localities": [
+    {
+     "id": 78802201,
+     "name": "Zaghouan",
+     "ar_name": "زغوان",
+     "post_code": "1100"
+    }
+   ]
+  },
+  {
+   "id": 788023,
+   "code": "TN-23",
+   "name": "Bizerte",
+   "ar_name": "بنزرت",
+   "localities": [
+    {
+     "id": 78802301,
+     "name": "Bizerte",
+     "ar_name": "بنزرت",
+     "post_code": "7000"
+    }
+   ]
+  },
+  {
+   "id": 788031,
+   "code": "TN-31",
+   "name": "Béja",
+   "ar_name": "باجة",
+   "localities": [
+    {
+     "id": 78803101,
+     "name": "Béja",
+     "ar_name": "باجة",
+     "post_code": "9000"
+    }
+   ]
+  },
+  {
+   "id": 788032,
+   "code": "TN-32",
+   "name": "Jendouba",
+   "ar_name": "جندوبة",
+   "localities": [
+    {
+     "id": 78803201,
+     "name": "Jendouba",
+     "ar_name": "جندوبة",
+     "post_code": "8100"
+    }
+   ]
+  },
+  {
+   "id": 788033,
+   "code": "TN-33",
+   "name": "Le Kef",
+   "ar_name": "الكاف",
+   "localities": [
+    {
+     "id": 78803301,
+     "name": "Le Kef",
+     "ar_name": "الكاف",
+     "post_code": "7100"
+    }
+   ]
+  },
+  {
+   "id": 788034,
+   "code": "TN-34",
+   "name": "Siliana",
+   "ar_name": "سليانة",
+   "localities": [
+    {
+     "id": 78803401,
+     "name": "Siliana",
+     "ar_name": "سليانة",
+     "post_code": "6100"
+    }
+   ]
+  },
+  {
+   "id": 788041,
+   "code": "TN-41",
+   "name": "Kairouan",
+   "ar_name": "القيروان",
+   "localities": [
+    {
+     "id": 78804101,
+     "name": "Kairouan",
+     "ar_name": "القيروان",
+     "post_code": "3100"
+    }
+   ]
+  },
+  {
+   "id": 788042,
+   "code": "TN-42",
+   "name": "Kasserine",
+   "ar_name": "القصرين",
+   "localities": [
+    {
+     "id": 78804201,
+     "name": "Kasserine",
+     "ar_name": "القصرين",
+     "post_code": "1200"
+    }
+   ]
+  },
+  {
+   "id": 788043,
+   "code": "TN-43",
+   "name": "Sidi Bouzid",
+   "ar_name": "سيدي بوزيد",
+   "localities": [
+    {
+     "id": 78804301,
+     "name": "Sidi Bouzid",
+     "ar_name": "سيدي بوزيد",
+     "post_code": "9100"
+    }
+   ]
+  },
+  {
+   "id": 788051,
+   "code": "TN-51",
+   "name": "Sousse",
+   "ar_name": "سوسة",
+   "localities": [
+    {
+     "id": 78805101,
+     "name": "Sousse",
+     "ar_name": "سوسة",
+     "post_code": "4000"
+    }
+   ]
+  },
+  {
+   "id": 788052,
+   "code": "TN-52",
+   "name": "Monastir",
+   "ar_name": "المنستير",
+   "localities": [
+    {
+     "id": 78805201,
+     "name": "Monastir",
+     "ar_name": "المنستير",
+     "post_code": "5000"
+    }
+   ]
+  },
+  {
+   "id": 788053,
+   "code": "TN-53",
+   "name": "Mahdia",
+   "ar_name": "المهدية",
+   "localities": [
+    {
+     "id": 78805301,
+     "name": "Mahdia",
+     "ar_name": "المهدية",
+     "post_code": "5100"
+    }
+   ]
+  },
+  {
+   "id": 788061,
+   "code": "TN-61",
+   "name": "Sfax",
+   "ar_name": "صفاقس",
+   "localities": [
+    {
+     "id": 78806101,
+     "name": "Sfax",
+     "ar_name": "صفاقس",
+     "post_code": "3000"
+    }
+   ]
+  },
+  {
+   "id": 788071,
+   "code": "TN-71",
+   "name": "Gafsa",
+   "ar_name": "قفصة",
+   "localities": [
+    {
+     "id": 78807101,
+     "name": "Gafsa",
+     "ar_name": "قفصة",
+     "post_code": "2100"
+    }
+   ]
+  },
+  {
+   "id": 788072,
+   "code": "TN-72",
+   "name": "Tozeur",
+   "ar_name": "توزر",
+   "localities": [
+    {
+     "id": 78807201,
+     "name": "Tozeur",
+     "ar_name": "توزر",
+     "post_code": "2200"
+    }
+   ]
+  },
+  {
+   "id": 788073,
+   "code": "TN-73",
+   "name": "Kebili",
+   "ar_name": "قبلي",
+   "localities": [
+    {
+     "id": 78807301,
+     "name": "Kebili",
+     "ar_name": "قبلي",
+     "post_code": "4200"
+    }
+   ]
+  },
+  {
+   "id": 788081,
+   "code": "TN-81",
+   "name": "Gabès",
+   "ar_name": "قابس",
+   "localities": [
+    {
+     "id": 78808101,
+     "name": "Gabès",
+     "ar_name": "قابس",
+     "post_code": "6000"
+    }
+   ]
+  },
+  {
+   "id": 788082,
+   "code": "TN-82",
+   "name": "Medenine",
+   "ar_name": "مدنين",
+   "localities": [
+    {
+     "id": 78808201,
+     "name": "Medenine",
+     "ar_name": "مدنين",
+     "post_code": "4100"
+    }
+   ]
+  },
+  {
+   "id": 788083,
+   "code": "TN-83",
+   "name": "Tataouine",
+   "ar_name": "تطاوين",
+   "localities": [
+    {
+     "id": 78808301,
+     "name": "Tataouine",
+     "ar_name": "تطاوين",
+     "post_code": "3200"
+    }
+   ]
+  }
+ ]
+}

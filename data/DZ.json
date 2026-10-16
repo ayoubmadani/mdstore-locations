@@ -1,0 +1,9715 @@
+{
+ "country": "DZ",
+ "regions": [
+  {
+   "id": 1,
+   "code": "DZ-01",
+   "name": "Adrar",
+   "ar_name": "أدرار",
+   "localities": [
+    {
+     "id": 1,
+     "name": "Adrar",
+     "ar_name": "أدرار",
+     "post_code": "1001"
+    },
+    {
+     "id": 2,
+     "name": "Akabli",
+     "ar_name": "اقبلي",
+     "post_code": "1002"
+    },
+    {
+     "id": 4,
+     "name": "Aoulef",
+     "ar_name": "أولف",
+     "post_code": "1003"
+    },
+    {
+     "id": 6,
+     "name": "Bouda",
+     "ar_name": "بودة",
+     "post_code": "1004"
+    },
+    {
+     "id": 9,
+     "name": "Fenoughil",
+     "ar_name": "فنوغيل",
+     "post_code": "1005"
+    },
+    {
+     "id": 10,
+     "name": "In Zghmir",
+     "ar_name": "إن زغمير",
+     "post_code": "1006"
+    },
+    {
+     "id": 13,
+     "name": "Ouled Ahmed Tammi",
+     "ar_name": "أولاد أحمد تيمي",
+     "post_code": "1007"
+    },
+    {
+     "id": 16,
+     "name": "Reggane",
+     "ar_name": "رقان",
+     "post_code": "1008"
+    },
+    {
+     "id": 17,
+     "name": "Sali",
+     "ar_name": "سالي",
+     "post_code": "1009"
+    },
+    {
+     "id": 18,
+     "name": "Sbaa",
+     "ar_name": "السبع",
+     "post_code": "1010"
+    },
+    {
+     "id": 20,
+     "name": "Tamentit",
+     "ar_name": "تامنطيط",
+     "post_code": "1011"
+    },
+    {
+     "id": 21,
+     "name": "Tamest",
+     "ar_name": "تامست",
+     "post_code": "1012"
+    },
+    {
+     "id": 22,
+     "name": "Timokten",
+     "ar_name": "تيمقتن",
+     "post_code": "1013"
+    },
+    {
+     "id": 26,
+     "name": "Tit",
+     "ar_name": "تيت",
+     "post_code": "1014"
+    },
+    {
+     "id": 27,
+     "name": "Tsabit",
+     "ar_name": "تسابيت",
+     "post_code": "1015"
+    },
+    {
+     "id": 28,
+     "name": "Zaouiet Kounta",
+     "ar_name": "زاوية كنتة",
+     "post_code": "1016"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "code": "DZ-02",
+   "name": "Chlef",
+   "ar_name": "الشلف",
+   "localities": [
+    {
+     "id": 29,
+     "name": "Abou El Hassen",
+     "ar_name": "أبو الحسن",
+     "post_code": "2001"
+    },
+    {
+     "id": 30,
+     "name": "Ain Merane",
+     "ar_name": "عين مران",
+     "post_code": "2002"
+    },
+    {
+     "id": 31,
+     "name": "Benairia",
+     "ar_name": "بنايرية",
+     "post_code": "2003"
+    },
+    {
+     "id": 32,
+     "name": "Beni Bouateb",
+     "ar_name": "بني بوعتاب",
+     "post_code": "2004"
+    },
+    {
+     "id": 33,
+     "name": "Beni Haoua",
+     "ar_name": "بني حواء",
+     "post_code": "2005"
+    },
+    {
+     "id": 34,
+     "name": "Beni Rached",
+     "ar_name": "بني راشد",
+     "post_code": "2006"
+    },
+    {
+     "id": 35,
+     "name": "Boukadir",
+     "ar_name": "بوقادير",
+     "post_code": "2007"
+    },
+    {
+     "id": 36,
+     "name": "Bouzghaia",
+     "ar_name": "بوزغاية",
+     "post_code": "2008"
+    },
+    {
+     "id": 37,
+     "name": "Breira",
+     "ar_name": "بريرة",
+     "post_code": "2009"
+    },
+    {
+     "id": 38,
+     "name": "Chettia",
+     "ar_name": "الشطية",
+     "post_code": "2010"
+    },
+    {
+     "id": 39,
+     "name": "Chlef",
+     "ar_name": "الشلف",
+     "post_code": "2011"
+    },
+    {
+     "id": 40,
+     "name": "Dahra",
+     "ar_name": "الظهرة",
+     "post_code": "2012"
+    },
+    {
+     "id": 41,
+     "name": "El Hadjadj",
+     "ar_name": "الحجاج",
+     "post_code": "2013"
+    },
+    {
+     "id": 42,
+     "name": "El Karimia",
+     "ar_name": "الكريمية",
+     "post_code": "2014"
+    },
+    {
+     "id": 43,
+     "name": "El Marsa",
+     "ar_name": "المرسى",
+     "post_code": "2015"
+    },
+    {
+     "id": 44,
+     "name": "Harchoun",
+     "ar_name": "حرشون",
+     "post_code": "2016"
+    },
+    {
+     "id": 45,
+     "name": "Herenfa",
+     "ar_name": "الهرانفة",
+     "post_code": "2017"
+    },
+    {
+     "id": 46,
+     "name": "Labiod Medjadja",
+     "ar_name": "الأبيض مجاجة",
+     "post_code": "2018"
+    },
+    {
+     "id": 47,
+     "name": "Moussadek",
+     "ar_name": "مصدق",
+     "post_code": "2019"
+    },
+    {
+     "id": 48,
+     "name": "Oued Fodda",
+     "ar_name": "وادي الفضة",
+     "post_code": "2020"
+    },
+    {
+     "id": 49,
+     "name": "Oued Goussine",
+     "ar_name": "وادي قوسين",
+     "post_code": "2021"
+    },
+    {
+     "id": 50,
+     "name": "Oued Sly",
+     "ar_name": "وادي سلي",
+     "post_code": "2022"
+    },
+    {
+     "id": 51,
+     "name": "Ouled Abbes",
+     "ar_name": "أولاد عباس",
+     "post_code": "2023"
+    },
+    {
+     "id": 52,
+     "name": "Ouled Ben Abdelkader",
+     "ar_name": "أولاد بن عبد القادر",
+     "post_code": "2024"
+    },
+    {
+     "id": 53,
+     "name": "Ouled Fares",
+     "ar_name": "أولاد فارس",
+     "post_code": "2025"
+    },
+    {
+     "id": 54,
+     "name": "Oum Drou",
+     "ar_name": "أم الدروع",
+     "post_code": "2026"
+    },
+    {
+     "id": 55,
+     "name": "Sendjas",
+     "ar_name": "سنجاس",
+     "post_code": "2027"
+    },
+    {
+     "id": 56,
+     "name": "Sidi Abderrahmane",
+     "ar_name": "سيدي عبد الرحمن",
+     "post_code": "2028"
+    },
+    {
+     "id": 57,
+     "name": "Sidi Akacha",
+     "ar_name": "سيدي عكاشة",
+     "post_code": "2029"
+    },
+    {
+     "id": 58,
+     "name": "Sobha",
+     "ar_name": "الصبحة",
+     "post_code": "2030"
+    },
+    {
+     "id": 59,
+     "name": "Tadjna",
+     "ar_name": "تاجنة",
+     "post_code": "2031"
+    },
+    {
+     "id": 60,
+     "name": "Talassa",
+     "ar_name": "تلعصة",
+     "post_code": "2032"
+    },
+    {
+     "id": 61,
+     "name": "Taougrite",
+     "ar_name": "تاوقريت",
+     "post_code": "2033"
+    },
+    {
+     "id": 62,
+     "name": "Tenes",
+     "ar_name": "تنس",
+     "post_code": "2034"
+    },
+    {
+     "id": 63,
+     "name": "Zeboudja",
+     "ar_name": "الزبوجة",
+     "post_code": "2035"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "code": "DZ-03",
+   "name": "Laghouat",
+   "ar_name": "الأغواط",
+   "localities": [
+    {
+     "id": 64,
+     "name": "Aflou",
+     "ar_name": "أفلو",
+     "post_code": "3001"
+    },
+    {
+     "id": 65,
+     "name": "Ain Mahdi",
+     "ar_name": "عين ماضي",
+     "post_code": "3002"
+    },
+    {
+     "id": 66,
+     "name": "Ain Sidi Ali",
+     "ar_name": "عين سيدي علي",
+     "post_code": "3003"
+    },
+    {
+     "id": 67,
+     "name": "Beidha",
+     "ar_name": "البيضاء",
+     "post_code": "3004"
+    },
+    {
+     "id": 68,
+     "name": "Benacer Ben Chohra",
+     "ar_name": "بن ناصر بن شهرة",
+     "post_code": "3005"
+    },
+    {
+     "id": 69,
+     "name": "Brida",
+     "ar_name": "بريدة",
+     "post_code": "3006"
+    },
+    {
+     "id": 70,
+     "name": "El Assafia",
+     "ar_name": "العسافية",
+     "post_code": "3007"
+    },
+    {
+     "id": 71,
+     "name": "El Ghicha",
+     "ar_name": "الغيشة",
+     "post_code": "3008"
+    },
+    {
+     "id": 72,
+     "name": "El Haouaita",
+     "ar_name": "الحويطة",
+     "post_code": "3009"
+    },
+    {
+     "id": 73,
+     "name": "Gueltat Sidi Saad",
+     "ar_name": "قلتة سيدي سعد",
+     "post_code": "3010"
+    },
+    {
+     "id": 74,
+     "name": "Hadj Mechri",
+     "ar_name": "الحاج مشري",
+     "post_code": "3011"
+    },
+    {
+     "id": 75,
+     "name": "Hassi Delaa",
+     "ar_name": "حاسي الدلاعة",
+     "post_code": "3012"
+    },
+    {
+     "id": 76,
+     "name": "Hassi R'Mel",
+     "ar_name": "حاسي الرمل",
+     "post_code": "3013"
+    },
+    {
+     "id": 77,
+     "name": "El Kheneg",
+     "ar_name": "الخنق",
+     "post_code": "3014"
+    },
+    {
+     "id": 78,
+     "name": "Ksar El Hirane",
+     "ar_name": "قصر الحيران",
+     "post_code": "3015"
+    },
+    {
+     "id": 79,
+     "name": "Laghouat",
+     "ar_name": "الأغواط",
+     "post_code": "3016"
+    },
+    {
+     "id": 80,
+     "name": "Oued Morra",
+     "ar_name": "وادي مرة",
+     "post_code": "3017"
+    },
+    {
+     "id": 81,
+     "name": "Oued M'Zi",
+     "ar_name": "وادي مزي",
+     "post_code": "3018"
+    },
+    {
+     "id": 82,
+     "name": "Sebgag",
+     "ar_name": "سبقاق",
+     "post_code": "3019"
+    },
+    {
+     "id": 83,
+     "name": "Sidi Bouzid",
+     "ar_name": "سيدي بوزيد",
+     "post_code": "3020"
+    },
+    {
+     "id": 84,
+     "name": "Sidi Makhlouf",
+     "ar_name": "سيدي مخلوف",
+     "post_code": "3021"
+    },
+    {
+     "id": 85,
+     "name": "Tadjmout",
+     "ar_name": "تاجموت",
+     "post_code": "3022"
+    },
+    {
+     "id": 86,
+     "name": "Tadjrouna",
+     "ar_name": "تاجرونة",
+     "post_code": "3023"
+    },
+    {
+     "id": 87,
+     "name": "Taouiala",
+     "ar_name": "تاويالة",
+     "post_code": "3024"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "code": "DZ-04",
+   "name": "Oum El Bouaghi",
+   "ar_name": "أم البواقي",
+   "localities": [
+    {
+     "id": 88,
+     "name": "Ain Babouche",
+     "ar_name": "عين ببوش",
+     "post_code": "4001"
+    },
+    {
+     "id": 89,
+     "name": "Ain Beida",
+     "ar_name": "عين البيضاء",
+     "post_code": "4002"
+    },
+    {
+     "id": 90,
+     "name": "Ain Diss",
+     "ar_name": "عين الديس",
+     "post_code": "4003"
+    },
+    {
+     "id": 91,
+     "name": "Ain Fekroune",
+     "ar_name": "عين فكرون",
+     "post_code": "4004"
+    },
+    {
+     "id": 92,
+     "name": "Ain Kercha",
+     "ar_name": "عين كرشة",
+     "post_code": "4005"
+    },
+    {
+     "id": 93,
+     "name": "Ain M'lila",
+     "ar_name": "عين مليلة",
+     "post_code": "4006"
+    },
+    {
+     "id": 94,
+     "name": "Ain Zitoun",
+     "ar_name": "عين الزيتون",
+     "post_code": "4007"
+    },
+    {
+     "id": 95,
+     "name": "Behir Chergui",
+     "ar_name": "بحير الشرقي",
+     "post_code": "4008"
+    },
+    {
+     "id": 96,
+     "name": "Berriche",
+     "ar_name": "بريش",
+     "post_code": "4009"
+    },
+    {
+     "id": 97,
+     "name": "Bir Chouhada",
+     "ar_name": "بئر الشهداء",
+     "post_code": "4010"
+    },
+    {
+     "id": 98,
+     "name": "Dhala",
+     "ar_name": "الضلعة",
+     "post_code": "4011"
+    },
+    {
+     "id": 99,
+     "name": "El Amria",
+     "ar_name": "العامرية",
+     "post_code": "4012"
+    },
+    {
+     "id": 100,
+     "name": "El Belala",
+     "ar_name": "البلالة",
+     "post_code": "4013"
+    },
+    {
+     "id": 101,
+     "name": "El Djazia",
+     "ar_name": "الجازية",
+     "post_code": "4014"
+    },
+    {
+     "id": 102,
+     "name": "El Fedjoudj Boughrara Saoudi",
+     "ar_name": "الفجوج بوغرارة سعودي",
+     "post_code": "4015"
+    },
+    {
+     "id": 103,
+     "name": "El Harmilia",
+     "ar_name": "الحرملية",
+     "post_code": "4016"
+    },
+    {
+     "id": 104,
+     "name": "Fkirina",
+     "ar_name": "فكيرينة",
+     "post_code": "4017"
+    },
+    {
+     "id": 105,
+     "name": "Hanchir Toumghani",
+     "ar_name": "هنشير تومغني",
+     "post_code": "4018"
+    },
+    {
+     "id": 106,
+     "name": "Ksar Sbahi",
+     "ar_name": "قصر الصباحي",
+     "post_code": "4019"
+    },
+    {
+     "id": 107,
+     "name": "Meskiana",
+     "ar_name": "مسكيانة",
+     "post_code": "4020"
+    },
+    {
+     "id": 108,
+     "name": "Oued Nini",
+     "ar_name": "وادي نيني",
+     "post_code": "4021"
+    },
+    {
+     "id": 109,
+     "name": "Ouled Gacem",
+     "ar_name": "أولاد قاسم",
+     "post_code": "4022"
+    },
+    {
+     "id": 110,
+     "name": "Ouled Hamla",
+     "ar_name": "أولاد حملة",
+     "post_code": "4023"
+    },
+    {
+     "id": 111,
+     "name": "Ouled Zouai",
+     "ar_name": "أولاد زواي",
+     "post_code": "4024"
+    },
+    {
+     "id": 112,
+     "name": "Oum El Bouaghi",
+     "ar_name": "أم البواقي",
+     "post_code": "4025"
+    },
+    {
+     "id": 113,
+     "name": "Rahia",
+     "ar_name": "الرحية",
+     "post_code": "4026"
+    },
+    {
+     "id": 114,
+     "name": "Sigus",
+     "ar_name": "سيقوس",
+     "post_code": "4027"
+    },
+    {
+     "id": 115,
+     "name": "Souk Naamane",
+     "ar_name": "سوق نعمان",
+     "post_code": "4028"
+    },
+    {
+     "id": 116,
+     "name": "Zorg",
+     "ar_name": "الزرق",
+     "post_code": "4029"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "code": "DZ-05",
+   "name": "Batna",
+   "ar_name": "باتنة",
+   "localities": [
+    {
+     "id": 117,
+     "name": "Ain Djasser",
+     "ar_name": "عين جاسر",
+     "post_code": "5001"
+    },
+    {
+     "id": 118,
+     "name": "Ain Touta",
+     "ar_name": "عين التوتة",
+     "post_code": "5002"
+    },
+    {
+     "id": 119,
+     "name": "Ain Yagout",
+     "ar_name": "عين ياقوت",
+     "post_code": "5003"
+    },
+    {
+     "id": 120,
+     "name": "Arris",
+     "ar_name": "أريس",
+     "post_code": "5004"
+    },
+    {
+     "id": 121,
+     "name": "Metkaouak",
+     "ar_name": "عزيل عبد القادر",
+     "post_code": "5005"
+    },
+    {
+     "id": 122,
+     "name": "Barika",
+     "ar_name": "بريكة",
+     "post_code": "5006"
+    },
+    {
+     "id": 123,
+     "name": "Batna",
+     "ar_name": "باتنة",
+     "post_code": "5007"
+    },
+    {
+     "id": 124,
+     "name": "Beni Foudhala El Hakania",
+     "ar_name": "بني فضالة الحقانية",
+     "post_code": "5008"
+    },
+    {
+     "id": 125,
+     "name": "Bitam",
+     "ar_name": "بيطام",
+     "post_code": "5009"
+    },
+    {
+     "id": 126,
+     "name": "Boulhilat",
+     "ar_name": "بولهيلات",
+     "post_code": "5010"
+    },
+    {
+     "id": 127,
+     "name": "Boumagueur",
+     "ar_name": "بومقر",
+     "post_code": "5011"
+    },
+    {
+     "id": 128,
+     "name": "Boumia",
+     "ar_name": "بومية",
+     "post_code": "5012"
+    },
+    {
+     "id": 129,
+     "name": "Bouzina",
+     "ar_name": "بوزينة",
+     "post_code": "5013"
+    },
+    {
+     "id": 130,
+     "name": "Chemora",
+     "ar_name": "الشمرة",
+     "post_code": "5014"
+    },
+    {
+     "id": 131,
+     "name": "Chir",
+     "ar_name": "شير",
+     "post_code": "5015"
+    },
+    {
+     "id": 132,
+     "name": "Djerma",
+     "ar_name": "جرمة",
+     "post_code": "5016"
+    },
+    {
+     "id": 133,
+     "name": "Djezzar",
+     "ar_name": "الجزار",
+     "post_code": "5017"
+    },
+    {
+     "id": 134,
+     "name": "El Hassi",
+     "ar_name": "الحاسي",
+     "post_code": "5018"
+    },
+    {
+     "id": 135,
+     "name": "El Madher",
+     "ar_name": "المعذر",
+     "post_code": "5019"
+    },
+    {
+     "id": 136,
+     "name": "Fesdis",
+     "ar_name": "فسديس",
+     "post_code": "5020"
+    },
+    {
+     "id": 137,
+     "name": "Foum Toub",
+     "ar_name": "فم الطوب",
+     "post_code": "5021"
+    },
+    {
+     "id": 138,
+     "name": "Ghassira",
+     "ar_name": "غسيرة",
+     "post_code": "5022"
+    },
+    {
+     "id": 139,
+     "name": "Gosbat",
+     "ar_name": "القصبات",
+     "post_code": "5023"
+    },
+    {
+     "id": 140,
+     "name": "Guigba",
+     "ar_name": "القيقبة",
+     "post_code": "5024"
+    },
+    {
+     "id": 141,
+     "name": "Hidoussa",
+     "ar_name": "حيدوسة",
+     "post_code": "5025"
+    },
+    {
+     "id": 142,
+     "name": "Ichmoul",
+     "ar_name": "إشمول",
+     "post_code": "5026"
+    },
+    {
+     "id": 143,
+     "name": "Inoughissen",
+     "ar_name": "إينوغيسن",
+     "post_code": "5027"
+    },
+    {
+     "id": 144,
+     "name": "Kimmel",
+     "ar_name": "كيمل",
+     "post_code": "5028"
+    },
+    {
+     "id": 145,
+     "name": "Ksar Belezma",
+     "ar_name": "قصر بلزمة",
+     "post_code": "5029"
+    },
+    {
+     "id": 146,
+     "name": "Larbaa",
+     "ar_name": "لارباع",
+     "post_code": "5030"
+    },
+    {
+     "id": 147,
+     "name": "Lazrou",
+     "ar_name": "لازرو",
+     "post_code": "5031"
+    },
+    {
+     "id": 148,
+     "name": "Lemsane",
+     "ar_name": "لمسان",
+     "post_code": "5032"
+    },
+    {
+     "id": 149,
+     "name": "M'doukel",
+     "ar_name": "إمدوكل",
+     "post_code": "5033"
+    },
+    {
+     "id": 150,
+     "name": "Maafa",
+     "ar_name": "معافة",
+     "post_code": "5034"
+    },
+    {
+     "id": 151,
+     "name": "Menaa",
+     "ar_name": "منعة",
+     "post_code": "5035"
+    },
+    {
+     "id": 152,
+     "name": "Merouana",
+     "ar_name": "مروانة",
+     "post_code": "5036"
+    },
+    {
+     "id": 153,
+     "name": "Ngaous",
+     "ar_name": "نقاوس",
+     "post_code": "5037"
+    },
+    {
+     "id": 154,
+     "name": "Oued Chaaba",
+     "ar_name": "وادي الشعبة",
+     "post_code": "5038"
+    },
+    {
+     "id": 155,
+     "name": "Oued El Ma",
+     "ar_name": "وادي الماء",
+     "post_code": "5039"
+    },
+    {
+     "id": 156,
+     "name": "Oued Taga",
+     "ar_name": "وادي الطاقة",
+     "post_code": "5040"
+    },
+    {
+     "id": 157,
+     "name": "Ouled Ammar",
+     "ar_name": "أولاد عمار",
+     "post_code": "5041"
+    },
+    {
+     "id": 158,
+     "name": "Ouled Aouf",
+     "ar_name": "أولاد عوف",
+     "post_code": "5042"
+    },
+    {
+     "id": 159,
+     "name": "Ouled Fadel",
+     "ar_name": "أولاد فاضل",
+     "post_code": "5043"
+    },
+    {
+     "id": 160,
+     "name": "Ouled Selam",
+     "ar_name": "أولاد سلام",
+     "post_code": "5044"
+    },
+    {
+     "id": 161,
+     "name": "Ouled Si Slimane",
+     "ar_name": "أولاد سي سليمان",
+     "post_code": "5045"
+    },
+    {
+     "id": 162,
+     "name": "Ouyoun El Assafir",
+     "ar_name": "عيون العصافير",
+     "post_code": "5046"
+    },
+    {
+     "id": 163,
+     "name": "Rahbat",
+     "ar_name": "الرحبات",
+     "post_code": "5047"
+    },
+    {
+     "id": 164,
+     "name": "Ras El Aioun",
+     "ar_name": "رأس العيون",
+     "post_code": "5048"
+    },
+    {
+     "id": 165,
+     "name": "Sefiane",
+     "ar_name": "سفيان",
+     "post_code": "5049"
+    },
+    {
+     "id": 166,
+     "name": "Seggana",
+     "ar_name": "سقانة",
+     "post_code": "5050"
+    },
+    {
+     "id": 167,
+     "name": "Seriana",
+     "ar_name": "سريانة",
+     "post_code": "5051"
+    },
+    {
+     "id": 168,
+     "name": "Tkout",
+     "ar_name": "تكوت",
+     "post_code": "5052"
+    },
+    {
+     "id": 169,
+     "name": "Talkhamt",
+     "ar_name": "تالخمت",
+     "post_code": "5053"
+    },
+    {
+     "id": 170,
+     "name": "Taxlent",
+     "ar_name": "تاكسلانت",
+     "post_code": "5054"
+    },
+    {
+     "id": 171,
+     "name": "Tazoult",
+     "ar_name": "تازولت",
+     "post_code": "5055"
+    },
+    {
+     "id": 172,
+     "name": "Teniet El Abed",
+     "ar_name": "ثنية العابد",
+     "post_code": "5056"
+    },
+    {
+     "id": 173,
+     "name": "Tighanimine",
+     "ar_name": "تيغانمين",
+     "post_code": "5057"
+    },
+    {
+     "id": 174,
+     "name": "Tigherghar",
+     "ar_name": "تغرغار",
+     "post_code": "5058"
+    },
+    {
+     "id": 175,
+     "name": "Tilatou",
+     "ar_name": "تيلاطو",
+     "post_code": "5059"
+    },
+    {
+     "id": 176,
+     "name": "Timgad",
+     "ar_name": "تيمقاد",
+     "post_code": "5060"
+    },
+    {
+     "id": 177,
+     "name": "Zanat El Beida",
+     "ar_name": "زانة البيضاء",
+     "post_code": "5061"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "code": "DZ-06",
+   "name": "Béjaïa",
+   "ar_name": "بجاية",
+   "localities": [
+    {
+     "id": 178,
+     "name": "Adekar",
+     "ar_name": "أدكار",
+     "post_code": "6001"
+    },
+    {
+     "id": 179,
+     "name": "Ait R'zine",
+     "ar_name": "أيت رزين",
+     "post_code": "6002"
+    },
+    {
+     "id": 180,
+     "name": "Ait Smail",
+     "ar_name": "أيت إسماعيل",
+     "post_code": "6003"
+    },
+    {
+     "id": 181,
+     "name": "Akbou",
+     "ar_name": "أقبو",
+     "post_code": "6004"
+    },
+    {
+     "id": 182,
+     "name": "Akfadou",
+     "ar_name": "أكفادو",
+     "post_code": "6005"
+    },
+    {
+     "id": 183,
+     "name": "Amalou",
+     "ar_name": "أمالو",
+     "post_code": "6006"
+    },
+    {
+     "id": 184,
+     "name": "Amizour",
+     "ar_name": "أميزور",
+     "post_code": "6007"
+    },
+    {
+     "id": 185,
+     "name": "Aokas",
+     "ar_name": "أوقاس",
+     "post_code": "6008"
+    },
+    {
+     "id": 186,
+     "name": "Barbacha",
+     "ar_name": "برباشة",
+     "post_code": "6009"
+    },
+    {
+     "id": 187,
+     "name": "Bejaia",
+     "ar_name": "بجاية",
+     "post_code": "6010"
+    },
+    {
+     "id": 188,
+     "name": "Ait Djellil",
+     "ar_name": "بني جليل",
+     "post_code": "6011"
+    },
+    {
+     "id": 189,
+     "name": "Beni Ksila",
+     "ar_name": "بني كسيلة",
+     "post_code": "6012"
+    },
+    {
+     "id": 190,
+     "name": "Beni Melikeche",
+     "ar_name": "بني مليكش",
+     "post_code": "6013"
+    },
+    {
+     "id": 191,
+     "name": "Beni Maouch",
+     "ar_name": "بني معوش",
+     "post_code": "6014"
+    },
+    {
+     "id": 192,
+     "name": "Boudjellil",
+     "ar_name": "بو جليل",
+     "post_code": "6015"
+    },
+    {
+     "id": 193,
+     "name": "Bouhamza",
+     "ar_name": "بوحمزة",
+     "post_code": "6016"
+    },
+    {
+     "id": 194,
+     "name": "Boukhelifa",
+     "ar_name": "بوخليفة",
+     "post_code": "6017"
+    },
+    {
+     "id": 195,
+     "name": "Chelata",
+     "ar_name": "شلاطة",
+     "post_code": "6018"
+    },
+    {
+     "id": 196,
+     "name": "Chemini",
+     "ar_name": "شميني",
+     "post_code": "6019"
+    },
+    {
+     "id": 197,
+     "name": "Darguina",
+     "ar_name": "درقينة",
+     "post_code": "6020"
+    },
+    {
+     "id": 198,
+     "name": "Draa Kaid",
+     "ar_name": "ذراع القايد",
+     "post_code": "6021"
+    },
+    {
+     "id": 199,
+     "name": "Leflaye",
+     "ar_name": "الفلاي",
+     "post_code": "6022"
+    },
+    {
+     "id": 200,
+     "name": "El Kseur",
+     "ar_name": "القصر",
+     "post_code": "6023"
+    },
+    {
+     "id": 201,
+     "name": "Ifelain Ilmathen",
+     "ar_name": "فناية الماثن",
+     "post_code": "6024"
+    },
+    {
+     "id": 202,
+     "name": "Ferraoun",
+     "ar_name": "فرعون",
+     "post_code": "6025"
+    },
+    {
+     "id": 203,
+     "name": "Ouzallaguen",
+     "ar_name": "أوزلاقن",
+     "post_code": "6026"
+    },
+    {
+     "id": 204,
+     "name": "Ighil Ali",
+     "ar_name": "إغيل علي",
+     "post_code": "6027"
+    },
+    {
+     "id": 205,
+     "name": "Ighram",
+     "ar_name": "اغرم",
+     "post_code": "6028"
+    },
+    {
+     "id": 206,
+     "name": "Kendira",
+     "ar_name": "كنديرة",
+     "post_code": "6029"
+    },
+    {
+     "id": 207,
+     "name": "Kherrata",
+     "ar_name": "خراطة",
+     "post_code": "6030"
+    },
+    {
+     "id": 208,
+     "name": "M'cisna",
+     "ar_name": "مسيسنة",
+     "post_code": "6031"
+    },
+    {
+     "id": 209,
+     "name": "Melbou",
+     "ar_name": "مالبو",
+     "post_code": "6032"
+    },
+    {
+     "id": 210,
+     "name": "Oued Ghir",
+     "ar_name": "وادي غير",
+     "post_code": "6033"
+    },
+    {
+     "id": 211,
+     "name": "Seddouk",
+     "ar_name": "صدوق",
+     "post_code": "6034"
+    },
+    {
+     "id": 212,
+     "name": "Sidi Ayad",
+     "ar_name": "سيدي عياد",
+     "post_code": "6035"
+    },
+    {
+     "id": 213,
+     "name": "Sidi Aich",
+     "ar_name": "سيدي عيش",
+     "post_code": "6036"
+    },
+    {
+     "id": 214,
+     "name": "Semaoun",
+     "ar_name": "سمعون",
+     "post_code": "6037"
+    },
+    {
+     "id": 215,
+     "name": "Souk El Thenine",
+     "ar_name": "سوق لإثنين",
+     "post_code": "6038"
+    },
+    {
+     "id": 216,
+     "name": "Souk Oufella",
+     "ar_name": "سوق اوفلا",
+     "post_code": "6039"
+    },
+    {
+     "id": 217,
+     "name": "Tala Hamza",
+     "ar_name": "تالة حمزة",
+     "post_code": "6040"
+    },
+    {
+     "id": 218,
+     "name": "Tamokra",
+     "ar_name": "تامقرة",
+     "post_code": "6041"
+    },
+    {
+     "id": 219,
+     "name": "Tamridjet",
+     "ar_name": "تامريجت",
+     "post_code": "6042"
+    },
+    {
+     "id": 220,
+     "name": "Taourirt Ighil",
+     "ar_name": "تاوريرت إغيل",
+     "post_code": "6043"
+    },
+    {
+     "id": 221,
+     "name": "Taskriout",
+     "ar_name": "تاسكريوت",
+     "post_code": "6044"
+    },
+    {
+     "id": 222,
+     "name": "Tazmalt",
+     "ar_name": "تازمالت",
+     "post_code": "6045"
+    },
+    {
+     "id": 223,
+     "name": "Tibane",
+     "ar_name": "طيبان",
+     "post_code": "6046"
+    },
+    {
+     "id": 224,
+     "name": "Tichi",
+     "ar_name": "تيشي",
+     "post_code": "6047"
+    },
+    {
+     "id": 225,
+     "name": "Tifra",
+     "ar_name": "تيفرة",
+     "post_code": "6048"
+    },
+    {
+     "id": 226,
+     "name": "Timezrit",
+     "ar_name": "تيمزريت",
+     "post_code": "6049"
+    },
+    {
+     "id": 227,
+     "name": "Thinabdher",
+     "ar_name": "تينبدار",
+     "post_code": "6050"
+    },
+    {
+     "id": 228,
+     "name": "Tizi N'berber",
+     "ar_name": "تيزي نبربر",
+     "post_code": "6051"
+    },
+    {
+     "id": 229,
+     "name": "Toudja",
+     "ar_name": "توجة",
+     "post_code": "6052"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "code": "DZ-07",
+   "name": "Biskra",
+   "ar_name": "بسكرة",
+   "localities": [
+    {
+     "id": 230,
+     "name": "Ain Naga",
+     "ar_name": "عين الناقة",
+     "post_code": "7001"
+    },
+    {
+     "id": 231,
+     "name": "Ain Zaatout",
+     "ar_name": "عين زعطوط",
+     "post_code": "7002"
+    },
+    {
+     "id": 233,
+     "name": "Biskra",
+     "ar_name": "بسكرة",
+     "post_code": "7003"
+    },
+    {
+     "id": 234,
+     "name": "Bordj Ben Azzouz",
+     "ar_name": "برج بن عزوز",
+     "post_code": "7004"
+    },
+    {
+     "id": 235,
+     "name": "Bouchagroun",
+     "ar_name": "بوشقرون",
+     "post_code": "7005"
+    },
+    {
+     "id": 236,
+     "name": "Branis",
+     "ar_name": "برانيس",
+     "post_code": "7006"
+    },
+    {
+     "id": 238,
+     "name": "Chetma",
+     "ar_name": "شتمة",
+     "post_code": "7007"
+    },
+    {
+     "id": 239,
+     "name": "Djemorah",
+     "ar_name": "جمورة",
+     "post_code": "7008"
+    },
+    {
+     "id": 241,
+     "name": "Ain Fekka",
+     "ar_name": "الفيض",
+     "post_code": "7009"
+    },
+    {
+     "id": 242,
+     "name": "El Ghrous",
+     "ar_name": "الغروس",
+     "post_code": "7010"
+    },
+    {
+     "id": 243,
+     "name": "El Hadjab",
+     "ar_name": "الحاجب",
+     "post_code": "7011"
+    },
+    {
+     "id": 244,
+     "name": "El Haouch",
+     "ar_name": "الحوش",
+     "post_code": "7012"
+    },
+    {
+     "id": 245,
+     "name": "El Kantara",
+     "ar_name": "القنطرة",
+     "post_code": "7013"
+    },
+    {
+     "id": 246,
+     "name": "El Outaya",
+     "ar_name": "الوطاية",
+     "post_code": "7014"
+    },
+    {
+     "id": 247,
+     "name": "Foughala",
+     "ar_name": "فوغالة",
+     "post_code": "7015"
+    },
+    {
+     "id": 248,
+     "name": "Khanguet Sidinadji",
+     "ar_name": "خنقة سيدي ناجي",
+     "post_code": "7016"
+    },
+    {
+     "id": 249,
+     "name": "Lichana",
+     "ar_name": "ليشانة",
+     "post_code": "7017"
+    },
+    {
+     "id": 250,
+     "name": "Lioua",
+     "ar_name": "ليوة",
+     "post_code": "7018"
+    },
+    {
+     "id": 251,
+     "name": "Mchouneche",
+     "ar_name": "مشونش",
+     "post_code": "7019"
+    },
+    {
+     "id": 252,
+     "name": "Mekhadma",
+     "ar_name": "مخادمة",
+     "post_code": "7020"
+    },
+    {
+     "id": 253,
+     "name": "M'ziraa",
+     "ar_name": "المزيرعة",
+     "post_code": "7021"
+    },
+    {
+     "id": 254,
+     "name": "M'lili",
+     "ar_name": "مليلي",
+     "post_code": "7022"
+    },
+    {
+     "id": 256,
+     "name": "Oumache",
+     "ar_name": "أوماش",
+     "post_code": "7023"
+    },
+    {
+     "id": 257,
+     "name": "Ourlal",
+     "ar_name": "أورلال",
+     "post_code": "7024"
+    },
+    {
+     "id": 260,
+     "name": "Sidi Okba",
+     "ar_name": "سيدي عقبة",
+     "post_code": "7025"
+    },
+    {
+     "id": 261,
+     "name": "Tolga",
+     "ar_name": "طولقة",
+     "post_code": "7026"
+    },
+    {
+     "id": 262,
+     "name": "Zeribet El Oued",
+     "ar_name": "زريبة الوادي",
+     "post_code": "7027"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "code": "DZ-08",
+   "name": "Béchar",
+   "ar_name": "بشار",
+   "localities": [
+    {
+     "id": 263,
+     "name": "Abadla",
+     "ar_name": "العبادلة",
+     "post_code": "8001"
+    },
+    {
+     "id": 264,
+     "name": "Bechar",
+     "ar_name": "بشار",
+     "post_code": "8002"
+    },
+    {
+     "id": 267,
+     "name": "Beni Ounif",
+     "ar_name": "بني ونيف",
+     "post_code": "8003"
+    },
+    {
+     "id": 268,
+     "name": "Boukais",
+     "ar_name": "بوكايس",
+     "post_code": "8004"
+    },
+    {
+     "id": 270,
+     "name": "Erg Ferradj",
+     "ar_name": "عرق فراج",
+     "post_code": "8005"
+    },
+    {
+     "id": 272,
+     "name": "Kenedsa",
+     "ar_name": "القنادسة",
+     "post_code": "8006"
+    },
+    {
+     "id": 275,
+     "name": "Lahmar",
+     "ar_name": "لحمر",
+     "post_code": "8007"
+    },
+    {
+     "id": 276,
+     "name": "Mechraa Houari Boumedienne",
+     "ar_name": "مشرع هواري بومدين",
+     "post_code": "8008"
+    },
+    {
+     "id": 277,
+     "name": "Meridja",
+     "ar_name": "المريجة",
+     "post_code": "8009"
+    },
+    {
+     "id": 278,
+     "name": "Mogheul",
+     "ar_name": "موغل",
+     "post_code": "8010"
+    },
+    {
+     "id": 280,
+     "name": "Tabalbala",
+     "ar_name": "تبلبالة",
+     "post_code": "8011"
+    },
+    {
+     "id": 281,
+     "name": "Taghit",
+     "ar_name": "تاغيت",
+     "post_code": "8012"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "code": "DZ-09",
+   "name": "Blida",
+   "ar_name": "البليدة",
+   "localities": [
+    {
+     "id": 284,
+     "name": "Ain Romana",
+     "ar_name": "عين الرمانة",
+     "post_code": "9001"
+    },
+    {
+     "id": 285,
+     "name": "Beni Mered",
+     "ar_name": "بني مراد",
+     "post_code": "9002"
+    },
+    {
+     "id": 286,
+     "name": "Beni Tamou",
+     "ar_name": "بني تامو",
+     "post_code": "9003"
+    },
+    {
+     "id": 287,
+     "name": "Ben Khlil",
+     "ar_name": "بن خليل",
+     "post_code": "9004"
+    },
+    {
+     "id": 288,
+     "name": "Blida",
+     "ar_name": "البليدة",
+     "post_code": "9005"
+    },
+    {
+     "id": 289,
+     "name": "Bouarfa",
+     "ar_name": "بوعرفة",
+     "post_code": "9006"
+    },
+    {
+     "id": 290,
+     "name": "Boufarik",
+     "ar_name": "بوفاريك",
+     "post_code": "9007"
+    },
+    {
+     "id": 291,
+     "name": "Bougara",
+     "ar_name": "بوقرة",
+     "post_code": "9008"
+    },
+    {
+     "id": 292,
+     "name": "Bouinan",
+     "ar_name": "بوعينان",
+     "post_code": "9009"
+    },
+    {
+     "id": 293,
+     "name": "Chebli",
+     "ar_name": "الشبلي",
+     "post_code": "9010"
+    },
+    {
+     "id": 294,
+     "name": "Chiffa",
+     "ar_name": "الشفة",
+     "post_code": "9011"
+    },
+    {
+     "id": 295,
+     "name": "Cheria",
+     "ar_name": "الشريعة",
+     "post_code": "9012"
+    },
+    {
+     "id": 296,
+     "name": "Djebabra",
+     "ar_name": "جبابرة",
+     "post_code": "9013"
+    },
+    {
+     "id": 297,
+     "name": "El Affroun",
+     "ar_name": "العفرون",
+     "post_code": "9014"
+    },
+    {
+     "id": 298,
+     "name": "Guerrouaou",
+     "ar_name": "قرواو",
+     "post_code": "9015"
+    },
+    {
+     "id": 299,
+     "name": "Hammam Melouane",
+     "ar_name": "حمام ملوان",
+     "post_code": "9016"
+    },
+    {
+     "id": 300,
+     "name": "El Arbaa",
+     "ar_name": "الأربعاء",
+     "post_code": "9017"
+    },
+    {
+     "id": 301,
+     "name": "Meftah",
+     "ar_name": "مفتاح",
+     "post_code": "9018"
+    },
+    {
+     "id": 302,
+     "name": "Mouzaia",
+     "ar_name": "موزاية",
+     "post_code": "9019"
+    },
+    {
+     "id": 303,
+     "name": "Oued Djer",
+     "ar_name": "وادي جر",
+     "post_code": "9020"
+    },
+    {
+     "id": 304,
+     "name": "Oued El Alleug",
+     "ar_name": "وادي العلايق",
+     "post_code": "9021"
+    },
+    {
+     "id": 305,
+     "name": "Ouled Selama",
+     "ar_name": "اولاد سلامة",
+     "post_code": "9022"
+    },
+    {
+     "id": 306,
+     "name": "Ouled Yaich",
+     "ar_name": "أولاد يعيش",
+     "post_code": "9023"
+    },
+    {
+     "id": 307,
+     "name": "Souhane",
+     "ar_name": "صوحان",
+     "post_code": "9024"
+    },
+    {
+     "id": 308,
+     "name": "Soumaa",
+     "ar_name": "الصومعة",
+     "post_code": "9025"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "code": "DZ-10",
+   "name": "Bouira",
+   "ar_name": "البويرة",
+   "localities": [
+    {
+     "id": 309,
+     "name": "Aghbalou",
+     "ar_name": "أغبالو",
+     "post_code": "10001"
+    },
+    {
+     "id": 310,
+     "name": "Ahl El Ksar",
+     "ar_name": "أهل القصر",
+     "post_code": "10002"
+    },
+    {
+     "id": 311,
+     "name": "Ain El Hadjar",
+     "ar_name": "عين الحجر",
+     "post_code": "10003"
+    },
+    {
+     "id": 312,
+     "name": "Ain Laloui",
+     "ar_name": "عين العلوي",
+     "post_code": "10004"
+    },
+    {
+     "id": 313,
+     "name": "Ain El Turk",
+     "ar_name": "عين الترك",
+     "post_code": "10005"
+    },
+    {
+     "id": 314,
+     "name": "Ain Bessam",
+     "ar_name": "عين بسام",
+     "post_code": "10006"
+    },
+    {
+     "id": 315,
+     "name": "Ait Laaziz",
+     "ar_name": "أيت لعزيز",
+     "post_code": "10007"
+    },
+    {
+     "id": 316,
+     "name": "Aomar",
+     "ar_name": "أعمر",
+     "post_code": "10008"
+    },
+    {
+     "id": 317,
+     "name": "Bechloul",
+     "ar_name": "بشلول",
+     "post_code": "10009"
+    },
+    {
+     "id": 318,
+     "name": "Bir Ghbalou",
+     "ar_name": "بئر غبالو",
+     "post_code": "10010"
+    },
+    {
+     "id": 319,
+     "name": "Bordj Oukhriss",
+     "ar_name": "برج أوخريص",
+     "post_code": "10011"
+    },
+    {
+     "id": 320,
+     "name": "Bouderbala",
+     "ar_name": "بودربالة",
+     "post_code": "10012"
+    },
+    {
+     "id": 321,
+     "name": "Bouira",
+     "ar_name": "البويرة",
+     "post_code": "10013"
+    },
+    {
+     "id": 322,
+     "name": "Boukram",
+     "ar_name": "بوكرم",
+     "post_code": "10014"
+    },
+    {
+     "id": 323,
+     "name": "Chorfa",
+     "ar_name": "شرفة",
+     "post_code": "10015"
+    },
+    {
+     "id": 324,
+     "name": "Dechmia",
+     "ar_name": "الدشمية",
+     "post_code": "10016"
+    },
+    {
+     "id": 325,
+     "name": "Dirah",
+     "ar_name": "ديرة",
+     "post_code": "10017"
+    },
+    {
+     "id": 326,
+     "name": "Djebahia",
+     "ar_name": "جباحية",
+     "post_code": "10018"
+    },
+    {
+     "id": 327,
+     "name": "El Adjiba",
+     "ar_name": "العجيبة",
+     "post_code": "10019"
+    },
+    {
+     "id": 328,
+     "name": "El Asnam",
+     "ar_name": "الأسنام",
+     "post_code": "10020"
+    },
+    {
+     "id": 329,
+     "name": "El Hachimia",
+     "ar_name": "الهاشمية",
+     "post_code": "10021"
+    },
+    {
+     "id": 330,
+     "name": "El Khebouzia",
+     "ar_name": "الخبوزية",
+     "post_code": "10022"
+    },
+    {
+     "id": 331,
+     "name": "El Hakimia",
+     "ar_name": "الحاكمية",
+     "post_code": "10023"
+    },
+    {
+     "id": 332,
+     "name": "El Mokrani",
+     "ar_name": "المقراني",
+     "post_code": "10024"
+    },
+    {
+     "id": 333,
+     "name": "Guerrouma",
+     "ar_name": "قرومة",
+     "post_code": "10025"
+    },
+    {
+     "id": 334,
+     "name": "Hadjera Zerga",
+     "ar_name": "الحجرة الزرقاء",
+     "post_code": "10026"
+    },
+    {
+     "id": 335,
+     "name": "Haizer",
+     "ar_name": "حيزر",
+     "post_code": "10027"
+    },
+    {
+     "id": 336,
+     "name": "Hanif",
+     "ar_name": "حنيف",
+     "post_code": "10028"
+    },
+    {
+     "id": 337,
+     "name": "Kadiria",
+     "ar_name": "قادرية",
+     "post_code": "10029"
+    },
+    {
+     "id": 338,
+     "name": "Lakhdharia",
+     "ar_name": "الأخضرية",
+     "post_code": "10030"
+    },
+    {
+     "id": 339,
+     "name": "Mchedallah",
+     "ar_name": "أمشدالة",
+     "post_code": "10031"
+    },
+    {
+     "id": 340,
+     "name": "Maala",
+     "ar_name": "معلة",
+     "post_code": "10032"
+    },
+    {
+     "id": 341,
+     "name": "El Maamora",
+     "ar_name": "المعمورة",
+     "post_code": "10033"
+    },
+    {
+     "id": 342,
+     "name": "Mezdour",
+     "ar_name": "مزدور",
+     "post_code": "10034"
+    },
+    {
+     "id": 343,
+     "name": "Oued El Bardi",
+     "ar_name": "وادي البردي",
+     "post_code": "10035"
+    },
+    {
+     "id": 344,
+     "name": "Ouled Rached",
+     "ar_name": "أولاد راشد",
+     "post_code": "10036"
+    },
+    {
+     "id": 345,
+     "name": "Raouraoua",
+     "ar_name": "روراوة",
+     "post_code": "10037"
+    },
+    {
+     "id": 346,
+     "name": "Ridane",
+     "ar_name": "ريدان",
+     "post_code": "10038"
+    },
+    {
+     "id": 347,
+     "name": "Saharidj",
+     "ar_name": "سحاريج",
+     "post_code": "10039"
+    },
+    {
+     "id": 348,
+     "name": "Souk El Khemis",
+     "ar_name": "سوق الخميس",
+     "post_code": "10040"
+    },
+    {
+     "id": 349,
+     "name": "Sour El Ghozlane",
+     "ar_name": "سور الغزلان",
+     "post_code": "10041"
+    },
+    {
+     "id": 350,
+     "name": "Taghzout",
+     "ar_name": "تاغزوت",
+     "post_code": "10042"
+    },
+    {
+     "id": 351,
+     "name": "Taguedit",
+     "ar_name": "تاقديت",
+     "post_code": "10043"
+    },
+    {
+     "id": 352,
+     "name": "Ath Mansour",
+     "ar_name": "آث  منصور",
+     "post_code": "10044"
+    },
+    {
+     "id": 353,
+     "name": "Zbarbar",
+     "ar_name": "زبربر",
+     "post_code": "10045"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "code": "DZ-11",
+   "name": "Tamanrasset",
+   "ar_name": "تمنراست",
+   "localities": [
+    {
+     "id": 354,
+     "name": "Abalessa",
+     "ar_name": "ابلسة",
+     "post_code": "11001"
+    },
+    {
+     "id": 355,
+     "name": "In Amguel",
+     "ar_name": "عين امقل",
+     "post_code": "11002"
+    },
+    {
+     "id": 359,
+     "name": "Idles",
+     "ar_name": "أدلس",
+     "post_code": "11003"
+    },
+    {
+     "id": 361,
+     "name": "Tamanghasset",
+     "ar_name": "تمنراست",
+     "post_code": "11004"
+    },
+    {
+     "id": 362,
+     "name": "Tazouk",
+     "ar_name": "تاظروك",
+     "post_code": "11005"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "code": "DZ-12",
+   "name": "Tébessa",
+   "ar_name": "تبسة",
+   "localities": [
+    {
+     "id": 364,
+     "name": "Ain Zerga",
+     "ar_name": "عين الزرقاء",
+     "post_code": "12001"
+    },
+    {
+     "id": 365,
+     "name": "Bedjene",
+     "ar_name": "بجن",
+     "post_code": "12002"
+    },
+    {
+     "id": 366,
+     "name": "Bekkaria",
+     "ar_name": "بكارية",
+     "post_code": "12003"
+    },
+    {
+     "id": 367,
+     "name": "Bir Dheb",
+     "ar_name": "بئر الذهب",
+     "post_code": "12004"
+    },
+    {
+     "id": 368,
+     "name": "Bir El Mokadem",
+     "ar_name": "بئر مقدم",
+     "post_code": "12005"
+    },
+    {
+     "id": 369,
+     "name": "Bir El Ater",
+     "ar_name": "بئر العاتر",
+     "post_code": "12006"
+    },
+    {
+     "id": 370,
+     "name": "Boukhadra",
+     "ar_name": "بوخضرة",
+     "post_code": "12007"
+    },
+    {
+     "id": 371,
+     "name": "Boulhaf Dyr",
+     "ar_name": "بولحاف الدير",
+     "post_code": "12008"
+    },
+    {
+     "id": 372,
+     "name": "Cheria",
+     "ar_name": "الشريعة",
+     "post_code": "12009"
+    },
+    {
+     "id": 373,
+     "name": "El Kouif",
+     "ar_name": "الكويف",
+     "post_code": "12010"
+    },
+    {
+     "id": 374,
+     "name": "El Ma El Biodh",
+     "ar_name": "الماء الابيض",
+     "post_code": "12011"
+    },
+    {
+     "id": 375,
+     "name": "El Meridj",
+     "ar_name": "المريج",
+     "post_code": "12012"
+    },
+    {
+     "id": 376,
+     "name": "El Mazeraa",
+     "ar_name": "المزرعة",
+     "post_code": "12013"
+    },
+    {
+     "id": 377,
+     "name": "El Ogla",
+     "ar_name": "العقلة",
+     "post_code": "12014"
+    },
+    {
+     "id": 378,
+     "name": "El Ogla El Malia",
+     "ar_name": "العقلة المالحة",
+     "post_code": "12015"
+    },
+    {
+     "id": 379,
+     "name": "El Ouinet",
+     "ar_name": "العوينات",
+     "post_code": "12016"
+    },
+    {
+     "id": 380,
+     "name": "Lahouidjbet",
+     "ar_name": "الحويجبات",
+     "post_code": "12017"
+    },
+    {
+     "id": 381,
+     "name": "Ferkane",
+     "ar_name": "فركان",
+     "post_code": "12018"
+    },
+    {
+     "id": 382,
+     "name": "Gorriguer",
+     "ar_name": "قريقر",
+     "post_code": "12019"
+    },
+    {
+     "id": 383,
+     "name": "El Hammamet",
+     "ar_name": "الحمامات",
+     "post_code": "12020"
+    },
+    {
+     "id": 384,
+     "name": "Morsott",
+     "ar_name": "مرسط",
+     "post_code": "12021"
+    },
+    {
+     "id": 385,
+     "name": "Negrine",
+     "ar_name": "نقرين",
+     "post_code": "12022"
+    },
+    {
+     "id": 386,
+     "name": "Ouenza",
+     "ar_name": "الونزة",
+     "post_code": "12023"
+    },
+    {
+     "id": 387,
+     "name": "Oum Ali",
+     "ar_name": "أم علي",
+     "post_code": "12024"
+    },
+    {
+     "id": 388,
+     "name": "Safsaf El Ouesra",
+     "ar_name": "صفصاف الوسرى",
+     "post_code": "12025"
+    },
+    {
+     "id": 389,
+     "name": "Stah Guentis",
+     "ar_name": "سطح قنطيس",
+     "post_code": "12026"
+    },
+    {
+     "id": 390,
+     "name": "Tebessa",
+     "ar_name": "تبسة",
+     "post_code": "12027"
+    },
+    {
+     "id": 391,
+     "name": "Tlidjene",
+     "ar_name": "ثليجان",
+     "post_code": "12028"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "code": "DZ-13",
+   "name": "Tlemcen",
+   "ar_name": "تلمسان",
+   "localities": [
+    {
+     "id": 392,
+     "name": "Ain Fetah",
+     "ar_name": "عين فتاح",
+     "post_code": "13001"
+    },
+    {
+     "id": 393,
+     "name": "Ain Fezza",
+     "ar_name": "عين فزة",
+     "post_code": "13002"
+    },
+    {
+     "id": 394,
+     "name": "Ain Ghoraba",
+     "ar_name": "عين غرابة",
+     "post_code": "13003"
+    },
+    {
+     "id": 395,
+     "name": "Ain El Kebira",
+     "ar_name": "عين الكبيرة",
+     "post_code": "13004"
+    },
+    {
+     "id": 396,
+     "name": "Ain Nehala",
+     "ar_name": "عين النحالة",
+     "post_code": "13005"
+    },
+    {
+     "id": 397,
+     "name": "Ain Tallout",
+     "ar_name": "عين تالوت",
+     "post_code": "13006"
+    },
+    {
+     "id": 398,
+     "name": "Ain Youcef",
+     "ar_name": "عين يوسف",
+     "post_code": "13007"
+    },
+    {
+     "id": 399,
+     "name": "Amieur",
+     "ar_name": "عمير",
+     "post_code": "13008"
+    },
+    {
+     "id": 400,
+     "name": "Bab El Assa",
+     "ar_name": "باب العسة",
+     "post_code": "13009"
+    },
+    {
+     "id": 401,
+     "name": "Beni Bahdel",
+     "ar_name": "بني بهدل",
+     "post_code": "13010"
+    },
+    {
+     "id": 402,
+     "name": "Beni Boussaid",
+     "ar_name": "بني بوسعيد",
+     "post_code": "13011"
+    },
+    {
+     "id": 403,
+     "name": "Beni Khalad",
+     "ar_name": "بني خلاد",
+     "post_code": "13012"
+    },
+    {
+     "id": 404,
+     "name": "Beni Mester",
+     "ar_name": "بني مستر",
+     "post_code": "13013"
+    },
+    {
+     "id": 405,
+     "name": "Beni Ouarsous",
+     "ar_name": "بني وارسوس",
+     "post_code": "13014"
+    },
+    {
+     "id": 406,
+     "name": "Beni Semiel",
+     "ar_name": "بني صميل",
+     "post_code": "13015"
+    },
+    {
+     "id": 407,
+     "name": "Beni Snous",
+     "ar_name": "بني سنوس",
+     "post_code": "13016"
+    },
+    {
+     "id": 408,
+     "name": "Bensekrane",
+     "ar_name": "بن سكران",
+     "post_code": "13017"
+    },
+    {
+     "id": 409,
+     "name": "Bouhlou",
+     "ar_name": "بوحلو",
+     "post_code": "13018"
+    },
+    {
+     "id": 410,
+     "name": "El Bouihi",
+     "ar_name": "البويهي",
+     "post_code": "13019"
+    },
+    {
+     "id": 411,
+     "name": "Chetouane",
+     "ar_name": "شتوان",
+     "post_code": "13020"
+    },
+    {
+     "id": 412,
+     "name": "Dar Yaghmouracene",
+     "ar_name": "دار يغمراسن",
+     "post_code": "13021"
+    },
+    {
+     "id": 413,
+     "name": "Djebala",
+     "ar_name": "جبالة",
+     "post_code": "13022"
+    },
+    {
+     "id": 414,
+     "name": "El Aricha",
+     "ar_name": "العريشة",
+     "post_code": "13023"
+    },
+    {
+     "id": 415,
+     "name": "Azails",
+     "ar_name": "العزايل",
+     "post_code": "13024"
+    },
+    {
+     "id": 416,
+     "name": "El Fehoul",
+     "ar_name": "الفحول",
+     "post_code": "13025"
+    },
+    {
+     "id": 417,
+     "name": "El Gor",
+     "ar_name": "القور",
+     "post_code": "13026"
+    },
+    {
+     "id": 418,
+     "name": "Fellaoucene",
+     "ar_name": "فلاوسن",
+     "post_code": "13027"
+    },
+    {
+     "id": 419,
+     "name": "Ghazaouet",
+     "ar_name": "الغزوات",
+     "post_code": "13028"
+    },
+    {
+     "id": 420,
+     "name": "Hammam Boughrara",
+     "ar_name": "حمام بوغرارة",
+     "post_code": "13029"
+    },
+    {
+     "id": 421,
+     "name": "Hennaya",
+     "ar_name": "الحناية",
+     "post_code": "13030"
+    },
+    {
+     "id": 422,
+     "name": "Honaine",
+     "ar_name": "هنين",
+     "post_code": "13031"
+    },
+    {
+     "id": 423,
+     "name": "Maghnia",
+     "ar_name": "مغنية",
+     "post_code": "13032"
+    },
+    {
+     "id": 424,
+     "name": "Mansourah",
+     "ar_name": "منصورة",
+     "post_code": "13033"
+    },
+    {
+     "id": 425,
+     "name": "Marsa Ben Mhidi",
+     "ar_name": "مرسى بن مهيدي",
+     "post_code": "13034"
+    },
+    {
+     "id": 426,
+     "name": "Msirda Fouaga",
+     "ar_name": "مسيردة الفواقة",
+     "post_code": "13035"
+    },
+    {
+     "id": 427,
+     "name": "Nedroma",
+     "ar_name": "ندرومة",
+     "post_code": "13036"
+    },
+    {
+     "id": 428,
+     "name": "Oued Chouly",
+     "ar_name": "وادي الخضر",
+     "post_code": "13037"
+    },
+    {
+     "id": 429,
+     "name": "Ouled Mimoun",
+     "ar_name": "أولاد ميمون",
+     "post_code": "13038"
+    },
+    {
+     "id": 430,
+     "name": "Ouled Riyah",
+     "ar_name": "أولاد رياح",
+     "post_code": "13039"
+    },
+    {
+     "id": 431,
+     "name": "Remchi",
+     "ar_name": "الرمشي",
+     "post_code": "13040"
+    },
+    {
+     "id": 432,
+     "name": "Sabra",
+     "ar_name": "صبرة",
+     "post_code": "13041"
+    },
+    {
+     "id": 433,
+     "name": "Sebbaa Chioukh",
+     "ar_name": "سبعة شيوخ",
+     "post_code": "13042"
+    },
+    {
+     "id": 434,
+     "name": "Sebdou",
+     "ar_name": "سبدو",
+     "post_code": "13043"
+    },
+    {
+     "id": 435,
+     "name": "Sidi Abdelli",
+     "ar_name": "سيدي العبدلي",
+     "post_code": "13044"
+    },
+    {
+     "id": 436,
+     "name": "Sidi Djillali",
+     "ar_name": "سيدي الجيلالي",
+     "post_code": "13045"
+    },
+    {
+     "id": 437,
+     "name": "Sidi Medjahed",
+     "ar_name": "سيدي مجاهد",
+     "post_code": "13046"
+    },
+    {
+     "id": 438,
+     "name": "Souahlia",
+     "ar_name": "السواحلية",
+     "post_code": "13047"
+    },
+    {
+     "id": 439,
+     "name": "Souani",
+     "ar_name": "السواني",
+     "post_code": "13048"
+    },
+    {
+     "id": 440,
+     "name": "Souk Thlata",
+     "ar_name": "سوق الثلاثاء",
+     "post_code": "13049"
+    },
+    {
+     "id": 441,
+     "name": "Terni Beni Hediel",
+     "ar_name": "تيرني بني هديل",
+     "post_code": "13050"
+    },
+    {
+     "id": 442,
+     "name": "Tianet",
+     "ar_name": "تيانت",
+     "post_code": "13051"
+    },
+    {
+     "id": 443,
+     "name": "Tlemcen",
+     "ar_name": "تلمسان",
+     "post_code": "13052"
+    },
+    {
+     "id": 444,
+     "name": "Zenata",
+     "ar_name": "زناتة",
+     "post_code": "13053"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "code": "DZ-14",
+   "name": "Tiaret",
+   "ar_name": "تيارت",
+   "localities": [
+    {
+     "id": 445,
+     "name": "Ain Bouchekif",
+     "ar_name": "عين بوشقيف",
+     "post_code": "14001"
+    },
+    {
+     "id": 446,
+     "name": "Ain Deheb",
+     "ar_name": "عين الذهب",
+     "post_code": "14002"
+    },
+    {
+     "id": 447,
+     "name": "Ain Zarit",
+     "ar_name": "عين دزاريت",
+     "post_code": "14003"
+    },
+    {
+     "id": 448,
+     "name": "Ain El Hadid",
+     "ar_name": "عين الحديد",
+     "post_code": "14004"
+    },
+    {
+     "id": 449,
+     "name": "Ain Kermes",
+     "ar_name": "عين كرمس",
+     "post_code": "14005"
+    },
+    {
+     "id": 450,
+     "name": "Bougara",
+     "ar_name": "بوقرة",
+     "post_code": "14006"
+    },
+    {
+     "id": 451,
+     "name": "Chehaima",
+     "ar_name": "شحيمة",
+     "post_code": "14007"
+    },
+    {
+     "id": 452,
+     "name": "Dahmouni",
+     "ar_name": "دحموني",
+     "post_code": "14008"
+    },
+    {
+     "id": 453,
+     "name": "Ouled Djerad",
+     "ar_name": "جبيلات الرصفاء",
+     "post_code": "14009"
+    },
+    {
+     "id": 454,
+     "name": "Djillali Ben Amar",
+     "ar_name": "جيلالي بن عمار",
+     "post_code": "14010"
+    },
+    {
+     "id": 455,
+     "name": "Faidja",
+     "ar_name": "الفايجة",
+     "post_code": "14011"
+    },
+    {
+     "id": 456,
+     "name": "Frenda",
+     "ar_name": "فرندة",
+     "post_code": "14012"
+    },
+    {
+     "id": 457,
+     "name": "Guertoufa",
+     "ar_name": "قرطوفة",
+     "post_code": "14013"
+    },
+    {
+     "id": 458,
+     "name": "Hamadia",
+     "ar_name": "حمادية",
+     "post_code": "14014"
+    },
+    {
+     "id": 459,
+     "name": "Ksar Chellala",
+     "ar_name": "قصر الشلالة",
+     "post_code": "14015"
+    },
+    {
+     "id": 460,
+     "name": "Madna",
+     "ar_name": "مادنة",
+     "post_code": "14016"
+    },
+    {
+     "id": 461,
+     "name": "Mahdia",
+     "ar_name": "مهدية",
+     "post_code": "14017"
+    },
+    {
+     "id": 462,
+     "name": "Mechraa Safa",
+     "ar_name": "مشرع الصفا",
+     "post_code": "14018"
+    },
+    {
+     "id": 463,
+     "name": "Medrissa",
+     "ar_name": "مدريسة",
+     "post_code": "14019"
+    },
+    {
+     "id": 464,
+     "name": "Medroussa",
+     "ar_name": "مدروسة",
+     "post_code": "14020"
+    },
+    {
+     "id": 465,
+     "name": "Meghila",
+     "ar_name": "مغيلة",
+     "post_code": "14021"
+    },
+    {
+     "id": 466,
+     "name": "Mellakou",
+     "ar_name": "ملاكو",
+     "post_code": "14022"
+    },
+    {
+     "id": 467,
+     "name": "Nadorah",
+     "ar_name": "الناظورة",
+     "post_code": "14023"
+    },
+    {
+     "id": 468,
+     "name": "Naima",
+     "ar_name": "النعيمة",
+     "post_code": "14024"
+    },
+    {
+     "id": 469,
+     "name": "Oued Lilli",
+     "ar_name": "وادي ليلي",
+     "post_code": "14025"
+    },
+    {
+     "id": 470,
+     "name": "Rahouia",
+     "ar_name": "الرحوية",
+     "post_code": "14026"
+    },
+    {
+     "id": 471,
+     "name": "Rechaiga",
+     "ar_name": "الرشايقة",
+     "post_code": "14027"
+    },
+    {
+     "id": 472,
+     "name": "Sebaine",
+     "ar_name": "السبعين",
+     "post_code": "14028"
+    },
+    {
+     "id": 473,
+     "name": "Es Sebt",
+     "ar_name": "السبت",
+     "post_code": "14029"
+    },
+    {
+     "id": 474,
+     "name": "Serghine",
+     "ar_name": "سرغين",
+     "post_code": "14030"
+    },
+    {
+     "id": 475,
+     "name": "Sidi Abdelghani",
+     "ar_name": "سي عبد الغني",
+     "post_code": "14031"
+    },
+    {
+     "id": 476,
+     "name": "Sidi Abderrahmane",
+     "ar_name": "سيدي عبد الرحمن",
+     "post_code": "14032"
+    },
+    {
+     "id": 477,
+     "name": "Sidi Ali Mellal",
+     "ar_name": "سيدي علي ملال",
+     "post_code": "14033"
+    },
+    {
+     "id": 478,
+     "name": "Sidi Bakhti",
+     "ar_name": "سيدي بختي",
+     "post_code": "14034"
+    },
+    {
+     "id": 479,
+     "name": "Sidi Hosni",
+     "ar_name": "سيدي حسني",
+     "post_code": "14035"
+    },
+    {
+     "id": 480,
+     "name": "Sougueur",
+     "ar_name": "السوقر",
+     "post_code": "14036"
+    },
+    {
+     "id": 481,
+     "name": "Tagdemt",
+     "ar_name": "تاقدمت",
+     "post_code": "14037"
+    },
+    {
+     "id": 482,
+     "name": "Takhemaret",
+     "ar_name": "تخمرت",
+     "post_code": "14038"
+    },
+    {
+     "id": 483,
+     "name": "Tiaret",
+     "ar_name": "تيارت",
+     "post_code": "14039"
+    },
+    {
+     "id": 484,
+     "name": "Tidda",
+     "ar_name": "تيدة",
+     "post_code": "14040"
+    },
+    {
+     "id": 485,
+     "name": "Tousnina",
+     "ar_name": "توسنينة",
+     "post_code": "14041"
+    },
+    {
+     "id": 486,
+     "name": "Zmalet El Emir Aek",
+     "ar_name": "زمالة  الأمير عبد القادر",
+     "post_code": "14042"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "code": "DZ-15",
+   "name": "Tizi Ouzou",
+   "ar_name": "تيزي وزو",
+   "localities": [
+    {
+     "id": 487,
+     "name": "Abi Youcef",
+     "ar_name": "أبي يوسف",
+     "post_code": "15001"
+    },
+    {
+     "id": 488,
+     "name": "Aghribs",
+     "ar_name": "أغريب",
+     "post_code": "15002"
+    },
+    {
+     "id": 489,
+     "name": "Agni Goughrane",
+     "ar_name": "أقني قغران",
+     "post_code": "15003"
+    },
+    {
+     "id": 490,
+     "name": "Ain El Hammam",
+     "ar_name": "عين الحمام",
+     "post_code": "15004"
+    },
+    {
+     "id": 491,
+     "name": "Ain Zaouia",
+     "ar_name": "عين الزاوية",
+     "post_code": "15005"
+    },
+    {
+     "id": 492,
+     "name": "Ait Ouaguenoun",
+     "ar_name": "أيت عقـواشة",
+     "post_code": "15006"
+    },
+    {
+     "id": 493,
+     "name": "Ait Boumahdi",
+     "ar_name": "أيت بــوادو",
+     "post_code": "15007"
+    },
+    {
+     "id": 494,
+     "name": "Ait Boumahdi",
+     "ar_name": "أيت بومهدي",
+     "post_code": "15008"
+    },
+    {
+     "id": 495,
+     "name": "Ait Khellili",
+     "ar_name": "أيت خليلي",
+     "post_code": "15009"
+    },
+    {
+     "id": 496,
+     "name": "Ait Yahia Moussa",
+     "ar_name": "أيت يحي موسى",
+     "post_code": "15010"
+    },
+    {
+     "id": 497,
+     "name": "Ait Aissa Mimoun",
+     "ar_name": "أيت عيسى ميمون",
+     "post_code": "15011"
+    },
+    {
+     "id": 498,
+     "name": "Ait Chaffaa",
+     "ar_name": "أيت شافع",
+     "post_code": "15012"
+    },
+    {
+     "id": 499,
+     "name": "Ait Mahmoud",
+     "ar_name": "أيت محمود",
+     "post_code": "15013"
+    },
+    {
+     "id": 500,
+     "name": "Ait Oumalou",
+     "ar_name": "أيت  أومالو",
+     "post_code": "15014"
+    },
+    {
+     "id": 501,
+     "name": "Ait Toudert",
+     "ar_name": "أيت تودرت",
+     "post_code": "15015"
+    },
+    {
+     "id": 502,
+     "name": "Ait Yahia",
+     "ar_name": "أيت يحيى",
+     "post_code": "15016"
+    },
+    {
+     "id": 503,
+     "name": "Akbil",
+     "ar_name": "اقبيل",
+     "post_code": "15017"
+    },
+    {
+     "id": 504,
+     "name": "Akerrou",
+     "ar_name": "أقرو",
+     "post_code": "15018"
+    },
+    {
+     "id": 505,
+     "name": "Assi Youcef",
+     "ar_name": "أسي يوسف",
+     "post_code": "15019"
+    },
+    {
+     "id": 506,
+     "name": "Azzazga",
+     "ar_name": "عزازقة",
+     "post_code": "15020"
+    },
+    {
+     "id": 507,
+     "name": "Azeffoun",
+     "ar_name": "أزفون",
+     "post_code": "15021"
+    },
+    {
+     "id": 508,
+     "name": "Beni Zmenzer",
+     "ar_name": "بنــــي زمنزار",
+     "post_code": "15022"
+    },
+    {
+     "id": 509,
+     "name": "Beni Aiss",
+     "ar_name": "بني عيسي",
+     "post_code": "15023"
+    },
+    {
+     "id": 510,
+     "name": "Beni Douala",
+     "ar_name": "بني دوالة",
+     "post_code": "15024"
+    },
+    {
+     "id": 511,
+     "name": "Beni Yenni",
+     "ar_name": "بني يني",
+     "post_code": "15025"
+    },
+    {
+     "id": 512,
+     "name": "Beni Ziki",
+     "ar_name": "بني زيكــي",
+     "post_code": "15026"
+    },
+    {
+     "id": 513,
+     "name": "Boughni",
+     "ar_name": "بوغني",
+     "post_code": "15027"
+    },
+    {
+     "id": 514,
+     "name": "Boudjima",
+     "ar_name": "بوجيمة",
+     "post_code": "15028"
+    },
+    {
+     "id": 515,
+     "name": "Bounouh",
+     "ar_name": "بونوح",
+     "post_code": "15029"
+    },
+    {
+     "id": 516,
+     "name": "Bouzeguene",
+     "ar_name": "بوزقــن",
+     "post_code": "15030"
+    },
+    {
+     "id": 517,
+     "name": "Draa Ben Khedda",
+     "ar_name": "ذراع بن خدة",
+     "post_code": "15031"
+    },
+    {
+     "id": 518,
+     "name": "Draa El Mizan",
+     "ar_name": "ذراع الميزان",
+     "post_code": "15032"
+    },
+    {
+     "id": 519,
+     "name": "Freha",
+     "ar_name": "فريحة",
+     "post_code": "15033"
+    },
+    {
+     "id": 520,
+     "name": "Frikat",
+     "ar_name": "فريقات",
+     "post_code": "15034"
+    },
+    {
+     "id": 521,
+     "name": "Ibourdaren",
+     "ar_name": "إبودرارن",
+     "post_code": "15035"
+    },
+    {
+     "id": 522,
+     "name": "Iferhounene",
+     "ar_name": "إيجــار",
+     "post_code": "15036"
+    },
+    {
+     "id": 523,
+     "name": "Iferhounen",
+     "ar_name": "إفــرحــونان",
+     "post_code": "15037"
+    },
+    {
+     "id": 524,
+     "name": "Iffigha",
+     "ar_name": "إيفيغاء",
+     "post_code": "15038"
+    },
+    {
+     "id": 525,
+     "name": "Iflis",
+     "ar_name": "إفليـــسن",
+     "post_code": "15039"
+    },
+    {
+     "id": 526,
+     "name": "Illilten",
+     "ar_name": "إيلـيــلتـن",
+     "post_code": "15040"
+    },
+    {
+     "id": 527,
+     "name": "Iloula Oumalou",
+     "ar_name": "إيلولة أومـــالو",
+     "post_code": "15041"
+    },
+    {
+     "id": 528,
+     "name": "Imsouhel",
+     "ar_name": "إمســوحال",
+     "post_code": "15042"
+    },
+    {
+     "id": 529,
+     "name": "Irdjen",
+     "ar_name": "إيرجـــن",
+     "post_code": "15043"
+    },
+    {
+     "id": 530,
+     "name": "Larbaa Nath Irathen",
+     "ar_name": "الأربعــاء ناث إيراثن",
+     "post_code": "15044"
+    },
+    {
+     "id": 531,
+     "name": "Maatkas",
+     "ar_name": "معـــاتقة",
+     "post_code": "15045"
+    },
+    {
+     "id": 532,
+     "name": "Makouda",
+     "ar_name": "ماكودة",
+     "post_code": "15046"
+    },
+    {
+     "id": 533,
+     "name": "Mechtrass",
+     "ar_name": "مشطراس",
+     "post_code": "15047"
+    },
+    {
+     "id": 534,
+     "name": "Meqla",
+     "ar_name": "مقــلع",
+     "post_code": "15048"
+    },
+    {
+     "id": 535,
+     "name": "Mizrana",
+     "ar_name": "ميزرانـــة",
+     "post_code": "15049"
+    },
+    {
+     "id": 536,
+     "name": "Mkira",
+     "ar_name": "مكيرة",
+     "post_code": "15050"
+    },
+    {
+     "id": 537,
+     "name": "Ouacif",
+     "ar_name": "واسيف",
+     "post_code": "15051"
+    },
+    {
+     "id": 538,
+     "name": "Ouadhia",
+     "ar_name": "واضية",
+     "post_code": "15052"
+    },
+    {
+     "id": 539,
+     "name": "Ouaguenoun",
+     "ar_name": "واقنون",
+     "post_code": "15053"
+    },
+    {
+     "id": 540,
+     "name": "Sidi Naamane",
+     "ar_name": "سيدي نعمان",
+     "post_code": "15054"
+    },
+    {
+     "id": 541,
+     "name": "Souamaa",
+     "ar_name": "صوامـــع",
+     "post_code": "15055"
+    },
+    {
+     "id": 542,
+     "name": "Souk El Tenine",
+     "ar_name": "سوق الإثنين",
+     "post_code": "15056"
+    },
+    {
+     "id": 543,
+     "name": "Tadmait",
+     "ar_name": "تادمايت",
+     "post_code": "15057"
+    },
+    {
+     "id": 544,
+     "name": "Tigzirt",
+     "ar_name": "تيقـزيرت",
+     "post_code": "15058"
+    },
+    {
+     "id": 545,
+     "name": "Timizart",
+     "ar_name": "تيمـيزار",
+     "post_code": "15059"
+    },
+    {
+     "id": 546,
+     "name": "Tirmitine",
+     "ar_name": "تيرمتين",
+     "post_code": "15060"
+    },
+    {
+     "id": 547,
+     "name": "Tizi N'tleta",
+     "ar_name": "تيزي نثلاثة",
+     "post_code": "15061"
+    },
+    {
+     "id": 548,
+     "name": "Tizi Ghenif",
+     "ar_name": "تيزي غنيف",
+     "post_code": "15062"
+    },
+    {
+     "id": 549,
+     "name": "Tizi Ouzou",
+     "ar_name": "تيزي وزو",
+     "post_code": "15063"
+    },
+    {
+     "id": 550,
+     "name": "Tizi Rached",
+     "ar_name": "تيزي راشد",
+     "post_code": "15064"
+    },
+    {
+     "id": 551,
+     "name": "Iakurn",
+     "ar_name": "إعــكورن",
+     "post_code": "15065"
+    },
+    {
+     "id": 552,
+     "name": "Yatafen",
+     "ar_name": "يطــافن",
+     "post_code": "15066"
+    },
+    {
+     "id": 553,
+     "name": "Zekri",
+     "ar_name": "زكري",
+     "post_code": "15067"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "code": "DZ-16",
+   "name": "Alger",
+   "ar_name": "الجزائر",
+   "localities": [
+    {
+     "id": 554,
+     "name": "Ain Benian",
+     "ar_name": "عين بنيان",
+     "post_code": "16001"
+    },
+    {
+     "id": 555,
+     "name": "Ain Taya",
+     "ar_name": "عين طاية",
+     "post_code": "16002"
+    },
+    {
+     "id": 556,
+     "name": "Alger Centre",
+     "ar_name": "الجزائر الوسطى",
+     "post_code": "16003"
+    },
+    {
+     "id": 557,
+     "name": "Bab El Oued",
+     "ar_name": "باب الوادي",
+     "post_code": "16004"
+    },
+    {
+     "id": 558,
+     "name": "Bab Ezzouar",
+     "ar_name": "باب الزوار",
+     "post_code": "16005"
+    },
+    {
+     "id": 559,
+     "name": "Baba Hassen",
+     "ar_name": "بابا حسن",
+     "post_code": "16006"
+    },
+    {
+     "id": 560,
+     "name": "Bachdjerrah",
+     "ar_name": "باش جراح",
+     "post_code": "16007"
+    },
+    {
+     "id": 561,
+     "name": "Baraki",
+     "ar_name": "براقي",
+     "post_code": "16008"
+    },
+    {
+     "id": 562,
+     "name": "Ben Aknoun",
+     "ar_name": "ابن عكنون",
+     "post_code": "16009"
+    },
+    {
+     "id": 563,
+     "name": "Beni Messous",
+     "ar_name": "بني مسوس",
+     "post_code": "16010"
+    },
+    {
+     "id": 564,
+     "name": "Bir Mourad Rais",
+     "ar_name": "بئر مراد رايس",
+     "post_code": "16011"
+    },
+    {
+     "id": 565,
+     "name": "Bir Khadem",
+     "ar_name": "بئر خادم",
+     "post_code": "16012"
+    },
+    {
+     "id": 566,
+     "name": "Bir Touta",
+     "ar_name": "بئر توتة",
+     "post_code": "16013"
+    },
+    {
+     "id": 567,
+     "name": "Belouizdad",
+     "ar_name": "بولوغين بن زيري",
+     "post_code": "16014"
+    },
+    {
+     "id": 568,
+     "name": "Bordj El Bahri",
+     "ar_name": "برج البحري",
+     "post_code": "16015"
+    },
+    {
+     "id": 569,
+     "name": "Bordj El Kiffan",
+     "ar_name": "برج الكيفان",
+     "post_code": "16016"
+    },
+    {
+     "id": 570,
+     "name": "Bourouba",
+     "ar_name": "بوروبة",
+     "post_code": "16017"
+    },
+    {
+     "id": 571,
+     "name": "Bouzareah",
+     "ar_name": "بوزريعة",
+     "post_code": "16018"
+    },
+    {
+     "id": 572,
+     "name": "La Casbah",
+     "ar_name": "القصبة",
+     "post_code": "16019"
+    },
+    {
+     "id": 573,
+     "name": "Cheraga",
+     "ar_name": "الشراقة",
+     "post_code": "16020"
+    },
+    {
+     "id": 574,
+     "name": "Dar El Beida",
+     "ar_name": "الدار البيضاء",
+     "post_code": "16021"
+    },
+    {
+     "id": 575,
+     "name": "Dely Ibrahim",
+     "ar_name": "دالي ابراهيم",
+     "post_code": "16022"
+    },
+    {
+     "id": 576,
+     "name": "Sidi M'hamed",
+     "ar_name": "جسر قسنطينة",
+     "post_code": "16023"
+    },
+    {
+     "id": 577,
+     "name": "Douera",
+     "ar_name": "الدويرة",
+     "post_code": "16024"
+    },
+    {
+     "id": 578,
+     "name": "Dely Ibrahim",
+     "ar_name": "الدرارية",
+     "post_code": "16025"
+    },
+    {
+     "id": 579,
+     "name": "L'Achour",
+     "ar_name": "العاشور",
+     "post_code": "16026"
+    },
+    {
+     "id": 580,
+     "name": "El Biar",
+     "ar_name": "الابيار",
+     "post_code": "16027"
+    },
+    {
+     "id": 581,
+     "name": "El Harrach",
+     "ar_name": "الحراش",
+     "post_code": "16028"
+    },
+    {
+     "id": 582,
+     "name": "El Madania",
+     "ar_name": "المدنية",
+     "post_code": "16029"
+    },
+    {
+     "id": 583,
+     "name": "El Magharia",
+     "ar_name": "المغارية",
+     "post_code": "16030"
+    },
+    {
+     "id": 584,
+     "name": "El Marsa",
+     "ar_name": "المرسى",
+     "post_code": "16031"
+    },
+    {
+     "id": 585,
+     "name": "El Mouradia",
+     "ar_name": "المرادية",
+     "post_code": "16032"
+    },
+    {
+     "id": 586,
+     "name": "El Hammamet",
+     "ar_name": "الحمامات",
+     "post_code": "16033"
+    },
+    {
+     "id": 587,
+     "name": "Heraoua",
+     "ar_name": "هراوة",
+     "post_code": "16034"
+    },
+    {
+     "id": 588,
+     "name": "Hussein Dey",
+     "ar_name": "حسين داي",
+     "post_code": "16035"
+    },
+    {
+     "id": 589,
+     "name": "Hydra",
+     "ar_name": "حيدرة",
+     "post_code": "16036"
+    },
+    {
+     "id": 590,
+     "name": "Khraissia",
+     "ar_name": "الخرايسية",
+     "post_code": "16037"
+    },
+    {
+     "id": 591,
+     "name": "Kouba",
+     "ar_name": "القبة",
+     "post_code": "16038"
+    },
+    {
+     "id": 592,
+     "name": "Les Eucalyptus",
+     "ar_name": "الكاليتوس",
+     "post_code": "16039"
+    },
+    {
+     "id": 593,
+     "name": "Mahelma",
+     "ar_name": "المعالمة",
+     "post_code": "16040"
+    },
+    {
+     "id": 594,
+     "name": "Mohamed Belouizdad",
+     "ar_name": "محمد بلوزداد",
+     "post_code": "16041"
+    },
+    {
+     "id": 595,
+     "name": "Mohammadia",
+     "ar_name": "المحمدية",
+     "post_code": "16042"
+    },
+    {
+     "id": 596,
+     "name": "Oued Koriche",
+     "ar_name": "وادي قريش",
+     "post_code": "16043"
+    },
+    {
+     "id": 597,
+     "name": "Oued Smar",
+     "ar_name": "وادي السمار",
+     "post_code": "16044"
+    },
+    {
+     "id": 598,
+     "name": "Ouled Chebel",
+     "ar_name": "اولاد شبل",
+     "post_code": "16045"
+    },
+    {
+     "id": 599,
+     "name": "Ouled Fayet",
+     "ar_name": "اولاد فايت",
+     "post_code": "16046"
+    },
+    {
+     "id": 600,
+     "name": "Rahmanya",
+     "ar_name": "الرحمانية",
+     "post_code": "16047"
+    },
+    {
+     "id": 601,
+     "name": "Rais Hamidou",
+     "ar_name": "الرايس حميدو",
+     "post_code": "16048"
+    },
+    {
+     "id": 602,
+     "name": "Reghaia",
+     "ar_name": "رغاية",
+     "post_code": "16049"
+    },
+    {
+     "id": 603,
+     "name": "Rouiba",
+     "ar_name": "الرويبة",
+     "post_code": "16050"
+    },
+    {
+     "id": 604,
+     "name": "Souidania",
+     "ar_name": "السحاولة",
+     "post_code": "16051"
+    },
+    {
+     "id": 605,
+     "name": "Ksar El Hirane",
+     "ar_name": "سيدي امحمد",
+     "post_code": "16052"
+    },
+    {
+     "id": 606,
+     "name": "Sidi Moussa",
+     "ar_name": "سيدي موسى",
+     "post_code": "16053"
+    },
+    {
+     "id": 607,
+     "name": "Souidania",
+     "ar_name": "سويدانية",
+     "post_code": "16054"
+    },
+    {
+     "id": 608,
+     "name": "Staoueli",
+     "ar_name": "سطاوالي",
+     "post_code": "16055"
+    },
+    {
+     "id": 609,
+     "name": "Tessala El Merdja",
+     "ar_name": "تسالة المرجة",
+     "post_code": "16056"
+    },
+    {
+     "id": 610,
+     "name": "Zeralda",
+     "ar_name": "زرالدة",
+     "post_code": "16057"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "code": "DZ-17",
+   "name": "Djelfa",
+   "ar_name": "الجلفة",
+   "localities": [
+    {
+     "id": 611,
+     "name": "Ain Chouhada",
+     "ar_name": "عين الشهداء",
+     "post_code": "17001"
+    },
+    {
+     "id": 612,
+     "name": "Ain El Ibel",
+     "ar_name": "عين الإبل",
+     "post_code": "17002"
+    },
+    {
+     "id": 613,
+     "name": "Ain Fekka",
+     "ar_name": "عين فقه",
+     "post_code": "17003"
+    },
+    {
+     "id": 614,
+     "name": "Ain Mabed",
+     "ar_name": "عين معبد",
+     "post_code": "17004"
+    },
+    {
+     "id": 615,
+     "name": "Ain Oussera",
+     "ar_name": "عين وسارة",
+     "post_code": "17005"
+    },
+    {
+     "id": 616,
+     "name": "Amouche",
+     "ar_name": "عمورة",
+     "post_code": "17006"
+    },
+    {
+     "id": 617,
+     "name": "Benhar",
+     "ar_name": "بنهار",
+     "post_code": "17007"
+    },
+    {
+     "id": 618,
+     "name": "Ben Yacoub",
+     "ar_name": "بن يعقوب",
+     "post_code": "17008"
+    },
+    {
+     "id": 619,
+     "name": "Guernini",
+     "ar_name": "بيرين",
+     "post_code": "17009"
+    },
+    {
+     "id": 620,
+     "name": "Bouira El Ahddab",
+     "ar_name": "بويرة الأحداب",
+     "post_code": "17010"
+    },
+    {
+     "id": 621,
+     "name": "Sed Rahal",
+     "ar_name": "الشارف",
+     "post_code": "17011"
+    },
+    {
+     "id": 622,
+     "name": "Dar Chioukh",
+     "ar_name": "دار الشيوخ",
+     "post_code": "17012"
+    },
+    {
+     "id": 623,
+     "name": "Deldoul",
+     "ar_name": "دلدول",
+     "post_code": "17013"
+    },
+    {
+     "id": 624,
+     "name": "Djelfa",
+     "ar_name": "الجلفة",
+     "post_code": "17014"
+    },
+    {
+     "id": 625,
+     "name": "Douis",
+     "ar_name": "دويس",
+     "post_code": "17015"
+    },
+    {
+     "id": 626,
+     "name": "El Guedid",
+     "ar_name": "القديد",
+     "post_code": "17016"
+    },
+    {
+     "id": 627,
+     "name": "El Idrissia",
+     "ar_name": "الادريسية",
+     "post_code": "17017"
+    },
+    {
+     "id": 628,
+     "name": "El Khamis",
+     "ar_name": "الخميس",
+     "post_code": "17018"
+    },
+    {
+     "id": 629,
+     "name": "Charef",
+     "ar_name": "فيض البطمة",
+     "post_code": "17019"
+    },
+    {
+     "id": 630,
+     "name": "Birine",
+     "ar_name": "قرنيني",
+     "post_code": "17020"
+    },
+    {
+     "id": 631,
+     "name": "Guettara",
+     "ar_name": "قطارة",
+     "post_code": "17021"
+    },
+    {
+     "id": 632,
+     "name": "Had Sahary",
+     "ar_name": "حد الصحاري",
+     "post_code": "17022"
+    },
+    {
+     "id": 633,
+     "name": "Hassi Bahbah",
+     "ar_name": "حاسي بحبح",
+     "post_code": "17023"
+    },
+    {
+     "id": 634,
+     "name": "Hassi El Euch",
+     "ar_name": "حاسي العش",
+     "post_code": "17024"
+    },
+    {
+     "id": 635,
+     "name": "Hassi Fedoul",
+     "ar_name": "حاسي فدول",
+     "post_code": "17025"
+    },
+    {
+     "id": 636,
+     "name": "M'Sila",
+     "ar_name": "مسعد",
+     "post_code": "17026"
+    },
+    {
+     "id": 637,
+     "name": "Mliliha",
+     "ar_name": "مليليحة",
+     "post_code": "17027"
+    },
+    {
+     "id": 638,
+     "name": "Moudjebara",
+     "ar_name": "مجبارة",
+     "post_code": "17028"
+    },
+    {
+     "id": 639,
+     "name": "Oum El Adham",
+     "ar_name": "أم العظام",
+     "post_code": "17029"
+    },
+    {
+     "id": 640,
+     "name": "Sed Rahal",
+     "ar_name": "سد الرحال",
+     "post_code": "17030"
+    },
+    {
+     "id": 641,
+     "name": "Selmana",
+     "ar_name": "سلمانة",
+     "post_code": "17031"
+    },
+    {
+     "id": 642,
+     "name": "Sidi Baizid",
+     "ar_name": "سيدي بايزيد",
+     "post_code": "17032"
+    },
+    {
+     "id": 643,
+     "name": "Guettara",
+     "ar_name": "سيدي لعجال",
+     "post_code": "17033"
+    },
+    {
+     "id": 644,
+     "name": "El Khemis",
+     "ar_name": "تعظميت",
+     "post_code": "17034"
+    },
+    {
+     "id": 645,
+     "name": "Zaafrane",
+     "ar_name": "زعفران",
+     "post_code": "17035"
+    },
+    {
+     "id": 646,
+     "name": "Zakar",
+     "ar_name": "زكار",
+     "post_code": "17036"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "code": "DZ-18",
+   "name": "Jijel",
+   "ar_name": "جيجل",
+   "localities": [
+    {
+     "id": 647,
+     "name": "Bordj T'har",
+     "ar_name": "برج الطهر",
+     "post_code": "18001"
+    },
+    {
+     "id": 648,
+     "name": "Chebita",
+     "ar_name": "بودريعة بني  ياجيس",
+     "post_code": "18002"
+    },
+    {
+     "id": 649,
+     "name": "Bouraoui Belhadef",
+     "ar_name": "بوراوي بلهادف",
+     "post_code": "18003"
+    },
+    {
+     "id": 650,
+     "name": "Bouchetat",
+     "ar_name": "بوسيف أولاد عسكر",
+     "post_code": "18004"
+    },
+    {
+     "id": 651,
+     "name": "El Milia",
+     "ar_name": "الشحنة",
+     "post_code": "18005"
+    },
+    {
+     "id": 652,
+     "name": "Chekfa",
+     "ar_name": "الشقفة",
+     "post_code": "18006"
+    },
+    {
+     "id": 653,
+     "name": "El Ghdir",
+     "ar_name": "الجمعة بني حبيبي",
+     "post_code": "18007"
+    },
+    {
+     "id": 654,
+     "name": "Djimla",
+     "ar_name": "جيملة",
+     "post_code": "18008"
+    },
+    {
+     "id": 655,
+     "name": "El Ançor",
+     "ar_name": "العنصر",
+     "post_code": "18009"
+    },
+    {
+     "id": 656,
+     "name": "El Aouana",
+     "ar_name": "العوانة",
+     "post_code": "18010"
+    },
+    {
+     "id": 657,
+     "name": "Texenna",
+     "ar_name": "القنار نشفي",
+     "post_code": "18011"
+    },
+    {
+     "id": 658,
+     "name": "El Milia",
+     "ar_name": "الميلية",
+     "post_code": "18012"
+    },
+    {
+     "id": 659,
+     "name": "Emir Abdelkader",
+     "ar_name": "الامير عبد القادر",
+     "post_code": "18013"
+    },
+    {
+     "id": 660,
+     "name": "Ain Makhlouf",
+     "ar_name": "أراقن سويسي",
+     "post_code": "18014"
+    },
+    {
+     "id": 661,
+     "name": "Ghebala",
+     "ar_name": "غبالة",
+     "post_code": "18015"
+    },
+    {
+     "id": 662,
+     "name": "Jijel",
+     "ar_name": "جيجل",
+     "post_code": "18016"
+    },
+    {
+     "id": 663,
+     "name": "Kaous",
+     "ar_name": "قاوس",
+     "post_code": "18017"
+    },
+    {
+     "id": 664,
+     "name": "Ouled Askeur",
+     "ar_name": "خيري واد عجول",
+     "post_code": "18018"
+    },
+    {
+     "id": 665,
+     "name": "Souk El Tenine",
+     "ar_name": "وجانة",
+     "post_code": "18019"
+    },
+    {
+     "id": 666,
+     "name": "Ouled Rabah",
+     "ar_name": "أولاد رابح",
+     "post_code": "18020"
+    },
+    {
+     "id": 667,
+     "name": "Ouled Yahia Khedrouche",
+     "ar_name": "أولاد يحيى خدروش",
+     "post_code": "18021"
+    },
+    {
+     "id": 668,
+     "name": "Selma Benziada",
+     "ar_name": "سلمى بن زيادة",
+     "post_code": "18022"
+    },
+    {
+     "id": 669,
+     "name": "Settara",
+     "ar_name": "السطارة",
+     "post_code": "18023"
+    },
+    {
+     "id": 670,
+     "name": "Sidi Abdelaziz",
+     "ar_name": "سيدي عبد العزيز",
+     "post_code": "18024"
+    },
+    {
+     "id": 671,
+     "name": "Sidi Maarouf",
+     "ar_name": "سيدي معروف",
+     "post_code": "18025"
+    },
+    {
+     "id": 672,
+     "name": "Taher",
+     "ar_name": "الطاهير",
+     "post_code": "18026"
+    },
+    {
+     "id": 673,
+     "name": "Taksenna",
+     "ar_name": "تاكسنة",
+     "post_code": "18027"
+    },
+    {
+     "id": 674,
+     "name": "Ziama Mansouria",
+     "ar_name": "زيامة منصورية",
+     "post_code": "18028"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "code": "DZ-19",
+   "name": "Sétif",
+   "ar_name": "سطيف",
+   "localities": [
+    {
+     "id": 675,
+     "name": "Ain Abessa",
+     "ar_name": "عين عباسة",
+     "post_code": "19001"
+    },
+    {
+     "id": 676,
+     "name": "Ain Arnat",
+     "ar_name": "عين أرنات",
+     "post_code": "19002"
+    },
+    {
+     "id": 677,
+     "name": "Ain Azel",
+     "ar_name": "عين أزال",
+     "post_code": "19003"
+    },
+    {
+     "id": 678,
+     "name": "Ain El Kebira",
+     "ar_name": "عين الكبيرة",
+     "post_code": "19004"
+    },
+    {
+     "id": 679,
+     "name": "Ain El Hadjar",
+     "ar_name": "عين الحجر",
+     "post_code": "19005"
+    },
+    {
+     "id": 680,
+     "name": "Ain Oulmene",
+     "ar_name": "عين ولمان",
+     "post_code": "19006"
+    },
+    {
+     "id": 681,
+     "name": "Ain Legradj",
+     "ar_name": "عين لقراج",
+     "post_code": "19007"
+    },
+    {
+     "id": 682,
+     "name": "Ain Roua",
+     "ar_name": "عين الروى",
+     "post_code": "19008"
+    },
+    {
+     "id": 683,
+     "name": "Ain Sebt",
+     "ar_name": "عين السبت",
+     "post_code": "19009"
+    },
+    {
+     "id": 684,
+     "name": "Ait Noual Mezada",
+     "ar_name": "أيت نوال مزادة",
+     "post_code": "19010"
+    },
+    {
+     "id": 685,
+     "name": "Ait Tizi",
+     "ar_name": "ايت تيزي",
+     "post_code": "19011"
+    },
+    {
+     "id": 686,
+     "name": "Amoucha",
+     "ar_name": "عموشة",
+     "post_code": "19012"
+    },
+    {
+     "id": 687,
+     "name": "Babor",
+     "ar_name": "بابور",
+     "post_code": "19013"
+    },
+    {
+     "id": 688,
+     "name": "Bazer Sakhra",
+     "ar_name": "بازر سكرة",
+     "post_code": "19014"
+    },
+    {
+     "id": 689,
+     "name": "Beidha Bordj",
+     "ar_name": "بيضاء برج",
+     "post_code": "19015"
+    },
+    {
+     "id": 690,
+     "name": "Belaa",
+     "ar_name": "بلاعة",
+     "post_code": "19016"
+    },
+    {
+     "id": 691,
+     "name": "Beni Chebana",
+     "ar_name": "بني شبانة",
+     "post_code": "19017"
+    },
+    {
+     "id": 692,
+     "name": "Beni Fouda",
+     "ar_name": "بني فودة",
+     "post_code": "19018"
+    },
+    {
+     "id": 693,
+     "name": "Beni Ouartilane",
+     "ar_name": "بني ورتيلان",
+     "post_code": "19019"
+    },
+    {
+     "id": 694,
+     "name": "Beni Ouacine",
+     "ar_name": "بني وسين",
+     "post_code": "19020"
+    },
+    {
+     "id": 695,
+     "name": "Beni Aziz",
+     "ar_name": "بني عزيز",
+     "post_code": "19021"
+    },
+    {
+     "id": 696,
+     "name": "Beni Mouhli",
+     "ar_name": "بني موحلي",
+     "post_code": "19022"
+    },
+    {
+     "id": 697,
+     "name": "Bir Haddada",
+     "ar_name": "بئر حدادة",
+     "post_code": "19023"
+    },
+    {
+     "id": 698,
+     "name": "Bir El Arch",
+     "ar_name": "بئر العرش",
+     "post_code": "19024"
+    },
+    {
+     "id": 699,
+     "name": "Bouandas",
+     "ar_name": "بوعنداس",
+     "post_code": "19025"
+    },
+    {
+     "id": 700,
+     "name": "Bougaa",
+     "ar_name": "بوقاعة",
+     "post_code": "19026"
+    },
+    {
+     "id": 701,
+     "name": "Bousselam",
+     "ar_name": "بوسلام",
+     "post_code": "19027"
+    },
+    {
+     "id": 702,
+     "name": "Boutaleb",
+     "ar_name": "بوطالب",
+     "post_code": "19028"
+    },
+    {
+     "id": 703,
+     "name": "Dehahna",
+     "ar_name": "الدهامشة",
+     "post_code": "19029"
+    },
+    {
+     "id": 704,
+     "name": "Djemila",
+     "ar_name": "جميلة",
+     "post_code": "19030"
+    },
+    {
+     "id": 705,
+     "name": "Draa Kebila",
+     "ar_name": "ذراع قبيلة",
+     "post_code": "19031"
+    },
+    {
+     "id": 706,
+     "name": "El Eulma",
+     "ar_name": "العلمة",
+     "post_code": "19032"
+    },
+    {
+     "id": 707,
+     "name": "Ouricia",
+     "ar_name": "أوريسيا",
+     "post_code": "19033"
+    },
+    {
+     "id": 708,
+     "name": "El Ouldja",
+     "ar_name": "الولجة",
+     "post_code": "19034"
+    },
+    {
+     "id": 709,
+     "name": "Guellal",
+     "ar_name": "قلال",
+     "post_code": "19035"
+    },
+    {
+     "id": 710,
+     "name": "Gueltat Zerga",
+     "ar_name": "قلتة زرقاء",
+     "post_code": "19036"
+    },
+    {
+     "id": 711,
+     "name": "Guenzet",
+     "ar_name": "قنزات",
+     "post_code": "19037"
+    },
+    {
+     "id": 712,
+     "name": "Guidjel",
+     "ar_name": "قجال",
+     "post_code": "19038"
+    },
+    {
+     "id": 713,
+     "name": "Hammam Soukhna",
+     "ar_name": "حمام السخنة",
+     "post_code": "19039"
+    },
+    {
+     "id": 714,
+     "name": "El Hamma",
+     "ar_name": "الحامة",
+     "post_code": "19040"
+    },
+    {
+     "id": 715,
+     "name": "Hammam Guergour",
+     "ar_name": "حمام قرقور",
+     "post_code": "19041"
+    },
+    {
+     "id": 716,
+     "name": "Harbil",
+     "ar_name": "حربيل",
+     "post_code": "19042"
+    },
+    {
+     "id": 717,
+     "name": "Ksar El Abtal",
+     "ar_name": "قصر الابطال",
+     "post_code": "19043"
+    },
+    {
+     "id": 718,
+     "name": "Mouaoui",
+     "ar_name": "معاوية",
+     "post_code": "19044"
+    },
+    {
+     "id": 719,
+     "name": "Maoklane",
+     "ar_name": "ماوكلان",
+     "post_code": "19045"
+    },
+    {
+     "id": 720,
+     "name": "Mezloug",
+     "ar_name": "مزلوق",
+     "post_code": "19046"
+    },
+    {
+     "id": 721,
+     "name": "Oued Bared",
+     "ar_name": "واد البارد",
+     "post_code": "19047"
+    },
+    {
+     "id": 722,
+     "name": "Ouled Addouane",
+     "ar_name": "أولاد عدوان",
+     "post_code": "19048"
+    },
+    {
+     "id": 723,
+     "name": "Ouled Sabor",
+     "ar_name": "أولاد صابر",
+     "post_code": "19049"
+    },
+    {
+     "id": 724,
+     "name": "Ouled Si Ahmed",
+     "ar_name": "أولاد سي أحمد",
+     "post_code": "19050"
+    },
+    {
+     "id": 725,
+     "name": "Ouled Tebben",
+     "ar_name": "أولاد تبان",
+     "post_code": "19051"
+    },
+    {
+     "id": 726,
+     "name": "Rasfa",
+     "ar_name": "الرصفة",
+     "post_code": "19052"
+    },
+    {
+     "id": 727,
+     "name": "Salah Bey",
+     "ar_name": "صالح باي",
+     "post_code": "19053"
+    },
+    {
+     "id": 728,
+     "name": "Serdj El Ghoul",
+     "ar_name": "سرج الغول",
+     "post_code": "19054"
+    },
+    {
+     "id": 729,
+     "name": "Setif",
+     "ar_name": "سطيف",
+     "post_code": "19055"
+    },
+    {
+     "id": 730,
+     "name": "Tachoudah",
+     "ar_name": "تاشودة",
+     "post_code": "19056"
+    },
+    {
+     "id": 731,
+     "name": "Tala Ifacene",
+     "ar_name": "تالة إيفاسن",
+     "post_code": "19057"
+    },
+    {
+     "id": 732,
+     "name": "El Taya",
+     "ar_name": "الطاية",
+     "post_code": "19058"
+    },
+    {
+     "id": 733,
+     "name": "El Tella",
+     "ar_name": "التلة",
+     "post_code": "19059"
+    },
+    {
+     "id": 734,
+     "name": "Tizi N'bechar",
+     "ar_name": "تيزي نبشار",
+     "post_code": "19060"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "code": "DZ-20",
+   "name": "Saïda",
+   "ar_name": "سعيدة",
+   "localities": [
+    {
+     "id": 735,
+     "name": "Ain El Hadjar",
+     "ar_name": "عين الحجر",
+     "post_code": "20001"
+    },
+    {
+     "id": 736,
+     "name": "Ain Sekhouna",
+     "ar_name": "عين السخونة",
+     "post_code": "20002"
+    },
+    {
+     "id": 737,
+     "name": "Ain Es Sultan",
+     "ar_name": "عين السلطان",
+     "post_code": "20003"
+    },
+    {
+     "id": 738,
+     "name": "Doui Thabet",
+     "ar_name": "دوي ثابت",
+     "post_code": "20004"
+    },
+    {
+     "id": 739,
+     "name": "El Hassasna",
+     "ar_name": "الحساسنة",
+     "post_code": "20005"
+    },
+    {
+     "id": 740,
+     "name": "Hounet",
+     "ar_name": "هونت",
+     "post_code": "20006"
+    },
+    {
+     "id": 741,
+     "name": "El Maamora",
+     "ar_name": "المعمورة",
+     "post_code": "20007"
+    },
+    {
+     "id": 742,
+     "name": "Moulay Larbi",
+     "ar_name": "مولاي العربي",
+     "post_code": "20008"
+    },
+    {
+     "id": 743,
+     "name": "Ouled Brahim",
+     "ar_name": "أولاد إبراهيم",
+     "post_code": "20009"
+    },
+    {
+     "id": 744,
+     "name": "Ouled Khaled",
+     "ar_name": "أولاد خالد",
+     "post_code": "20010"
+    },
+    {
+     "id": 745,
+     "name": "Saida",
+     "ar_name": "سعيدة",
+     "post_code": "20011"
+    },
+    {
+     "id": 746,
+     "name": "Sidi Ahmed",
+     "ar_name": "سيدي احمد",
+     "post_code": "20012"
+    },
+    {
+     "id": 747,
+     "name": "Sidi Omar",
+     "ar_name": "سيدي عمر",
+     "post_code": "20013"
+    },
+    {
+     "id": 748,
+     "name": "Sidi Boubekeur",
+     "ar_name": "سيدي بوبكر",
+     "post_code": "20014"
+    },
+    {
+     "id": 749,
+     "name": "Tircine",
+     "ar_name": "تيرسين",
+     "post_code": "20015"
+    },
+    {
+     "id": 750,
+     "name": "Youb",
+     "ar_name": "يوب",
+     "post_code": "20016"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "code": "DZ-21",
+   "name": "Skikda",
+   "ar_name": "سكيكدة",
+   "localities": [
+    {
+     "id": 751,
+     "name": "Ain Bouziane",
+     "ar_name": "عين بوزيان",
+     "post_code": "21001"
+    },
+    {
+     "id": 752,
+     "name": "Ain Charchar",
+     "ar_name": "عين شرشار",
+     "post_code": "21002"
+    },
+    {
+     "id": 753,
+     "name": "Ain Kercha",
+     "ar_name": "عين قشرة",
+     "post_code": "21003"
+    },
+    {
+     "id": 754,
+     "name": "Ain Zouit",
+     "ar_name": "عين زويت",
+     "post_code": "21004"
+    },
+    {
+     "id": 755,
+     "name": "Azzaba",
+     "ar_name": "عزابة",
+     "post_code": "21005"
+    },
+    {
+     "id": 756,
+     "name": "Bekouche Lakhdar",
+     "ar_name": "بكوش لخضر",
+     "post_code": "21006"
+    },
+    {
+     "id": 757,
+     "name": "Ben Azzouz",
+     "ar_name": "بن عزوز",
+     "post_code": "21007"
+    },
+    {
+     "id": 758,
+     "name": "Beni Bechir",
+     "ar_name": "بني بشير",
+     "post_code": "21008"
+    },
+    {
+     "id": 759,
+     "name": "Beni Oulbane",
+     "ar_name": "بني ولبان",
+     "post_code": "21009"
+    },
+    {
+     "id": 760,
+     "name": "Beni Zid",
+     "ar_name": "بني زيد",
+     "post_code": "21010"
+    },
+    {
+     "id": 761,
+     "name": "Bein El Ouiden",
+     "ar_name": "بين الويدان",
+     "post_code": "21011"
+    },
+    {
+     "id": 762,
+     "name": "Bouchetat",
+     "ar_name": "بوشطاطة",
+     "post_code": "21012"
+    },
+    {
+     "id": 763,
+     "name": "Cheraia",
+     "ar_name": "الشرايع",
+     "post_code": "21013"
+    },
+    {
+     "id": 764,
+     "name": "El Harrouch",
+     "ar_name": "القل",
+     "post_code": "21014"
+    },
+    {
+     "id": 765,
+     "name": "Djendel Saadi Mohammed",
+     "ar_name": "جندل سعدي محمد",
+     "post_code": "21015"
+    },
+    {
+     "id": 766,
+     "name": "El Harrouche",
+     "ar_name": "الحروش",
+     "post_code": "21016"
+    },
+    {
+     "id": 767,
+     "name": "El Ghedir",
+     "ar_name": "الغدير",
+     "post_code": "21017"
+    },
+    {
+     "id": 768,
+     "name": "Ain Zouit",
+     "ar_name": "الحدائق",
+     "post_code": "21018"
+    },
+    {
+     "id": 769,
+     "name": "El Marsa",
+     "ar_name": "المرسى",
+     "post_code": "21019"
+    },
+    {
+     "id": 770,
+     "name": "Meghaier Edchich",
+     "ar_name": "مجاز الدشيش",
+     "post_code": "21020"
+    },
+    {
+     "id": 771,
+     "name": "Es Sebt",
+     "ar_name": "السبت",
+     "post_code": "21021"
+    },
+    {
+     "id": 772,
+     "name": "Filfila",
+     "ar_name": "فلفلة",
+     "post_code": "21022"
+    },
+    {
+     "id": 773,
+     "name": "Hamadi Krouma",
+     "ar_name": "حمادي كرومة",
+     "post_code": "21023"
+    },
+    {
+     "id": 774,
+     "name": "Kerkera",
+     "ar_name": "قنواع",
+     "post_code": "21024"
+    },
+    {
+     "id": 775,
+     "name": "Collo",
+     "ar_name": "الكركرة",
+     "post_code": "21025"
+    },
+    {
+     "id": 776,
+     "name": "Khnak Mayou",
+     "ar_name": "خناق مايو",
+     "post_code": "21026"
+    },
+    {
+     "id": 777,
+     "name": "Oued Ezzerga",
+     "ar_name": "وادي الزهور",
+     "post_code": "21027"
+    },
+    {
+     "id": 778,
+     "name": "Ouldja Boulbalout",
+     "ar_name": "الولجة بولبلوط",
+     "post_code": "21028"
+    },
+    {
+     "id": 779,
+     "name": "Ain Charchar",
+     "ar_name": "أولاد عطية",
+     "post_code": "21029"
+    },
+    {
+     "id": 780,
+     "name": "Ouled Attia",
+     "ar_name": "أولاد حبابة",
+     "post_code": "21030"
+    },
+    {
+     "id": 781,
+     "name": "Oum Toub",
+     "ar_name": "أم الطوب",
+     "post_code": "21031"
+    },
+    {
+     "id": 782,
+     "name": "Ramdane Djamel",
+     "ar_name": "رمضان جمال",
+     "post_code": "21032"
+    },
+    {
+     "id": 783,
+     "name": "Salah Bouchoucha",
+     "ar_name": "صالح بو الشعور",
+     "post_code": "21033"
+    },
+    {
+     "id": 784,
+     "name": "Sidi Mezghiche",
+     "ar_name": "سيدي مزغيش",
+     "post_code": "21034"
+    },
+    {
+     "id": 785,
+     "name": "Skikda",
+     "ar_name": "سكيكدة",
+     "post_code": "21035"
+    },
+    {
+     "id": 786,
+     "name": "Tamalous",
+     "ar_name": "تمالوس",
+     "post_code": "21036"
+    },
+    {
+     "id": 787,
+     "name": "Zerdaza",
+     "ar_name": "زردازة",
+     "post_code": "21037"
+    },
+    {
+     "id": 788,
+     "name": "Zitouna",
+     "ar_name": "الزيتونة",
+     "post_code": "21038"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "code": "DZ-22",
+   "name": "Sidi Bel Abbès",
+   "ar_name": "سيدي بلعباس",
+   "localities": [
+    {
+     "id": 789,
+     "name": "Ain El Berd",
+     "ar_name": "عين البرد",
+     "post_code": "22001"
+    },
+    {
+     "id": 790,
+     "name": "Ain Kada",
+     "ar_name": "عين قادة",
+     "post_code": "22002"
+    },
+    {
+     "id": 791,
+     "name": "Ain Thrid",
+     "ar_name": "عين الثريد",
+     "post_code": "22003"
+    },
+    {
+     "id": 792,
+     "name": "Ain Tindamine",
+     "ar_name": "عين تندمين",
+     "post_code": "22004"
+    },
+    {
+     "id": 793,
+     "name": "Ain Adden",
+     "ar_name": "عين أدن",
+     "post_code": "22005"
+    },
+    {
+     "id": 794,
+     "name": "El Amarnas",
+     "ar_name": "العمارنة",
+     "post_code": "22006"
+    },
+    {
+     "id": 795,
+     "name": "Badredine El Mokrani",
+     "ar_name": "بضرابين المقراني",
+     "post_code": "22007"
+    },
+    {
+     "id": 796,
+     "name": "Bal El Arab",
+     "ar_name": "بلعربي",
+     "post_code": "22008"
+    },
+    {
+     "id": 797,
+     "name": "Ben Badis",
+     "ar_name": "بن باديس",
+     "post_code": "22009"
+    },
+    {
+     "id": 798,
+     "name": "Benachiba Chelia",
+     "ar_name": "بن عشيبة شلية",
+     "post_code": "22010"
+    },
+    {
+     "id": 799,
+     "name": "Bir El Hammam",
+     "ar_name": "بئر الحمام",
+     "post_code": "22011"
+    },
+    {
+     "id": 800,
+     "name": "Boujebha El Bordj",
+     "ar_name": "بوجبهة البرج",
+     "post_code": "22012"
+    },
+    {
+     "id": 801,
+     "name": "Boukhanifis",
+     "ar_name": "بوخنفيس",
+     "post_code": "22013"
+    },
+    {
+     "id": 802,
+     "name": "Chetouane",
+     "ar_name": "شيطوان البلايلة",
+     "post_code": "22014"
+    },
+    {
+     "id": 803,
+     "name": "Amarnas",
+     "ar_name": "الضاية",
+     "post_code": "22015"
+    },
+    {
+     "id": 804,
+     "name": "Merine",
+     "ar_name": "الحصيبة",
+     "post_code": "22016"
+    },
+    {
+     "id": 805,
+     "name": "Hassi Dahou",
+     "ar_name": "حاسي دحو",
+     "post_code": "22017"
+    },
+    {
+     "id": 806,
+     "name": "Hassi Zahana",
+     "ar_name": "حاسي زهانة",
+     "post_code": "22018"
+    },
+    {
+     "id": 807,
+     "name": "Hachem",
+     "ar_name": "لمطار",
+     "post_code": "22019"
+    },
+    {
+     "id": 808,
+     "name": "Makedra",
+     "ar_name": "مكدرة",
+     "post_code": "22020"
+    },
+    {
+     "id": 809,
+     "name": "Marhoum",
+     "ar_name": "مرحوم",
+     "post_code": "22021"
+    },
+    {
+     "id": 810,
+     "name": "Msid",
+     "ar_name": "مسيد",
+     "post_code": "22022"
+    },
+    {
+     "id": 811,
+     "name": "Merine",
+     "ar_name": "مرين",
+     "post_code": "22023"
+    },
+    {
+     "id": 812,
+     "name": "Msirda Fouaga",
+     "ar_name": "مزاورو",
+     "post_code": "22024"
+    },
+    {
+     "id": 813,
+     "name": "Mostefa Ben Brahim",
+     "ar_name": "مصطفى بن ابراهيم",
+     "post_code": "22025"
+    },
+    {
+     "id": 814,
+     "name": "Moulay Slissen",
+     "ar_name": "مولاي سليسن",
+     "post_code": "22026"
+    },
+    {
+     "id": 815,
+     "name": "Oued Sebaa",
+     "ar_name": "وادي السبع",
+     "post_code": "22027"
+    },
+    {
+     "id": 816,
+     "name": "Oued Sefioun",
+     "ar_name": "وادي سفيون",
+     "post_code": "22028"
+    },
+    {
+     "id": 817,
+     "name": "Oued Taourira",
+     "ar_name": "وادي تاوريرة",
+     "post_code": "22029"
+    },
+    {
+     "id": 818,
+     "name": "Ras El Ma",
+     "ar_name": "راس الماء",
+     "post_code": "22030"
+    },
+    {
+     "id": 819,
+     "name": "Redjem Demouche",
+     "ar_name": "رجم دموش",
+     "post_code": "22031"
+    },
+    {
+     "id": 820,
+     "name": "Sfissifa",
+     "ar_name": "السهالة الثورة",
+     "post_code": "22032"
+    },
+    {
+     "id": 821,
+     "name": "Sfisef",
+     "ar_name": "سفيزف",
+     "post_code": "22033"
+    },
+    {
+     "id": 822,
+     "name": "Sidi Ali Benyoub",
+     "ar_name": "سيدي علي بن يوب",
+     "post_code": "22034"
+    },
+    {
+     "id": 823,
+     "name": "Sidi Ali Benyoub",
+     "ar_name": "سيدي علي بوسيدي",
+     "post_code": "22035"
+    },
+    {
+     "id": 824,
+     "name": "Sidi Bel Abbes",
+     "ar_name": "سيدي بلعباس",
+     "post_code": "22036"
+    },
+    {
+     "id": 825,
+     "name": "Sidi Brahim",
+     "ar_name": "سيدي ابراهيم",
+     "post_code": "22037"
+    },
+    {
+     "id": 826,
+     "name": "Sidi Chaib",
+     "ar_name": "سيدي شعيب",
+     "post_code": "22038"
+    },
+    {
+     "id": 827,
+     "name": "Sidi Dahou Zair",
+     "ar_name": "سيدي دحو الزاير",
+     "post_code": "22039"
+    },
+    {
+     "id": 828,
+     "name": "Sidi Hamadouche",
+     "ar_name": "سيدي حمادوش",
+     "post_code": "22040"
+    },
+    {
+     "id": 829,
+     "name": "Sidi Khaled",
+     "ar_name": "سيدي خالد",
+     "post_code": "22041"
+    },
+    {
+     "id": 830,
+     "name": "Sidi Lahcen",
+     "ar_name": "سيدي لحسن",
+     "post_code": "22042"
+    },
+    {
+     "id": 831,
+     "name": "Sidi Yacoub",
+     "ar_name": "سيدي يعقوب",
+     "post_code": "22043"
+    },
+    {
+     "id": 832,
+     "name": "Tabia",
+     "ar_name": "طابية",
+     "post_code": "22044"
+    },
+    {
+     "id": 833,
+     "name": "Taoudmout",
+     "ar_name": "تاودموت",
+     "post_code": "22045"
+    },
+    {
+     "id": 834,
+     "name": "Tefsour",
+     "ar_name": "تفسور",
+     "post_code": "22046"
+    },
+    {
+     "id": 835,
+     "name": "Tefessra",
+     "ar_name": "تغاليمت",
+     "post_code": "22047"
+    },
+    {
+     "id": 836,
+     "name": "Tilghemt",
+     "ar_name": "تلاغ",
+     "post_code": "22048"
+    },
+    {
+     "id": 837,
+     "name": "Tenira",
+     "ar_name": "تنيرة",
+     "post_code": "22049"
+    },
+    {
+     "id": 838,
+     "name": "Tessala",
+     "ar_name": "تسالة",
+     "post_code": "22050"
+    },
+    {
+     "id": 839,
+     "name": "Tilmouni",
+     "ar_name": "تلموني",
+     "post_code": "22051"
+    },
+    {
+     "id": 840,
+     "name": "Zerouala",
+     "ar_name": "زروالة",
+     "post_code": "22052"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "code": "DZ-23",
+   "name": "Annaba",
+   "ar_name": "عنابة",
+   "localities": [
+    {
+     "id": 841,
+     "name": "Ain El Berda",
+     "ar_name": "عين الباردة",
+     "post_code": "23001"
+    },
+    {
+     "id": 842,
+     "name": "Annaba",
+     "ar_name": "عنابة",
+     "post_code": "23002"
+    },
+    {
+     "id": 843,
+     "name": "Berrahal",
+     "ar_name": "برحال",
+     "post_code": "23003"
+    },
+    {
+     "id": 844,
+     "name": "Chhetaibi",
+     "ar_name": "شطايبي",
+     "post_code": "23004"
+    },
+    {
+     "id": 845,
+     "name": "Chorfa",
+     "ar_name": "الشرفة",
+     "post_code": "23005"
+    },
+    {
+     "id": 846,
+     "name": "El Bouni",
+     "ar_name": "البوني",
+     "post_code": "23006"
+    },
+    {
+     "id": 847,
+     "name": "El Eulma",
+     "ar_name": "العلمة",
+     "post_code": "23007"
+    },
+    {
+     "id": 848,
+     "name": "El Hadjar",
+     "ar_name": "الحجار",
+     "post_code": "23008"
+    },
+    {
+     "id": 849,
+     "name": "Oued El Aneb",
+     "ar_name": "واد العنب",
+     "post_code": "23009"
+    },
+    {
+     "id": 850,
+     "name": "Seraidi",
+     "ar_name": "سرايدي",
+     "post_code": "23010"
+    },
+    {
+     "id": 851,
+     "name": "Sidi Amar",
+     "ar_name": "سيدي عمار",
+     "post_code": "23011"
+    },
+    {
+     "id": 852,
+     "name": "Tréat",
+     "ar_name": "التريعات",
+     "post_code": "23012"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "code": "DZ-24",
+   "name": "Guelma",
+   "ar_name": "قالمة",
+   "localities": [
+    {
+     "id": 853,
+     "name": "Ain Ben Beida",
+     "ar_name": "عين بن بيضاء",
+     "post_code": "24001"
+    },
+    {
+     "id": 854,
+     "name": "Ain Larbi",
+     "ar_name": "عين العربي",
+     "post_code": "24002"
+    },
+    {
+     "id": 855,
+     "name": "Ain Makhlouf",
+     "ar_name": "عين مخلوف",
+     "post_code": "24003"
+    },
+    {
+     "id": 856,
+     "name": "Ain Larba",
+     "ar_name": "عين رقادة",
+     "post_code": "24004"
+    },
+    {
+     "id": 857,
+     "name": "Ain Sandel",
+     "ar_name": "عين صندل",
+     "post_code": "24005"
+    },
+    {
+     "id": 858,
+     "name": "Belkheir",
+     "ar_name": "بلخير",
+     "post_code": "24006"
+    },
+    {
+     "id": 859,
+     "name": "Ben Djerrah",
+     "ar_name": "بن جراح",
+     "post_code": "24007"
+    },
+    {
+     "id": 860,
+     "name": "Ain Regada",
+     "ar_name": "بني مزلين",
+     "post_code": "24008"
+    },
+    {
+     "id": 861,
+     "name": "Bordj Sabat",
+     "ar_name": "برج صباط",
+     "post_code": "24009"
+    },
+    {
+     "id": 862,
+     "name": "Bouhamdane",
+     "ar_name": "بوحشانة",
+     "post_code": "24010"
+    },
+    {
+     "id": 863,
+     "name": "Bouhamdane",
+     "ar_name": "بوحمدان",
+     "post_code": "24011"
+    },
+    {
+     "id": 864,
+     "name": "Bouati Mahmoud",
+     "ar_name": "بوعاتي محمود",
+     "post_code": "24012"
+    },
+    {
+     "id": 865,
+     "name": "Bouchegouf",
+     "ar_name": "بوشقوف",
+     "post_code": "24013"
+    },
+    {
+     "id": 866,
+     "name": "Bou Mhra",
+     "ar_name": "بومهرة أحمد",
+     "post_code": "24014"
+    },
+    {
+     "id": 867,
+     "name": "Dahouara",
+     "ar_name": "الدهوارة",
+     "post_code": "24015"
+    },
+    {
+     "id": 868,
+     "name": "Djebala Khemissi",
+     "ar_name": "جبالة الخميسي",
+     "post_code": "24016"
+    },
+    {
+     "id": 869,
+     "name": "Ouf",
+     "ar_name": "الفجوج",
+     "post_code": "24017"
+    },
+    {
+     "id": 870,
+     "name": "Kaïs",
+     "ar_name": "قلعة بوصبع",
+     "post_code": "24018"
+    },
+    {
+     "id": 871,
+     "name": "Guelma",
+     "ar_name": "قالمة",
+     "post_code": "24019"
+    },
+    {
+     "id": 872,
+     "name": "Hammam Debagh",
+     "ar_name": "حمام دباغ",
+     "post_code": "24020"
+    },
+    {
+     "id": 873,
+     "name": "Hammam N'Bail",
+     "ar_name": "حمام النبايل",
+     "post_code": "24021"
+    },
+    {
+     "id": 874,
+     "name": "Heliopolis",
+     "ar_name": "هيليوبوليس",
+     "post_code": "24022"
+    },
+    {
+     "id": 875,
+     "name": "Nechmaya",
+     "ar_name": "نشماية",
+     "post_code": "24023"
+    },
+    {
+     "id": 876,
+     "name": "Khezaras",
+     "ar_name": "لخزارة",
+     "post_code": "24024"
+    },
+    {
+     "id": 877,
+     "name": "Medjez Amar",
+     "ar_name": "مجاز عمار",
+     "post_code": "24025"
+    },
+    {
+     "id": 878,
+     "name": "Guelaat Bou Sbaa",
+     "ar_name": "مجاز الصفاء",
+     "post_code": "24026"
+    },
+    {
+     "id": 879,
+     "name": "Heliopolis",
+     "ar_name": "هواري بومدين",
+     "post_code": "24027"
+    },
+    {
+     "id": 880,
+     "name": "Oued El Hammam",
+     "ar_name": "وادي الشحم",
+     "post_code": "24028"
+    },
+    {
+     "id": 881,
+     "name": "Oued Fragha",
+     "ar_name": "وادي فراغة",
+     "post_code": "24029"
+    },
+    {
+     "id": 882,
+     "name": "Oued Zenati",
+     "ar_name": "وادي الزناتي",
+     "post_code": "24030"
+    },
+    {
+     "id": 883,
+     "name": "Ras El Agba",
+     "ar_name": "رأس العقبة",
+     "post_code": "24031"
+    },
+    {
+     "id": 884,
+     "name": "Roknia",
+     "ar_name": "الركنية",
+     "post_code": "24032"
+    },
+    {
+     "id": 885,
+     "name": "Sellaoua Announa",
+     "ar_name": "سلاوة عنونة",
+     "post_code": "24033"
+    },
+    {
+     "id": 886,
+     "name": "Tamlouka",
+     "ar_name": "تاملوكة",
+     "post_code": "24034"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "code": "DZ-25",
+   "name": "Constantine",
+   "ar_name": "قسنطينة",
+   "localities": [
+    {
+     "id": 887,
+     "name": "Ain Abid",
+     "ar_name": "عين عبيد",
+     "post_code": "25001"
+    },
+    {
+     "id": 888,
+     "name": "Ain Smara",
+     "ar_name": "عين السمارة",
+     "post_code": "25002"
+    },
+    {
+     "id": 889,
+     "name": "Ibn Badis El Hria",
+     "ar_name": "أبن باديس الهرية",
+     "post_code": "25003"
+    },
+    {
+     "id": 890,
+     "name": "Beni Hamidane",
+     "ar_name": "بني حميدان",
+     "post_code": "25004"
+    },
+    {
+     "id": 891,
+     "name": "Constantine",
+     "ar_name": "قسنطينة",
+     "post_code": "25005"
+    },
+    {
+     "id": 892,
+     "name": "Didouche Mourad",
+     "ar_name": "ديدوش مراد",
+     "post_code": "25006"
+    },
+    {
+     "id": 893,
+     "name": "El Khroub",
+     "ar_name": "الخروب",
+     "post_code": "25007"
+    },
+    {
+     "id": 894,
+     "name": "Hamma Bouziane",
+     "ar_name": "حامة بوزيان",
+     "post_code": "25008"
+    },
+    {
+     "id": 895,
+     "name": "Ibn Ziad",
+     "ar_name": "ابن زياد",
+     "post_code": "25009"
+    },
+    {
+     "id": 896,
+     "name": "Beni Hamidane",
+     "ar_name": "بوجريو مسعود",
+     "post_code": "25010"
+    },
+    {
+     "id": 897,
+     "name": "Ouled Rahmoune",
+     "ar_name": "أولاد رحمون",
+     "post_code": "25011"
+    },
+    {
+     "id": 898,
+     "name": "Zighoud Youcef",
+     "ar_name": "زيغود يوسف",
+     "post_code": "25012"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "code": "DZ-26",
+   "name": "Médéa",
+   "ar_name": "المدية",
+   "localities": [
+    {
+     "id": 899,
+     "name": "Ain Boucif",
+     "ar_name": "عين بوسيف",
+     "post_code": "26001"
+    },
+    {
+     "id": 900,
+     "name": "Ain Ouksir",
+     "ar_name": "عين اقصير",
+     "post_code": "26002"
+    },
+    {
+     "id": 901,
+     "name": "El Aissaouia",
+     "ar_name": "العيساوية",
+     "post_code": "26003"
+    },
+    {
+     "id": 902,
+     "name": "Aziz",
+     "ar_name": "عزيز",
+     "post_code": "26004"
+    },
+    {
+     "id": 903,
+     "name": "Baata",
+     "ar_name": "بعطة",
+     "post_code": "26005"
+    },
+    {
+     "id": 904,
+     "name": "Ben Chekao",
+     "ar_name": "بن شكاو",
+     "post_code": "26006"
+    },
+    {
+     "id": 905,
+     "name": "Beni Slimane",
+     "ar_name": "بني سليمان",
+     "post_code": "26007"
+    },
+    {
+     "id": 906,
+     "name": "Berrouaghia",
+     "ar_name": "البرواقية",
+     "post_code": "26008"
+    },
+    {
+     "id": 907,
+     "name": "Bir Ben Abed",
+     "ar_name": "بئر بن عابد",
+     "post_code": "26009"
+    },
+    {
+     "id": 908,
+     "name": "Boughar",
+     "ar_name": "بوغار",
+     "post_code": "26010"
+    },
+    {
+     "id": 909,
+     "name": "Beni Slimane",
+     "ar_name": "بوعيش",
+     "post_code": "26011"
+    },
+    {
+     "id": 910,
+     "name": "Bouaichoune",
+     "ar_name": "بوعيشون",
+     "post_code": "26012"
+    },
+    {
+     "id": 911,
+     "name": "Bouchrahil",
+     "ar_name": "بوشراحيل",
+     "post_code": "26013"
+    },
+    {
+     "id": 912,
+     "name": "Boughezoul",
+     "ar_name": "بوغزول",
+     "post_code": "26014"
+    },
+    {
+     "id": 913,
+     "name": "Bousken",
+     "ar_name": "بوسكن",
+     "post_code": "26015"
+    },
+    {
+     "id": 914,
+     "name": "Chahbounia",
+     "ar_name": "الشهبونية",
+     "post_code": "26016"
+    },
+    {
+     "id": 915,
+     "name": "Chellalat El Adhaoura",
+     "ar_name": "شلالة العذاورة",
+     "post_code": "26017"
+    },
+    {
+     "id": 916,
+     "name": "Cheniguel",
+     "ar_name": "شنيقل",
+     "post_code": "26018"
+    },
+    {
+     "id": 917,
+     "name": "Draa El Mizan",
+     "ar_name": "دراق",
+     "post_code": "26019"
+    },
+    {
+     "id": 918,
+     "name": "Djouab",
+     "ar_name": "جواب",
+     "post_code": "26020"
+    },
+    {
+     "id": 919,
+     "name": "Draa Essamar",
+     "ar_name": "ذراع السمار",
+     "post_code": "26021"
+    },
+    {
+     "id": 920,
+     "name": "El Azizia",
+     "ar_name": "العزيزية",
+     "post_code": "26022"
+    },
+    {
+     "id": 921,
+     "name": "Ouled Hellal",
+     "ar_name": "القلب الكبير",
+     "post_code": "26023"
+    },
+    {
+     "id": 922,
+     "name": "Hamdania",
+     "ar_name": "الحمدانية",
+     "post_code": "26024"
+    },
+    {
+     "id": 923,
+     "name": "El Houdan",
+     "ar_name": "الحوضان",
+     "post_code": "26025"
+    },
+    {
+     "id": 924,
+     "name": "El Omaria",
+     "ar_name": "العمارية",
+     "post_code": "26026"
+    },
+    {
+     "id": 925,
+     "name": "El Ouinet",
+     "ar_name": "العوينات",
+     "post_code": "26027"
+    },
+    {
+     "id": 926,
+     "name": "Hannacha",
+     "ar_name": "حناشة",
+     "post_code": "26028"
+    },
+    {
+     "id": 927,
+     "name": "El Kef El Akhdar",
+     "ar_name": "الكاف الاخضر",
+     "post_code": "26029"
+    },
+    {
+     "id": 928,
+     "name": "Khams Djouamaa",
+     "ar_name": "خمس جوامع",
+     "post_code": "26030"
+    },
+    {
+     "id": 929,
+     "name": "Ksar El Boukhari",
+     "ar_name": "قصر البخاري",
+     "post_code": "26031"
+    },
+    {
+     "id": 930,
+     "name": "Mghira",
+     "ar_name": "مغراوة",
+     "post_code": "26032"
+    },
+    {
+     "id": 931,
+     "name": "Medea",
+     "ar_name": "المدية",
+     "post_code": "26033"
+    },
+    {
+     "id": 932,
+     "name": "Mjebeur",
+     "ar_name": "مجبر",
+     "post_code": "26034"
+    },
+    {
+     "id": 933,
+     "name": "Mezghna",
+     "ar_name": "مزغنة",
+     "post_code": "26035"
+    },
+    {
+     "id": 934,
+     "name": "Mfatha",
+     "ar_name": "مفاتحة",
+     "post_code": "26036"
+    },
+    {
+     "id": 935,
+     "name": "Mihoub",
+     "ar_name": "ميهوب",
+     "post_code": "26037"
+    },
+    {
+     "id": 936,
+     "name": "Ouamri",
+     "ar_name": "عوامري",
+     "post_code": "26038"
+    },
+    {
+     "id": 937,
+     "name": "Oued Harbil",
+     "ar_name": "وادي حربيل",
+     "post_code": "26039"
+    },
+    {
+     "id": 938,
+     "name": "Ouled Antar",
+     "ar_name": "أولاد عنتر",
+     "post_code": "26040"
+    },
+    {
+     "id": 939,
+     "name": "Ouled Bouacherine",
+     "ar_name": "أولاد بوعشرة",
+     "post_code": "26041"
+    },
+    {
+     "id": 940,
+     "name": "Ouled Brahim",
+     "ar_name": "أولاد إبراهيم",
+     "post_code": "26042"
+    },
+    {
+     "id": 941,
+     "name": "Ouled Daid",
+     "ar_name": "أولاد دايد",
+     "post_code": "26043"
+    },
+    {
+     "id": 942,
+     "name": "Ouled Maaref",
+     "ar_name": "أولاد امعرف",
+     "post_code": "26044"
+    },
+    {
+     "id": 943,
+     "name": "Ouled Hellal",
+     "ar_name": "أولاد هلال",
+     "post_code": "26045"
+    },
+    {
+     "id": 944,
+     "name": "Oum Djalil",
+     "ar_name": "أم الجليل",
+     "post_code": "26046"
+    },
+    {
+     "id": 945,
+     "name": "Ouzera",
+     "ar_name": "وزرة",
+     "post_code": "26047"
+    },
+    {
+     "id": 946,
+     "name": "Rabaia",
+     "ar_name": "الربعية",
+     "post_code": "26048"
+    },
+    {
+     "id": 947,
+     "name": "Saneg",
+     "ar_name": "السانق",
+     "post_code": "26049"
+    },
+    {
+     "id": 948,
+     "name": "Sedraya",
+     "ar_name": "سدراية",
+     "post_code": "26050"
+    },
+    {
+     "id": 949,
+     "name": "Seghouane",
+     "ar_name": "سغوان",
+     "post_code": "26051"
+    },
+    {
+     "id": 950,
+     "name": "Si Mahdjoub",
+     "ar_name": "سي المحجوب",
+     "post_code": "26052"
+    },
+    {
+     "id": 951,
+     "name": "Sidi Damed",
+     "ar_name": "سيدي دامد",
+     "post_code": "26053"
+    },
+    {
+     "id": 952,
+     "name": "Sidi Naamane",
+     "ar_name": "سيدي نعمان",
+     "post_code": "26054"
+    },
+    {
+     "id": 953,
+     "name": "Sidi Rabie",
+     "ar_name": "سيدي الربيع",
+     "post_code": "26055"
+    },
+    {
+     "id": 954,
+     "name": "Sidi Zahar",
+     "ar_name": "سيدي زهار",
+     "post_code": "26056"
+    },
+    {
+     "id": 955,
+     "name": "Sidi Ziane",
+     "ar_name": "سيدي زيان",
+     "post_code": "26057"
+    },
+    {
+     "id": 956,
+     "name": "Souaghi",
+     "ar_name": "السواقي",
+     "post_code": "26058"
+    },
+    {
+     "id": 957,
+     "name": "Tablat",
+     "ar_name": "تابلاط",
+     "post_code": "26059"
+    },
+    {
+     "id": 958,
+     "name": "Tefraout",
+     "ar_name": "تفراوت",
+     "post_code": "26060"
+    },
+    {
+     "id": 959,
+     "name": "Temsakida",
+     "ar_name": "تمسقيدة",
+     "post_code": "26061"
+    },
+    {
+     "id": 960,
+     "name": "Tizi Mahend",
+     "ar_name": "تيزي مهدي",
+     "post_code": "26062"
+    },
+    {
+     "id": 961,
+     "name": "Tlath Douyour",
+     "ar_name": "ثلاث دوائر",
+     "post_code": "26063"
+    },
+    {
+     "id": 962,
+     "name": "Zoubiria",
+     "ar_name": "الزبيرية",
+     "post_code": "26064"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "code": "DZ-27",
+   "name": "Mostaganem",
+   "ar_name": "مستغانم",
+   "localities": [
+    {
+     "id": 963,
+     "name": "Achaacha",
+     "ar_name": "عشعاشة",
+     "post_code": "27001"
+    },
+    {
+     "id": 964,
+     "name": "Ain Boudinar",
+     "ar_name": "عين بودينار",
+     "post_code": "27002"
+    },
+    {
+     "id": 965,
+     "name": "Ain Nouiceri",
+     "ar_name": "عين نويسي",
+     "post_code": "27003"
+    },
+    {
+     "id": 966,
+     "name": "Ain Sidi Cherif",
+     "ar_name": "عين سيدي الشريف",
+     "post_code": "27004"
+    },
+    {
+     "id": 967,
+     "name": "Ain Tedles",
+     "ar_name": "عين تادلس",
+     "post_code": "27005"
+    },
+    {
+     "id": 968,
+     "name": "Ben Abdelmalek Ramdane",
+     "ar_name": "بن عبد المالك رمضان",
+     "post_code": "27006"
+    },
+    {
+     "id": 969,
+     "name": "Bouguirat",
+     "ar_name": "بوقيراط",
+     "post_code": "27007"
+    },
+    {
+     "id": 970,
+     "name": "Fornaka",
+     "ar_name": "فرناقة",
+     "post_code": "27008"
+    },
+    {
+     "id": 971,
+     "name": "Hadjadj",
+     "ar_name": "حجاج",
+     "post_code": "27009"
+    },
+    {
+     "id": 972,
+     "name": "Hacine",
+     "ar_name": "حاسي ماماش",
+     "post_code": "27010"
+    },
+    {
+     "id": 973,
+     "name": "Ain Sidi Cherif",
+     "ar_name": "الحسيان (بني ياحي",
+     "post_code": "27011"
+    },
+    {
+     "id": 974,
+     "name": "Khedr",
+     "ar_name": "خضرة",
+     "post_code": "27012"
+    },
+    {
+     "id": 975,
+     "name": "Kheiredine",
+     "ar_name": "خير الدين",
+     "post_code": "27013"
+    },
+    {
+     "id": 976,
+     "name": "Mansourah",
+     "ar_name": "منصورة",
+     "post_code": "27014"
+    },
+    {
+     "id": 977,
+     "name": "Mazagran",
+     "ar_name": "مزغران",
+     "post_code": "27015"
+    },
+    {
+     "id": 978,
+     "name": "Mesra",
+     "ar_name": "ماسرة",
+     "post_code": "27016"
+    },
+    {
+     "id": 979,
+     "name": "Mostaganem",
+     "ar_name": "مستغانم",
+     "post_code": "27017"
+    },
+    {
+     "id": 980,
+     "name": "Nekmaria",
+     "ar_name": "نكمارية",
+     "post_code": "27018"
+    },
+    {
+     "id": 981,
+     "name": "Oued El Kheir",
+     "ar_name": "وادي الخير",
+     "post_code": "27019"
+    },
+    {
+     "id": 982,
+     "name": "Ouled Boughalem",
+     "ar_name": "أولاد بوغالم",
+     "post_code": "27020"
+    },
+    {
+     "id": 983,
+     "name": "Ouled Maallah",
+     "ar_name": "أولاد مع الله",
+     "post_code": "27021"
+    },
+    {
+     "id": 984,
+     "name": "Saf Saf",
+     "ar_name": "صفصاف",
+     "post_code": "27022"
+    },
+    {
+     "id": 985,
+     "name": "Sayada",
+     "ar_name": "صيادة",
+     "post_code": "27023"
+    },
+    {
+     "id": 986,
+     "name": "Sidi Ali",
+     "ar_name": "سيدي علي",
+     "post_code": "27024"
+    },
+    {
+     "id": 987,
+     "name": "Sidi Belattar",
+     "ar_name": "سيدي بلعطار",
+     "post_code": "27025"
+    },
+    {
+     "id": 988,
+     "name": "Sidi Lakhdar",
+     "ar_name": "سيدي لخضر",
+     "post_code": "27026"
+    },
+    {
+     "id": 989,
+     "name": "Sirat",
+     "ar_name": "سيرات",
+     "post_code": "27027"
+    },
+    {
+     "id": 990,
+     "name": "Souaflia",
+     "ar_name": "السوافلية",
+     "post_code": "27028"
+    },
+    {
+     "id": 991,
+     "name": "Souahlia",
+     "ar_name": "سور",
+     "post_code": "27029"
+    },
+    {
+     "id": 992,
+     "name": "Stidia",
+     "ar_name": "ستيدية",
+     "post_code": "27030"
+    },
+    {
+     "id": 993,
+     "name": "Tazgait",
+     "ar_name": "تزقايت",
+     "post_code": "27031"
+    },
+    {
+     "id": 994,
+     "name": "Touahria",
+     "ar_name": "الطواهرية",
+     "post_code": "27032"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "code": "DZ-28",
+   "name": "M'Sila",
+   "ar_name": "المسيلة",
+   "localities": [
+    {
+     "id": 995,
+     "name": "Ain El Hadjel",
+     "ar_name": "عين الحجل",
+     "post_code": "28001"
+    },
+    {
+     "id": 996,
+     "name": "Ain El Melh",
+     "ar_name": "عين الملح",
+     "post_code": "28002"
+    },
+    {
+     "id": 997,
+     "name": "Ain Fares",
+     "ar_name": "عين فارس",
+     "post_code": "28003"
+    },
+    {
+     "id": 998,
+     "name": "Ain El Khadra",
+     "ar_name": "عين الخضراء",
+     "post_code": "28004"
+    },
+    {
+     "id": 999,
+     "name": "Ain Er Rich",
+     "ar_name": "عين الريش",
+     "post_code": "28005"
+    },
+    {
+     "id": 1000,
+     "name": "Belaiba",
+     "ar_name": "بلعايبة",
+     "post_code": "28006"
+    },
+    {
+     "id": 1001,
+     "name": "Ben Srour",
+     "ar_name": "بن سرور",
+     "post_code": "28007"
+    },
+    {
+     "id": 1002,
+     "name": "Beni Ilmane",
+     "ar_name": "بني يلمان",
+     "post_code": "28008"
+    },
+    {
+     "id": 1003,
+     "name": "Ben Zouha",
+     "ar_name": "بن زوه",
+     "post_code": "28009"
+    },
+    {
+     "id": 1004,
+     "name": "Bou Saada",
+     "ar_name": "برهوم",
+     "post_code": "28010"
+    },
+    {
+     "id": 1005,
+     "name": "Bir Foda",
+     "ar_name": "بئر فضة",
+     "post_code": "28011"
+    },
+    {
+     "id": 1006,
+     "name": "Bou Saada",
+     "ar_name": "بوسعادة",
+     "post_code": "28012"
+    },
+    {
+     "id": 1007,
+     "name": "Bouti El Saih",
+     "ar_name": "بوطي السايح",
+     "post_code": "28013"
+    },
+    {
+     "id": 1008,
+     "name": "Chellal",
+     "ar_name": "شلال",
+     "post_code": "28014"
+    },
+    {
+     "id": 1009,
+     "name": "Dehahna",
+     "ar_name": "دهاهنة",
+     "post_code": "28015"
+    },
+    {
+     "id": 1010,
+     "name": "Djebel Messaad",
+     "ar_name": "جبل مساعد",
+     "post_code": "28016"
+    },
+    {
+     "id": 1011,
+     "name": "El Hamel",
+     "ar_name": "الهامل",
+     "post_code": "28017"
+    },
+    {
+     "id": 1012,
+     "name": "El Houamed",
+     "ar_name": "الحوامد",
+     "post_code": "28018"
+    },
+    {
+     "id": 1013,
+     "name": "Hammam Dalaa",
+     "ar_name": "حمام الضلعة",
+     "post_code": "28019"
+    },
+    {
+     "id": 1014,
+     "name": "Khatabi Saddjer",
+     "ar_name": "خطوطي سد الجير",
+     "post_code": "28020"
+    },
+    {
+     "id": 1015,
+     "name": "Khoubana",
+     "ar_name": "خبانة",
+     "post_code": "28021"
+    },
+    {
+     "id": 1016,
+     "name": "El Maarif",
+     "ar_name": "المعاضيد",
+     "post_code": "28022"
+    },
+    {
+     "id": 1017,
+     "name": "Maarif",
+     "ar_name": "معاريف",
+     "post_code": "28023"
+    },
+    {
+     "id": 1018,
+     "name": "Maadid",
+     "ar_name": "مقرة",
+     "post_code": "28024"
+    },
+    {
+     "id": 1019,
+     "name": "Msif",
+     "ar_name": "مسيف",
+     "post_code": "28025"
+    },
+    {
+     "id": 1020,
+     "name": "Imdjel",
+     "ar_name": "امجدل",
+     "post_code": "28026"
+    },
+    {
+     "id": 1021,
+     "name": "Menaâ",
+     "ar_name": "مناعة",
+     "post_code": "28027"
+    },
+    {
+     "id": 1022,
+     "name": "Mohamed Boudiaf",
+     "ar_name": "محمد بوضياف",
+     "post_code": "28028"
+    },
+    {
+     "id": 1023,
+     "name": "M'Sila",
+     "ar_name": "المسيلة",
+     "post_code": "28029"
+    },
+    {
+     "id": 1024,
+     "name": "Metarfa",
+     "ar_name": "المطارفة",
+     "post_code": "28030"
+    },
+    {
+     "id": 1025,
+     "name": "Ouled Madi",
+     "ar_name": "ونوغة",
+     "post_code": "28031"
+    },
+    {
+     "id": 1026,
+     "name": "Ouled Addi Leguebala",
+     "ar_name": "أولاد عدي لقبالة",
+     "post_code": "28032"
+    },
+    {
+     "id": 1027,
+     "name": "Ouled Derradj",
+     "ar_name": "أولاد دراج",
+     "post_code": "28033"
+    },
+    {
+     "id": 1028,
+     "name": "Slim",
+     "ar_name": "أولاد ماضي",
+     "post_code": "28034"
+    },
+    {
+     "id": 1029,
+     "name": "Ouled Mansour",
+     "ar_name": "أولاد منصور",
+     "post_code": "28035"
+    },
+    {
+     "id": 1030,
+     "name": "Ouled Sidi Brahim",
+     "ar_name": "أولاد سيدي ابراهيم",
+     "post_code": "28036"
+    },
+    {
+     "id": 1031,
+     "name": "Ouled Slimane",
+     "ar_name": "أولاد سليمان",
+     "post_code": "28037"
+    },
+    {
+     "id": 1032,
+     "name": "Ouled Madi",
+     "ar_name": "ولتام",
+     "post_code": "28038"
+    },
+    {
+     "id": 1033,
+     "name": "Sidi Aissa",
+     "ar_name": "سيدي عيسى",
+     "post_code": "28039"
+    },
+    {
+     "id": 1034,
+     "name": "Larhat",
+     "ar_name": "سيدي عامر",
+     "post_code": "28040"
+    },
+    {
+     "id": 1035,
+     "name": "Ain El Melh",
+     "ar_name": "سيدي هجرس",
+     "post_code": "28041"
+    },
+    {
+     "id": 1036,
+     "name": "Ksar El Hirane",
+     "ar_name": "سيدي امحمد",
+     "post_code": "28042"
+    },
+    {
+     "id": 1037,
+     "name": "Slim",
+     "ar_name": "سليم",
+     "post_code": "28043"
+    },
+    {
+     "id": 1038,
+     "name": "Es Souamaa",
+     "ar_name": "السوامع",
+     "post_code": "28044"
+    },
+    {
+     "id": 1039,
+     "name": "Ain Fares",
+     "ar_name": "تامسة",
+     "post_code": "28045"
+    },
+    {
+     "id": 1040,
+     "name": "Chellal",
+     "ar_name": "تارمونت",
+     "post_code": "28046"
+    },
+    {
+     "id": 1041,
+     "name": "Zarzour",
+     "ar_name": "زرزور",
+     "post_code": "28047"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "code": "DZ-29",
+   "name": "Mascara",
+   "ar_name": "معسكر",
+   "localities": [
+    {
+     "id": 1042,
+     "name": "Ain Fares",
+     "ar_name": "عين فارس",
+     "post_code": "29001"
+    },
+    {
+     "id": 1043,
+     "name": "Ain Fekan",
+     "ar_name": "عين فكان",
+     "post_code": "29002"
+    },
+    {
+     "id": 1044,
+     "name": "Ain Fares",
+     "ar_name": "عين فراح",
+     "post_code": "29003"
+    },
+    {
+     "id": 1045,
+     "name": "Ain Fekan",
+     "ar_name": "عين أفرص",
+     "post_code": "29004"
+    },
+    {
+     "id": 1046,
+     "name": "El Alaimia",
+     "ar_name": "العلايمية",
+     "post_code": "29005"
+    },
+    {
+     "id": 1047,
+     "name": "Aouf",
+     "ar_name": "عوف",
+     "post_code": "29006"
+    },
+    {
+     "id": 1048,
+     "name": "Benian",
+     "ar_name": "بنيان",
+     "post_code": "29007"
+    },
+    {
+     "id": 1049,
+     "name": "Bouhanifia",
+     "ar_name": "بوهني",
+     "post_code": "29008"
+    },
+    {
+     "id": 1050,
+     "name": "Bouhanifia",
+     "ar_name": "بوحنيفية",
+     "post_code": "29009"
+    },
+    {
+     "id": 1051,
+     "name": "Bou Hanifia",
+     "ar_name": "الشرفاء",
+     "post_code": "29010"
+    },
+    {
+     "id": 1052,
+     "name": "Bordjia",
+     "ar_name": "البرج",
+     "post_code": "29011"
+    },
+    {
+     "id": 1053,
+     "name": "Beniane",
+     "ar_name": "القعدة",
+     "post_code": "29012"
+    },
+    {
+     "id": 1054,
+     "name": "El Ghomri",
+     "ar_name": "الغمري",
+     "post_code": "29013"
+    },
+    {
+     "id": 1055,
+     "name": "El Gaada",
+     "ar_name": "القطنة",
+     "post_code": "29014"
+    },
+    {
+     "id": 1056,
+     "name": "El Hachem",
+     "ar_name": "الحشم",
+     "post_code": "29015"
+    },
+    {
+     "id": 1057,
+     "name": "El Gourt",
+     "ar_name": "القرط",
+     "post_code": "29016"
+    },
+    {
+     "id": 1058,
+     "name": "El Mamounia",
+     "ar_name": "المأمونية",
+     "post_code": "29017"
+    },
+    {
+     "id": 1059,
+     "name": "Guettena",
+     "ar_name": "المنور",
+     "post_code": "29018"
+    },
+    {
+     "id": 1060,
+     "name": "Fraguig",
+     "ar_name": "فراقيق",
+     "post_code": "29019"
+    },
+    {
+     "id": 1061,
+     "name": "Froha",
+     "ar_name": "فروحة",
+     "post_code": "29020"
+    },
+    {
+     "id": 1062,
+     "name": "Ghriss",
+     "ar_name": "غروس",
+     "post_code": "29021"
+    },
+    {
+     "id": 1063,
+     "name": "Ghris",
+     "ar_name": "غريس",
+     "post_code": "29022"
+    },
+    {
+     "id": 1064,
+     "name": "Guerguem",
+     "ar_name": "قرجوم",
+     "post_code": "29023"
+    },
+    {
+     "id": 1065,
+     "name": "Guettena",
+     "ar_name": "حسين",
+     "post_code": "29024"
+    },
+    {
+     "id": 1066,
+     "name": "Khalouia",
+     "ar_name": "خلوية",
+     "post_code": "29025"
+    },
+    {
+     "id": 1067,
+     "name": "Maqda",
+     "ar_name": "ماقضة",
+     "post_code": "29026"
+    },
+    {
+     "id": 1068,
+     "name": "Maoussa",
+     "ar_name": "ماوسة",
+     "post_code": "29027"
+    },
+    {
+     "id": 1069,
+     "name": "Mascara",
+     "ar_name": "معسكر",
+     "post_code": "29028"
+    },
+    {
+     "id": 1070,
+     "name": "El Matmar",
+     "ar_name": "المطمور",
+     "post_code": "29029"
+    },
+    {
+     "id": 1071,
+     "name": "Makdha",
+     "ar_name": "مقطع الدوز",
+     "post_code": "29030"
+    },
+    {
+     "id": 1072,
+     "name": "Mohammadia",
+     "ar_name": "المحمدية",
+     "post_code": "29031"
+    },
+    {
+     "id": 1073,
+     "name": "Ghriss",
+     "ar_name": "نسمط",
+     "post_code": "29032"
+    },
+    {
+     "id": 1074,
+     "name": "Oggaz",
+     "ar_name": "عقاز",
+     "post_code": "29033"
+    },
+    {
+     "id": 1075,
+     "name": "Oued El Abtal",
+     "ar_name": "وادي الأبطال",
+     "post_code": "29034"
+    },
+    {
+     "id": 1076,
+     "name": "Oued Taghia",
+     "ar_name": "وادي التاغية",
+     "post_code": "29035"
+    },
+    {
+     "id": 1077,
+     "name": "Ras El Ain Amirouche",
+     "ar_name": "رأس عين عميروش",
+     "post_code": "29036"
+    },
+    {
+     "id": 1078,
+     "name": "Sedjrara",
+     "ar_name": "سجرارة",
+     "post_code": "29037"
+    },
+    {
+     "id": 1079,
+     "name": "Sidi Boussaid",
+     "ar_name": "السهايلية",
+     "post_code": "29038"
+    },
+    {
+     "id": 1080,
+     "name": "Sidi Abdeldjabbar",
+     "ar_name": "سيدي عبد الجبار",
+     "post_code": "29039"
+    },
+    {
+     "id": 1081,
+     "name": "Sidi Abd El Moumen",
+     "ar_name": "سيدي عبد المومن",
+     "post_code": "29040"
+    },
+    {
+     "id": 1082,
+     "name": "Sidi Bousaid",
+     "ar_name": "سيدي بوسعيد",
+     "post_code": "29041"
+    },
+    {
+     "id": 1083,
+     "name": "Sidi Kada",
+     "ar_name": "سيدي قادة",
+     "post_code": "29042"
+    },
+    {
+     "id": 1084,
+     "name": "Sidi M'Hamed Ben Aouda",
+     "ar_name": "سيق",
+     "post_code": "29043"
+    },
+    {
+     "id": 1085,
+     "name": "Tighennif",
+     "ar_name": "تيغنيف",
+     "post_code": "29044"
+    },
+    {
+     "id": 1086,
+     "name": "Tizi",
+     "ar_name": "تيزي",
+     "post_code": "29045"
+    },
+    {
+     "id": 1087,
+     "name": "Ain Frass",
+     "ar_name": "زهانة",
+     "post_code": "29046"
+    },
+    {
+     "id": 1088,
+     "name": "Zelamta",
+     "ar_name": "زلامطة",
+     "post_code": "29047"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "code": "DZ-30",
+   "name": "Ouargla",
+   "ar_name": "ورقلة",
+   "localities": [
+    {
+     "id": 1089,
+     "name": "Ain Beida",
+     "ar_name": "عين البيضاء",
+     "post_code": "30001"
+    },
+    {
+     "id": 1093,
+     "name": "El Borma",
+     "ar_name": "البرمة",
+     "post_code": "30002"
+    },
+    {
+     "id": 1095,
+     "name": "Hassi Ben Abdallah",
+     "ar_name": "حاسي بن عبد الله",
+     "post_code": "30003"
+    },
+    {
+     "id": 1096,
+     "name": "Hassi Messaoud",
+     "ar_name": "حاسي مسعود",
+     "post_code": "30004"
+    },
+    {
+     "id": 1100,
+     "name": "Ngoussa",
+     "ar_name": "انقوسة",
+     "post_code": "30005"
+    },
+    {
+     "id": 1101,
+     "name": "Ouargla",
+     "ar_name": "ورقلة",
+     "post_code": "30006"
+    },
+    {
+     "id": 1102,
+     "name": "Rouissat",
+     "ar_name": "الرويسات",
+     "post_code": "30007"
+    },
+    {
+     "id": 1103,
+     "name": "Sidi Khouiled",
+     "ar_name": "سيدي خويلد",
+     "post_code": "30008"
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "code": "DZ-31",
+   "name": "Oran",
+   "ar_name": "وهران",
+   "localities": [
+    {
+     "id": 1110,
+     "name": "Ain La Bya",
+     "ar_name": "عين البية",
+     "post_code": "31001"
+    },
+    {
+     "id": 1111,
+     "name": "Ain El Karma",
+     "ar_name": "عين الكرمة",
+     "post_code": "31002"
+    },
+    {
+     "id": 1112,
+     "name": "Ain El Turk",
+     "ar_name": "عين الترك",
+     "post_code": "31003"
+    },
+    {
+     "id": 1113,
+     "name": "Arzew",
+     "ar_name": "أرزيو",
+     "post_code": "31004"
+    },
+    {
+     "id": 1114,
+     "name": "Ben Freha",
+     "ar_name": "بن فريحة",
+     "post_code": "31005"
+    },
+    {
+     "id": 1115,
+     "name": "Bethioua",
+     "ar_name": "بطيوة",
+     "post_code": "31006"
+    },
+    {
+     "id": 1116,
+     "name": "Bir El Djir",
+     "ar_name": "بئر الجير",
+     "post_code": "31007"
+    },
+    {
+     "id": 1117,
+     "name": "Boufatis",
+     "ar_name": "بوفاتيس",
+     "post_code": "31008"
+    },
+    {
+     "id": 1118,
+     "name": "Bousfer",
+     "ar_name": "بوسفر",
+     "post_code": "31009"
+    },
+    {
+     "id": 1119,
+     "name": "Boutlelis",
+     "ar_name": "بوتليليس",
+     "post_code": "31010"
+    },
+    {
+     "id": 1120,
+     "name": "El Ançor",
+     "ar_name": "العنصر",
+     "post_code": "31011"
+    },
+    {
+     "id": 1121,
+     "name": "El Braya",
+     "ar_name": "البراية",
+     "post_code": "31012"
+    },
+    {
+     "id": 1122,
+     "name": "El Kerma",
+     "ar_name": "الكرمة",
+     "post_code": "31013"
+    },
+    {
+     "id": 1123,
+     "name": "Es Senia",
+     "ar_name": "السانية",
+     "post_code": "31014"
+    },
+    {
+     "id": 1124,
+     "name": "Gdyel",
+     "ar_name": "قديل",
+     "post_code": "31015"
+    },
+    {
+     "id": 1125,
+     "name": "Hassi Ben Okba",
+     "ar_name": "حاسي بن عقبة",
+     "post_code": "31016"
+    },
+    {
+     "id": 1126,
+     "name": "Hassi Bounif",
+     "ar_name": "حاسي بونيف",
+     "post_code": "31017"
+    },
+    {
+     "id": 1127,
+     "name": "Hassi Mefsoukh",
+     "ar_name": "حاسي مفسوخ",
+     "post_code": "31018"
+    },
+    {
+     "id": 1128,
+     "name": "Mers El Kebir",
+     "ar_name": "مرسى الحجاج",
+     "post_code": "31019"
+    },
+    {
+     "id": 1129,
+     "name": "Mers El Kebir",
+     "ar_name": "المرسى الكبير",
+     "post_code": "31020"
+    },
+    {
+     "id": 1130,
+     "name": "Misserghine",
+     "ar_name": "مسرغين",
+     "post_code": "31021"
+    },
+    {
+     "id": 1131,
+     "name": "Oran",
+     "ar_name": "وهران",
+     "post_code": "31022"
+    },
+    {
+     "id": 1132,
+     "name": "Oued Tlelat",
+     "ar_name": "وادي تليلات",
+     "post_code": "31023"
+    },
+    {
+     "id": 1133,
+     "name": "Sidi Ben Yebka",
+     "ar_name": "سيدي بن يبقى",
+     "post_code": "31024"
+    },
+    {
+     "id": 1134,
+     "name": "Sidi Chami",
+     "ar_name": "سيدي الشحمي",
+     "post_code": "31025"
+    },
+    {
+     "id": 1135,
+     "name": "Tafraoui",
+     "ar_name": "طفراوي",
+     "post_code": "31026"
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "code": "DZ-32",
+   "name": "El Bayadh",
+   "ar_name": "البيض",
+   "localities": [
+    {
+     "id": 1136,
+     "name": "Ain El Orak",
+     "ar_name": "عين العراك",
+     "post_code": "32001"
+    },
+    {
+     "id": 1137,
+     "name": "Arbaouat",
+     "ar_name": "اربوات",
+     "post_code": "32002"
+    },
+    {
+     "id": 1138,
+     "name": "Boualem",
+     "ar_name": "بوعلام",
+     "post_code": "32003"
+    },
+    {
+     "id": 1139,
+     "name": "Bougtoub",
+     "ar_name": "بوقطب",
+     "post_code": "32004"
+    },
+    {
+     "id": 1140,
+     "name": "Boussemghoun",
+     "ar_name": "بوسمغون",
+     "post_code": "32005"
+    },
+    {
+     "id": 1141,
+     "name": "Brezina",
+     "ar_name": "بريزينة",
+     "post_code": "32006"
+    },
+    {
+     "id": 1142,
+     "name": "Cheguig",
+     "ar_name": "الشقيق",
+     "post_code": "32007"
+    },
+    {
+     "id": 1143,
+     "name": "Chellala",
+     "ar_name": "شلالة",
+     "post_code": "32008"
+    },
+    {
+     "id": 1144,
+     "name": "El Bayadh",
+     "ar_name": "البيض",
+     "post_code": "32009"
+    },
+    {
+     "id": 1145,
+     "name": "El Abiodh Sidi Cheikh",
+     "ar_name": "الأبيض سيدي الشيخ",
+     "post_code": "32010"
+    },
+    {
+     "id": 1146,
+     "name": "El Bnoud",
+     "ar_name": "البنود",
+     "post_code": "32011"
+    },
+    {
+     "id": 1147,
+     "name": "El Khiter",
+     "ar_name": "الخيثر",
+     "post_code": "32012"
+    },
+    {
+     "id": 1148,
+     "name": "El Mehara",
+     "ar_name": "المحرة",
+     "post_code": "32013"
+    },
+    {
+     "id": 1149,
+     "name": "El Ghassoul",
+     "ar_name": "الغاسول",
+     "post_code": "32014"
+    },
+    {
+     "id": 1150,
+     "name": "El Kaf El Ahmar",
+     "ar_name": "الكاف الأحمر",
+     "post_code": "32015"
+    },
+    {
+     "id": 1151,
+     "name": "Krakda",
+     "ar_name": "كراكدة",
+     "post_code": "32016"
+    },
+    {
+     "id": 1152,
+     "name": "Rogassa",
+     "ar_name": "رقاصة",
+     "post_code": "32017"
+    },
+    {
+     "id": 1153,
+     "name": "Larhat",
+     "ar_name": "سيدي عامر",
+     "post_code": "32018"
+    },
+    {
+     "id": 1154,
+     "name": "Sidi Slimane",
+     "ar_name": "سيدي سليمان",
+     "post_code": "32019"
+    },
+    {
+     "id": 1155,
+     "name": "Sidi Tifour",
+     "ar_name": "سيدي طيفور",
+     "post_code": "32020"
+    },
+    {
+     "id": 1156,
+     "name": "Stitten",
+     "ar_name": "ستيتن",
+     "post_code": "32021"
+    },
+    {
+     "id": 1157,
+     "name": "Tousmouline",
+     "ar_name": "توسمولين",
+     "post_code": "32022"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "code": "DZ-33",
+   "name": "Illizi",
+   "ar_name": "إليزي",
+   "localities": [
+    {
+     "id": 1159,
+     "name": "Bordj Omar Driss",
+     "ar_name": "برج عمر إدريس",
+     "post_code": "33001"
+    },
+    {
+     "id": 1160,
+     "name": "Debdeb",
+     "ar_name": "دبداب",
+     "post_code": "33002"
+    },
+    {
+     "id": 1162,
+     "name": "Illizi",
+     "ar_name": "إيليزي",
+     "post_code": "33003"
+    },
+    {
+     "id": 1163,
+     "name": "In Amenas",
+     "ar_name": "إن أمناس",
+     "post_code": "33004"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "code": "DZ-34",
+   "name": "Bordj Bou Arréridj",
+   "ar_name": "برج بوعريريج",
+   "localities": [
+    {
+     "id": 1164,
+     "name": "Ain Taghrout",
+     "ar_name": "عين تاغروت",
+     "post_code": "34001"
+    },
+    {
+     "id": 1165,
+     "name": "Ain Tesra",
+     "ar_name": "عين تسرة",
+     "post_code": "34002"
+    },
+    {
+     "id": 1166,
+     "name": "Bordj Bou Arreridj",
+     "ar_name": "برج بوعريرج",
+     "post_code": "34003"
+    },
+    {
+     "id": 1167,
+     "name": "Belimour",
+     "ar_name": "بليمور",
+     "post_code": "34004"
+    },
+    {
+     "id": 1168,
+     "name": "Ben Daoud",
+     "ar_name": "بن داود",
+     "post_code": "34005"
+    },
+    {
+     "id": 1169,
+     "name": "Bir Kasdali",
+     "ar_name": "بئر قاصد علي",
+     "post_code": "34006"
+    },
+    {
+     "id": 1170,
+     "name": "Bordj Ghedir",
+     "ar_name": "برج الغدير",
+     "post_code": "34007"
+    },
+    {
+     "id": 1171,
+     "name": "Bordj Ghedir",
+     "ar_name": "برج زمورة",
+     "post_code": "34008"
+    },
+    {
+     "id": 1172,
+     "name": "El Kolla",
+     "ar_name": "القلة",
+     "post_code": "34009"
+    },
+    {
+     "id": 1173,
+     "name": "Djaafra",
+     "ar_name": "جعافرة",
+     "post_code": "34010"
+    },
+    {
+     "id": 1174,
+     "name": "El Ach",
+     "ar_name": "العش",
+     "post_code": "34011"
+    },
+    {
+     "id": 1175,
+     "name": "El Yachir",
+     "ar_name": "الياشير",
+     "post_code": "34012"
+    },
+    {
+     "id": 1176,
+     "name": "El Anseur",
+     "ar_name": "العناصر",
+     "post_code": "34013"
+    },
+    {
+     "id": 1177,
+     "name": "Hamadia",
+     "ar_name": "الحمادية",
+     "post_code": "34014"
+    },
+    {
+     "id": 1178,
+     "name": "El Maine",
+     "ar_name": "الماين",
+     "post_code": "34015"
+    },
+    {
+     "id": 1179,
+     "name": "El Mehir",
+     "ar_name": "المهير",
+     "post_code": "34016"
+    },
+    {
+     "id": 1180,
+     "name": "Ghilassa",
+     "ar_name": "غيلاسة",
+     "post_code": "34017"
+    },
+    {
+     "id": 1181,
+     "name": "Haraza",
+     "ar_name": "حرازة",
+     "post_code": "34018"
+    },
+    {
+     "id": 1182,
+     "name": "Hasna",
+     "ar_name": "حسناوة",
+     "post_code": "34019"
+    },
+    {
+     "id": 1183,
+     "name": "Belimour",
+     "ar_name": "خليل",
+     "post_code": "34020"
+    },
+    {
+     "id": 1184,
+     "name": "Hasnaoua",
+     "ar_name": "القصور",
+     "post_code": "34021"
+    },
+    {
+     "id": 1185,
+     "name": "Mansoura",
+     "ar_name": "المنصورة",
+     "post_code": "34022"
+    },
+    {
+     "id": 1186,
+     "name": "Medjana",
+     "ar_name": "مجانة",
+     "post_code": "34023"
+    },
+    {
+     "id": 1187,
+     "name": "Ouled Braham",
+     "ar_name": "أولاد أبراهم",
+     "post_code": "34024"
+    },
+    {
+     "id": 1188,
+     "name": "Guenaghel",
+     "ar_name": "أولاد دحمان",
+     "post_code": "34025"
+    },
+    {
+     "id": 1189,
+     "name": "Ouled Sidi Brahim",
+     "ar_name": "أولاد سيدي ابراهيم",
+     "post_code": "34026"
+    },
+    {
+     "id": 1190,
+     "name": "Rabta",
+     "ar_name": "الرابطة",
+     "post_code": "34027"
+    },
+    {
+     "id": 1191,
+     "name": "Ras El Oued",
+     "ar_name": "رأس الوادي",
+     "post_code": "34028"
+    },
+    {
+     "id": 1192,
+     "name": "Sidi Embarek",
+     "ar_name": "سيدي أمبارك",
+     "post_code": "34029"
+    },
+    {
+     "id": 1193,
+     "name": "Tafrek",
+     "ar_name": "تفرق",
+     "post_code": "34030"
+    },
+    {
+     "id": 1194,
+     "name": "Taglait",
+     "ar_name": "تقلعيت",
+     "post_code": "34031"
+    },
+    {
+     "id": 1195,
+     "name": "Tasamert",
+     "ar_name": "تسامرت",
+     "post_code": "34032"
+    },
+    {
+     "id": 1196,
+     "name": "Theniet En Nasr",
+     "ar_name": "ثنية النصر",
+     "post_code": "34033"
+    },
+    {
+     "id": 1197,
+     "name": "Tixter",
+     "ar_name": "تيكستار",
+     "post_code": "34034"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "code": "DZ-35",
+   "name": "Boumerdès",
+   "ar_name": "بومرداس",
+   "localities": [
+    {
+     "id": 1198,
+     "name": "Afir",
+     "ar_name": "أعفير",
+     "post_code": "35001"
+    },
+    {
+     "id": 1199,
+     "name": "Ammal",
+     "ar_name": "عمال",
+     "post_code": "35002"
+    },
+    {
+     "id": 1200,
+     "name": "Baghlia",
+     "ar_name": "بغلية",
+     "post_code": "35003"
+    },
+    {
+     "id": 1201,
+     "name": "Ben Choud",
+     "ar_name": "بن شود",
+     "post_code": "35004"
+    },
+    {
+     "id": 1202,
+     "name": "Beni Amrane",
+     "ar_name": "بني عمران",
+     "post_code": "35005"
+    },
+    {
+     "id": 1203,
+     "name": "Bordj Menaiel",
+     "ar_name": "برج منايل",
+     "post_code": "35006"
+    },
+    {
+     "id": 1204,
+     "name": "Boudouaou",
+     "ar_name": "بودواو",
+     "post_code": "35007"
+    },
+    {
+     "id": 1205,
+     "name": "Boudouaou El Bahri",
+     "ar_name": "بودواو البحري",
+     "post_code": "35008"
+    },
+    {
+     "id": 1206,
+     "name": "Boumerdes",
+     "ar_name": "بومرداس",
+     "post_code": "35009"
+    },
+    {
+     "id": 1207,
+     "name": "Bouzegza Keddara",
+     "ar_name": "بوزقزة قدارة",
+     "post_code": "35010"
+    },
+    {
+     "id": 1208,
+     "name": "Chaabet El Ameur",
+     "ar_name": "شعبة العامر",
+     "post_code": "35011"
+    },
+    {
+     "id": 1209,
+     "name": "Courseaux",
+     "ar_name": "قورصو",
+     "post_code": "35012"
+    },
+    {
+     "id": 1210,
+     "name": "Dellys",
+     "ar_name": "دلس",
+     "post_code": "35013"
+    },
+    {
+     "id": 1211,
+     "name": "Djinet",
+     "ar_name": "جنات",
+     "post_code": "35014"
+    },
+    {
+     "id": 1212,
+     "name": "El Kharrouba",
+     "ar_name": "الخروبة",
+     "post_code": "35015"
+    },
+    {
+     "id": 1213,
+     "name": "Hammedi",
+     "ar_name": "حمادي",
+     "post_code": "35016"
+    },
+    {
+     "id": 1214,
+     "name": "Issers",
+     "ar_name": "يسر",
+     "post_code": "35017"
+    },
+    {
+     "id": 1215,
+     "name": "Khemis El Khechna",
+     "ar_name": "خميس الخشنة",
+     "post_code": "35018"
+    },
+    {
+     "id": 1216,
+     "name": "Larbatache",
+     "ar_name": "الاربعطاش",
+     "post_code": "35019"
+    },
+    {
+     "id": 1217,
+     "name": "Larbatache",
+     "ar_name": "لقاطة",
+     "post_code": "35020"
+    },
+    {
+     "id": 1218,
+     "name": "Naciria",
+     "ar_name": "الناصرية",
+     "post_code": "35021"
+    },
+    {
+     "id": 1219,
+     "name": "Ouled Aissa",
+     "ar_name": "أولاد عيسى",
+     "post_code": "35022"
+    },
+    {
+     "id": 1220,
+     "name": "Ouled Haddaj",
+     "ar_name": "أولاد هداج",
+     "post_code": "35023"
+    },
+    {
+     "id": 1221,
+     "name": "Ouled Moussa",
+     "ar_name": "أولاد موسى",
+     "post_code": "35024"
+    },
+    {
+     "id": 1222,
+     "name": "Si Mustapha",
+     "ar_name": "سي مصطفى",
+     "post_code": "35025"
+    },
+    {
+     "id": 1223,
+     "name": "Sidi Daoud",
+     "ar_name": "سيدي داود",
+     "post_code": "35026"
+    },
+    {
+     "id": 1224,
+     "name": "Souk El Had",
+     "ar_name": "سوق الحد",
+     "post_code": "35027"
+    },
+    {
+     "id": 1225,
+     "name": "Taourga",
+     "ar_name": "تاورقة",
+     "post_code": "35028"
+    },
+    {
+     "id": 1226,
+     "name": "Thenia",
+     "ar_name": "الثنية",
+     "post_code": "35029"
+    },
+    {
+     "id": 1227,
+     "name": "Tidjelabine",
+     "ar_name": "تيجلابين",
+     "post_code": "35030"
+    },
+    {
+     "id": 1228,
+     "name": "Timezrit",
+     "ar_name": "تيمزريت",
+     "post_code": "35031"
+    },
+    {
+     "id": 1229,
+     "name": "Zemmouri",
+     "ar_name": "زموري",
+     "post_code": "35032"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "code": "DZ-36",
+   "name": "El Tarf",
+   "ar_name": "الطارف",
+   "localities": [
+    {
+     "id": 1230,
+     "name": "Ain El Assel",
+     "ar_name": "عين العسل",
+     "post_code": "36001"
+    },
+    {
+     "id": 1231,
+     "name": "Ain El Karma",
+     "ar_name": "عين الكرمة",
+     "post_code": "36002"
+    },
+    {
+     "id": 1232,
+     "name": "Asfour",
+     "ar_name": "عصفور",
+     "post_code": "36003"
+    },
+    {
+     "id": 1233,
+     "name": "Ben Mehidi",
+     "ar_name": "بن مهيدي",
+     "post_code": "36004"
+    },
+    {
+     "id": 1234,
+     "name": "Berrihane",
+     "ar_name": "بريحان",
+     "post_code": "36005"
+    },
+    {
+     "id": 1235,
+     "name": "El Besbes",
+     "ar_name": "البسباس",
+     "post_code": "36006"
+    },
+    {
+     "id": 1236,
+     "name": "Bouqous",
+     "ar_name": "بوقوس",
+     "post_code": "36007"
+    },
+    {
+     "id": 1237,
+     "name": "Bouhadjar",
+     "ar_name": "بوحجار",
+     "post_code": "36008"
+    },
+    {
+     "id": 1238,
+     "name": "Bouteldja",
+     "ar_name": "بوثلجة",
+     "post_code": "36009"
+    },
+    {
+     "id": 1239,
+     "name": "Chebaita Mokhtar",
+     "ar_name": "شبيطة مختار",
+     "post_code": "36010"
+    },
+    {
+     "id": 1240,
+     "name": "Chefia",
+     "ar_name": "الشافية",
+     "post_code": "36011"
+    },
+    {
+     "id": 1241,
+     "name": "Chihani",
+     "ar_name": "شحاني",
+     "post_code": "36012"
+    },
+    {
+     "id": 1242,
+     "name": "Dhreaan",
+     "ar_name": "الذرعـان",
+     "post_code": "36013"
+    },
+    {
+     "id": 1243,
+     "name": "Echatt",
+     "ar_name": "الشط",
+     "post_code": "36014"
+    },
+    {
+     "id": 1244,
+     "name": "El Ayoun",
+     "ar_name": "العيون",
+     "post_code": "36015"
+    },
+    {
+     "id": 1245,
+     "name": "El Kala",
+     "ar_name": "القالة",
+     "post_code": "36016"
+    },
+    {
+     "id": 1246,
+     "name": "El Tarf",
+     "ar_name": "الطارف",
+     "post_code": "36017"
+    },
+    {
+     "id": 1247,
+     "name": "Hammam Beni Salah",
+     "ar_name": "حمام بني صالح",
+     "post_code": "36018"
+    },
+    {
+     "id": 1248,
+     "name": "Lac Des Oiseaux",
+     "ar_name": "بحيرة الطيور",
+     "post_code": "36019"
+    },
+    {
+     "id": 1249,
+     "name": "Oued Zitoune",
+     "ar_name": "وادي الزيتون",
+     "post_code": "36020"
+    },
+    {
+     "id": 1250,
+     "name": "Ramel Souk",
+     "ar_name": "رمل السوق",
+     "post_code": "36021"
+    },
+    {
+     "id": 1251,
+     "name": "Souarekh",
+     "ar_name": "السوارخ",
+     "post_code": "36022"
+    },
+    {
+     "id": 1252,
+     "name": "Zerizer",
+     "ar_name": "زريزر",
+     "post_code": "36023"
+    },
+    {
+     "id": 1253,
+     "name": "Zitouna",
+     "ar_name": "الزيتونة",
+     "post_code": "36024"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "code": "DZ-37",
+   "name": "Tindouf",
+   "ar_name": "تندوف",
+   "localities": [
+    {
+     "id": 1254,
+     "name": "Oum El Assel",
+     "ar_name": "أم العسل",
+     "post_code": "37001"
+    },
+    {
+     "id": 1255,
+     "name": "Tindouf",
+     "ar_name": "تندوف",
+     "post_code": "37002"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "code": "DZ-38",
+   "name": "Tissemsilt",
+   "ar_name": "تيسمسيلت",
+   "localities": [
+    {
+     "id": 1256,
+     "name": "Ammari",
+     "ar_name": "عماري",
+     "post_code": "38001"
+    },
+    {
+     "id": 1257,
+     "name": "Beni Chaib",
+     "ar_name": "بني شعيب",
+     "post_code": "38002"
+    },
+    {
+     "id": 1258,
+     "name": "Beni Lahcene",
+     "ar_name": "بني لحسن",
+     "post_code": "38003"
+    },
+    {
+     "id": 1259,
+     "name": "Bordj Bounaam",
+     "ar_name": "برج بونعامة",
+     "post_code": "38004"
+    },
+    {
+     "id": 1260,
+     "name": "Bordj El Emir Abdelkader",
+     "ar_name": "برج الأمير عبد القادر",
+     "post_code": "38005"
+    },
+    {
+     "id": 1261,
+     "name": "Boukadir",
+     "ar_name": "بوقائد",
+     "post_code": "38006"
+    },
+    {
+     "id": 1262,
+     "name": "Khemisti",
+     "ar_name": "خميستي",
+     "post_code": "38007"
+    },
+    {
+     "id": 1263,
+     "name": "El Arbaa",
+     "ar_name": "الأربعاء",
+     "post_code": "38008"
+    },
+    {
+     "id": 1264,
+     "name": "Lardjem",
+     "ar_name": "لرجام",
+     "post_code": "38009"
+    },
+    {
+     "id": 1265,
+     "name": "El Ayoun",
+     "ar_name": "العيون",
+     "post_code": "38010"
+    },
+    {
+     "id": 1266,
+     "name": "Lazharia",
+     "ar_name": "الأزهرية",
+     "post_code": "38011"
+    },
+    {
+     "id": 1267,
+     "name": "El Maacem",
+     "ar_name": "المعاصم",
+     "post_code": "38012"
+    },
+    {
+     "id": 1268,
+     "name": "Melaab",
+     "ar_name": "الملعب",
+     "post_code": "38013"
+    },
+    {
+     "id": 1269,
+     "name": "Ouled Bessam",
+     "ar_name": "أولاد بسام",
+     "post_code": "38014"
+    },
+    {
+     "id": 1270,
+     "name": "Sidi Abed",
+     "ar_name": "سيدي عابد",
+     "post_code": "38015"
+    },
+    {
+     "id": 1271,
+     "name": "Sidi Boutouchent",
+     "ar_name": "سيدي بوتوشنت",
+     "post_code": "38016"
+    },
+    {
+     "id": 1272,
+     "name": "Sidi El Antri",
+     "ar_name": "سيدي العنتري",
+     "post_code": "38017"
+    },
+    {
+     "id": 1273,
+     "name": "Sidi Slimane",
+     "ar_name": "سيدي سليمان",
+     "post_code": "38018"
+    },
+    {
+     "id": 1274,
+     "name": "Tamelaht",
+     "ar_name": "تملاحت",
+     "post_code": "38019"
+    },
+    {
+     "id": 1275,
+     "name": "Theniet El Had",
+     "ar_name": "ثنية الاحد",
+     "post_code": "38020"
+    },
+    {
+     "id": 1276,
+     "name": "Tissemsilt",
+     "ar_name": "تيسمسيلت",
+     "post_code": "38021"
+    },
+    {
+     "id": 1277,
+     "name": "Youssoufia",
+     "ar_name": "اليوسفية",
+     "post_code": "38022"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "code": "DZ-39",
+   "name": "El Oued",
+   "ar_name": "الوادي",
+   "localities": [
+    {
+     "id": 1278,
+     "name": "Debila",
+     "ar_name": "البياضة",
+     "post_code": "39001"
+    },
+    {
+     "id": 1279,
+     "name": "Ben Guecha",
+     "ar_name": "بن  قشة",
+     "post_code": "39002"
+    },
+    {
+     "id": 1280,
+     "name": "Debila",
+     "ar_name": "الدبيلة",
+     "post_code": "39003"
+    },
+    {
+     "id": 1282,
+     "name": "Douar El Ma",
+     "ar_name": "دوار الماء",
+     "post_code": "39004"
+    },
+    {
+     "id": 1283,
+     "name": "El Ogla",
+     "ar_name": "العقلة",
+     "post_code": "39005"
+    },
+    {
+     "id": 1285,
+     "name": "El Oued",
+     "ar_name": "الوادي",
+     "post_code": "39006"
+    },
+    {
+     "id": 1286,
+     "name": "Guemar",
+     "ar_name": "قمار",
+     "post_code": "39007"
+    },
+    {
+     "id": 1287,
+     "name": "El Hamraia",
+     "ar_name": "الحمراية",
+     "post_code": "39008"
+    },
+    {
+     "id": 1288,
+     "name": "Hassani Abdelkrim",
+     "ar_name": "حساني عبد الكريم",
+     "post_code": "39009"
+    },
+    {
+     "id": 1289,
+     "name": "Hassi Khalifa",
+     "ar_name": "حاسي خليفة",
+     "post_code": "39010"
+    },
+    {
+     "id": 1290,
+     "name": "Kouinine",
+     "ar_name": "كوينين",
+     "post_code": "39011"
+    },
+    {
+     "id": 1291,
+     "name": "Still",
+     "ar_name": "المقرن",
+     "post_code": "39012"
+    },
+    {
+     "id": 1292,
+     "name": "Ourmas",
+     "ar_name": "اميه وانسة",
+     "post_code": "39013"
+    },
+    {
+     "id": 1294,
+     "name": "Nakhla",
+     "ar_name": "النخلة",
+     "post_code": "39014"
+    },
+    {
+     "id": 1295,
+     "name": "Oued El Alenda",
+     "ar_name": "وادي العلندة",
+     "post_code": "39015"
+    },
+    {
+     "id": 1297,
+     "name": "Ourmas",
+     "ar_name": "ورماس",
+     "post_code": "39016"
+    },
+    {
+     "id": 1298,
+     "name": "El Ogla",
+     "ar_name": "الرقيبة",
+     "post_code": "39017"
+    },
+    {
+     "id": 1299,
+     "name": "Robbah",
+     "ar_name": "الرباح",
+     "post_code": "39018"
+    },
+    {
+     "id": 1301,
+     "name": "Sidi Aoun",
+     "ar_name": "سيدي عون",
+     "post_code": "39019"
+    },
+    {
+     "id": 1304,
+     "name": "Tiguezzout",
+     "ar_name": "تغزوت",
+     "post_code": "39020"
+    },
+    {
+     "id": 1305,
+     "name": "Taleb Larbi",
+     "ar_name": "الطالب العربي",
+     "post_code": "39021"
+    },
+    {
+     "id": 1307,
+     "name": "Tarifaoui",
+     "ar_name": "الطريفاوي",
+     "post_code": "39022"
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "code": "DZ-40",
+   "name": "Khenchela",
+   "ar_name": "خنشلة",
+   "localities": [
+    {
+     "id": 1308,
+     "name": "Ain Touila",
+     "ar_name": "عين الطويلة",
+     "post_code": "40001"
+    },
+    {
+     "id": 1309,
+     "name": "Babar",
+     "ar_name": "بابار",
+     "post_code": "40002"
+    },
+    {
+     "id": 1310,
+     "name": "Baghai",
+     "ar_name": "بغاي",
+     "post_code": "40003"
+    },
+    {
+     "id": 1311,
+     "name": "Bouhamama",
+     "ar_name": "بوحمامة",
+     "post_code": "40004"
+    },
+    {
+     "id": 1312,
+     "name": "Chechar",
+     "ar_name": "ششار",
+     "post_code": "40005"
+    },
+    {
+     "id": 1313,
+     "name": "Chechar",
+     "ar_name": "شلية",
+     "post_code": "40006"
+    },
+    {
+     "id": 1314,
+     "name": "Djellal",
+     "ar_name": "جلال",
+     "post_code": "40007"
+    },
+    {
+     "id": 1315,
+     "name": "El Hamma",
+     "ar_name": "الحامة",
+     "post_code": "40008"
+    },
+    {
+     "id": 1316,
+     "name": "El Mahmal",
+     "ar_name": "المحمل",
+     "post_code": "40009"
+    },
+    {
+     "id": 1317,
+     "name": "El Ouldja",
+     "ar_name": "الولجة",
+     "post_code": "40010"
+    },
+    {
+     "id": 1318,
+     "name": "Ensigha",
+     "ar_name": "انسيغة",
+     "post_code": "40011"
+    },
+    {
+     "id": 1319,
+     "name": "Kais",
+     "ar_name": "قايس",
+     "post_code": "40012"
+    },
+    {
+     "id": 1320,
+     "name": "Khenchela",
+     "ar_name": "خنشلة",
+     "post_code": "40013"
+    },
+    {
+     "id": 1321,
+     "name": "Kheirane",
+     "ar_name": "خيران",
+     "post_code": "40014"
+    },
+    {
+     "id": 1322,
+     "name": "Msara",
+     "ar_name": "مصارة",
+     "post_code": "40015"
+    },
+    {
+     "id": 1323,
+     "name": "Bouhmama",
+     "ar_name": "متوسة",
+     "post_code": "40016"
+    },
+    {
+     "id": 1324,
+     "name": "Ouled Rechache",
+     "ar_name": "أولاد رشاش",
+     "post_code": "40017"
+    },
+    {
+     "id": 1325,
+     "name": "Remila",
+     "ar_name": "الرميلة",
+     "post_code": "40018"
+    },
+    {
+     "id": 1326,
+     "name": "Tamza",
+     "ar_name": "طامزة",
+     "post_code": "40019"
+    },
+    {
+     "id": 1327,
+     "name": "Taouzient",
+     "ar_name": "تاوزيانت",
+     "post_code": "40020"
+    },
+    {
+     "id": 1328,
+     "name": "Yabous",
+     "ar_name": "يابوس",
+     "post_code": "40021"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "code": "DZ-41",
+   "name": "Souk Ahras",
+   "ar_name": "سوق أهراس",
+   "localities": [
+    {
+     "id": 1329,
+     "name": "Terraguelt",
+     "ar_name": "عين سلطان",
+     "post_code": "41001"
+    },
+    {
+     "id": 1330,
+     "name": "Bir Bouhouche",
+     "ar_name": "عين الزانة",
+     "post_code": "41002"
+    },
+    {
+     "id": 1331,
+     "name": "Bir Bouhouche",
+     "ar_name": "بئر بوحوش",
+     "post_code": "41003"
+    },
+    {
+     "id": 1332,
+     "name": "Drea",
+     "ar_name": "الدريعة",
+     "post_code": "41004"
+    },
+    {
+     "id": 1333,
+     "name": "El Haddada",
+     "ar_name": "الحدادة",
+     "post_code": "41005"
+    },
+    {
+     "id": 1334,
+     "name": "Hananecha",
+     "ar_name": "الحنانشة",
+     "post_code": "41006"
+    },
+    {
+     "id": 1335,
+     "name": "El Khadra",
+     "ar_name": "الخضارة",
+     "post_code": "41007"
+    },
+    {
+     "id": 1336,
+     "name": "Mechroha",
+     "ar_name": "خميسة",
+     "post_code": "41008"
+    },
+    {
+     "id": 1337,
+     "name": "Mechroha",
+     "ar_name": "المشروحة",
+     "post_code": "41009"
+    },
+    {
+     "id": 1338,
+     "name": "Medracen",
+     "ar_name": "مداوروش",
+     "post_code": "41010"
+    },
+    {
+     "id": 1339,
+     "name": "Mrahen",
+     "ar_name": "المراهنة",
+     "post_code": "41011"
+    },
+    {
+     "id": 1340,
+     "name": "Oued El Kebrit",
+     "ar_name": "وادي الكبريت",
+     "post_code": "41012"
+    },
+    {
+     "id": 1341,
+     "name": "Ain Zana",
+     "ar_name": "أولاد إدريس",
+     "post_code": "41013"
+    },
+    {
+     "id": 1342,
+     "name": "Ouled Moumen",
+     "ar_name": "أولاد مومن",
+     "post_code": "41014"
+    },
+    {
+     "id": 1343,
+     "name": "Oum El Adhaim",
+     "ar_name": "أم العظايم",
+     "post_code": "41015"
+    },
+    {
+     "id": 1344,
+     "name": "Ouillene",
+     "ar_name": "ويلان",
+     "post_code": "41016"
+    },
+    {
+     "id": 1345,
+     "name": "Ragouba",
+     "ar_name": "الراقوبة",
+     "post_code": "41017"
+    },
+    {
+     "id": 1346,
+     "name": "Safel El Ouk",
+     "ar_name": "سافل الويدان",
+     "post_code": "41018"
+    },
+    {
+     "id": 1347,
+     "name": "Sedrata",
+     "ar_name": "سدراتة",
+     "post_code": "41019"
+    },
+    {
+     "id": 1348,
+     "name": "Sidi Fredj",
+     "ar_name": "سيدي فرج",
+     "post_code": "41020"
+    },
+    {
+     "id": 1349,
+     "name": "Souk Ahras",
+     "ar_name": "سوق أهراس",
+     "post_code": "41021"
+    },
+    {
+     "id": 1350,
+     "name": "Ouled Driss",
+     "ar_name": "تاورة",
+     "post_code": "41022"
+    },
+    {
+     "id": 1351,
+     "name": "Taoura",
+     "ar_name": "ترقالت",
+     "post_code": "41023"
+    },
+    {
+     "id": 1352,
+     "name": "Tiffech",
+     "ar_name": "تيفاش",
+     "post_code": "41024"
+    },
+    {
+     "id": 1353,
+     "name": "Zaarouria",
+     "ar_name": "الزعرورية",
+     "post_code": "41025"
+    },
+    {
+     "id": 1354,
+     "name": "Zaouabi",
+     "ar_name": "الزوابي",
+     "post_code": "41026"
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "code": "DZ-42",
+   "name": "Tipaza",
+   "ar_name": "تيبازة",
+   "localities": [
+    {
+     "id": 1355,
+     "name": "Aghbal",
+     "ar_name": "أغبال",
+     "post_code": "42001"
+    },
+    {
+     "id": 1356,
+     "name": "Ahmer El Ain",
+     "ar_name": "أحمر العين",
+     "post_code": "42002"
+    },
+    {
+     "id": 1357,
+     "name": "Ain Tagourait",
+     "ar_name": "عين تاقورايت",
+     "post_code": "42003"
+    },
+    {
+     "id": 1358,
+     "name": "Hatatba",
+     "ar_name": "الحطاطبة",
+     "post_code": "42004"
+    },
+    {
+     "id": 1359,
+     "name": "Beni Milek",
+     "ar_name": "بني ميلك",
+     "post_code": "42005"
+    },
+    {
+     "id": 1360,
+     "name": "Bou Haroun",
+     "ar_name": "بوهارون",
+     "post_code": "42006"
+    },
+    {
+     "id": 1361,
+     "name": "Bou Ismail",
+     "ar_name": "بواسماعيل",
+     "post_code": "42007"
+    },
+    {
+     "id": 1362,
+     "name": "Bourquiqua",
+     "ar_name": "بورقيقة",
+     "post_code": "42008"
+    },
+    {
+     "id": 1363,
+     "name": "El Chaiba",
+     "ar_name": "الشعيبة",
+     "post_code": "42009"
+    },
+    {
+     "id": 1364,
+     "name": "Cherchell",
+     "ar_name": "شرشال",
+     "post_code": "42010"
+    },
+    {
+     "id": 1365,
+     "name": "Damous",
+     "ar_name": "الداموس",
+     "post_code": "42011"
+    },
+    {
+     "id": 1366,
+     "name": "Douaouda",
+     "ar_name": "دواودة",
+     "post_code": "42012"
+    },
+    {
+     "id": 1367,
+     "name": "Fouka",
+     "ar_name": "فوكة",
+     "post_code": "42013"
+    },
+    {
+     "id": 1368,
+     "name": "Gouraya",
+     "ar_name": "قوراية",
+     "post_code": "42014"
+    },
+    {
+     "id": 1369,
+     "name": "Hadjout",
+     "ar_name": "حجوط",
+     "post_code": "42015"
+    },
+    {
+     "id": 1370,
+     "name": "Hadjret Ennous",
+     "ar_name": "حجرة النص",
+     "post_code": "42016"
+    },
+    {
+     "id": 1371,
+     "name": "Khemisti",
+     "ar_name": "خميستي",
+     "post_code": "42017"
+    },
+    {
+     "id": 1372,
+     "name": "Kolea",
+     "ar_name": "القليعة",
+     "post_code": "42018"
+    },
+    {
+     "id": 1373,
+     "name": "El Rahate",
+     "ar_name": "الأرهاط",
+     "post_code": "42019"
+    },
+    {
+     "id": 1374,
+     "name": "Menaceur",
+     "ar_name": "مناصر",
+     "post_code": "42020"
+    },
+    {
+     "id": 1375,
+     "name": "Mourad",
+     "ar_name": "مراد",
+     "post_code": "42021"
+    },
+    {
+     "id": 1376,
+     "name": "Messelmoun",
+     "ar_name": "مسلمون",
+     "post_code": "42022"
+    },
+    {
+     "id": 1377,
+     "name": "Nador",
+     "ar_name": "الناظور",
+     "post_code": "42023"
+    },
+    {
+     "id": 1378,
+     "name": "Sidi Ghiles",
+     "ar_name": "سيدي غيلاس",
+     "post_code": "42024"
+    },
+    {
+     "id": 1379,
+     "name": "Sidi Rached",
+     "ar_name": "سيدي راشد",
+     "post_code": "42025"
+    },
+    {
+     "id": 1380,
+     "name": "Sidi Semiane",
+     "ar_name": "سيدي سميان",
+     "post_code": "42026"
+    },
+    {
+     "id": 1381,
+     "name": "Larhat",
+     "ar_name": "سيدي عامر",
+     "post_code": "42027"
+    },
+    {
+     "id": 1382,
+     "name": "Tipaza",
+     "ar_name": "تيبازة",
+     "post_code": "42028"
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "code": "DZ-43",
+   "name": "Mila",
+   "ar_name": "ميلة",
+   "localities": [
+    {
+     "id": 1383,
+     "name": "Ahmed Rachedi",
+     "ar_name": "أحمد راشدي",
+     "post_code": "43001"
+    },
+    {
+     "id": 1384,
+     "name": "Ain Beida Harriche",
+     "ar_name": " عين البيضاء أحريش",
+     "post_code": "43002"
+    },
+    {
+     "id": 1385,
+     "name": "Ain Mellouk",
+     "ar_name": "عين الملوك",
+     "post_code": "43003"
+    },
+    {
+     "id": 1386,
+     "name": "Ain Tine",
+     "ar_name": "عين التين",
+     "post_code": "43004"
+    },
+    {
+     "id": 1387,
+     "name": "Amira Arres",
+     "ar_name": "اعميرة اراس",
+     "post_code": "43005"
+    },
+    {
+     "id": 1388,
+     "name": "Benyahia Abderrahmane",
+     "ar_name": "بن يحي عبد الرحمن",
+     "post_code": "43006"
+    },
+    {
+     "id": 1389,
+     "name": "Bouhatem",
+     "ar_name": "بوحاتم",
+     "post_code": "43007"
+    },
+    {
+     "id": 1390,
+     "name": "Chelghoum Laid",
+     "ar_name": "شلغوم العيد",
+     "post_code": "43008"
+    },
+    {
+     "id": 1391,
+     "name": "Chigara",
+     "ar_name": "الشيقارة",
+     "post_code": "43009"
+    },
+    {
+     "id": 1392,
+     "name": "Drahi Bousselah",
+     "ar_name": "دراحي بوصلاح",
+     "post_code": "43010"
+    },
+    {
+     "id": 1393,
+     "name": "El Ayadi Barbes",
+     "ar_name": "العياضي برباس",
+     "post_code": "43011"
+    },
+    {
+     "id": 1394,
+     "name": "Oued Seguen",
+     "ar_name": "مشيرة",
+     "post_code": "43012"
+    },
+    {
+     "id": 1395,
+     "name": "Ferdjioua",
+     "ar_name": "فرجيوة",
+     "post_code": "43013"
+    },
+    {
+     "id": 1396,
+     "name": "Grarem Gouga",
+     "ar_name": "القرارم قوقة",
+     "post_code": "43014"
+    },
+    {
+     "id": 1397,
+     "name": "Hamala",
+     "ar_name": "حمالة",
+     "post_code": "43015"
+    },
+    {
+     "id": 1398,
+     "name": "Mila",
+     "ar_name": "ميلة",
+     "post_code": "43016"
+    },
+    {
+     "id": 1399,
+     "name": "Minar Zarza",
+     "ar_name": "مينار زارزة",
+     "post_code": "43017"
+    },
+    {
+     "id": 1400,
+     "name": "Oued Athmenia",
+     "ar_name": "وادي العثمانية",
+     "post_code": "43018"
+    },
+    {
+     "id": 1401,
+     "name": "Oued Endja",
+     "ar_name": "وادي النجاء",
+     "post_code": "43019"
+    },
+    {
+     "id": 1402,
+     "name": "Oued Seguen",
+     "ar_name": "وادي سقان",
+     "post_code": "43020"
+    },
+    {
+     "id": 1403,
+     "name": "Ouled Khellouf",
+     "ar_name": "أولاد اخلوف",
+     "post_code": "43021"
+    },
+    {
+     "id": 1404,
+     "name": "Rouached",
+     "ar_name": "الرواشد",
+     "post_code": "43022"
+    },
+    {
+     "id": 1405,
+     "name": "Sidi Khelifa",
+     "ar_name": "سيدي خليفة",
+     "post_code": "43023"
+    },
+    {
+     "id": 1406,
+     "name": "Sidi Merouane",
+     "ar_name": "سيدي مروان",
+     "post_code": "43024"
+    },
+    {
+     "id": 1407,
+     "name": "Tadjenanet",
+     "ar_name": "تاجنانت",
+     "post_code": "43025"
+    },
+    {
+     "id": 1408,
+     "name": "Tassadane Haddada",
+     "ar_name": "تسدان حدادة",
+     "post_code": "43026"
+    },
+    {
+     "id": 1409,
+     "name": "Teleghma",
+     "ar_name": "التلاغمة",
+     "post_code": "43027"
+    },
+    {
+     "id": 1410,
+     "name": "Terrai Bainen",
+     "ar_name": "ترعي باينان",
+     "post_code": "43028"
+    },
+    {
+     "id": 1411,
+     "name": "Tessala Lemtai",
+     "ar_name": "تسالة لمطاعي",
+     "post_code": "43029"
+    },
+    {
+     "id": 1412,
+     "name": "Tiberguent",
+     "ar_name": "تيبرقنت",
+     "post_code": "43030"
+    },
+    {
+     "id": 1413,
+     "name": "Yahia Beni Guecha",
+     "ar_name": "يحي بني قشة",
+     "post_code": "43031"
+    },
+    {
+     "id": 1414,
+     "name": "Zeghaia",
+     "ar_name": "زغاية",
+     "post_code": "43032"
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "code": "DZ-44",
+   "name": "Aïn Defla",
+   "ar_name": "عين الدفلى",
+   "localities": [
+    {
+     "id": 1415,
+     "name": "Ain Beniane",
+     "ar_name": "عين البنيان",
+     "post_code": "44001"
+    },
+    {
+     "id": 1416,
+     "name": "Ain Bouyahia",
+     "ar_name": "عين بويحيى",
+     "post_code": "44002"
+    },
+    {
+     "id": 1417,
+     "name": "Ain Defla",
+     "ar_name": "عين الدفلى",
+     "post_code": "44003"
+    },
+    {
+     "id": 1418,
+     "name": "Ain El Hadid",
+     "ar_name": "عين الاشياخ",
+     "post_code": "44004"
+    },
+    {
+     "id": 1419,
+     "name": "Ain Es Sultan",
+     "ar_name": "عين السلطان",
+     "post_code": "44005"
+    },
+    {
+     "id": 1420,
+     "name": "Ain Torki",
+     "ar_name": "عين التركي",
+     "post_code": "44006"
+    },
+    {
+     "id": 1421,
+     "name": "Arib",
+     "ar_name": "عريب",
+     "post_code": "44007"
+    },
+    {
+     "id": 1422,
+     "name": "Barbouche",
+     "ar_name": "بربوش",
+     "post_code": "44008"
+    },
+    {
+     "id": 1423,
+     "name": "Bathia",
+     "ar_name": "بطحية",
+     "post_code": "44009"
+    },
+    {
+     "id": 1424,
+     "name": "Belaassel",
+     "ar_name": "بلعاص",
+     "post_code": "44010"
+    },
+    {
+     "id": 1425,
+     "name": "Ben Allal",
+     "ar_name": "بن علال",
+     "post_code": "44011"
+    },
+    {
+     "id": 1426,
+     "name": "Bir Ould Khelifa",
+     "ar_name": "بئر ولد خليفة",
+     "post_code": "44012"
+    },
+    {
+     "id": 1427,
+     "name": "Bordj El Emir Khaled",
+     "ar_name": "برج الأمير خالد",
+     "post_code": "44013"
+    },
+    {
+     "id": 1428,
+     "name": "Boumedfaa",
+     "ar_name": "بومدفع",
+     "post_code": "44014"
+    },
+    {
+     "id": 1429,
+     "name": "Bourached",
+     "ar_name": "بوراشد",
+     "post_code": "44015"
+    },
+    {
+     "id": 1430,
+     "name": "Djelida",
+     "ar_name": "جليدة",
+     "post_code": "44016"
+    },
+    {
+     "id": 1431,
+     "name": "Djemaa Ouled Cheikh",
+     "ar_name": "جمعة أولاد الشيخ",
+     "post_code": "44017"
+    },
+    {
+     "id": 1432,
+     "name": "Djendel",
+     "ar_name": "جندل",
+     "post_code": "44018"
+    },
+    {
+     "id": 1433,
+     "name": "El Abadia",
+     "ar_name": "العبادية",
+     "post_code": "44019"
+    },
+    {
+     "id": 1434,
+     "name": "El Amra",
+     "ar_name": "العامرة",
+     "post_code": "44020"
+    },
+    {
+     "id": 1435,
+     "name": "El Attaf",
+     "ar_name": "العطاف",
+     "post_code": "44021"
+    },
+    {
+     "id": 1436,
+     "name": "El Maine",
+     "ar_name": "الماين",
+     "post_code": "44022"
+    },
+    {
+     "id": 1437,
+     "name": "Hammam Righa",
+     "ar_name": "حمام ريغة",
+     "post_code": "44023"
+    },
+    {
+     "id": 1438,
+     "name": "El Hassania",
+     "ar_name": "الحسانية",
+     "post_code": "44024"
+    },
+    {
+     "id": 1439,
+     "name": "El Hassania",
+     "ar_name": "الحسينية",
+     "post_code": "44025"
+    },
+    {
+     "id": 1440,
+     "name": "Khemis Miliana",
+     "ar_name": "خميس مليانة",
+     "post_code": "44026"
+    },
+    {
+     "id": 1441,
+     "name": "El Mekhatria",
+     "ar_name": "المخاطرية",
+     "post_code": "44027"
+    },
+    {
+     "id": 1442,
+     "name": "Miliana",
+     "ar_name": "مليانة",
+     "post_code": "44028"
+    },
+    {
+     "id": 1443,
+     "name": "Oued Chorfa",
+     "ar_name": "وادي الشرفاء",
+     "post_code": "44029"
+    },
+    {
+     "id": 1444,
+     "name": "Oued Djemaa",
+     "ar_name": "واد الجمعة",
+     "post_code": "44030"
+    },
+    {
+     "id": 1445,
+     "name": "Rouina",
+     "ar_name": "الروينة",
+     "post_code": "44031"
+    },
+    {
+     "id": 1446,
+     "name": "Sidi Lakhdar",
+     "ar_name": "سيدي الأخضر",
+     "post_code": "44032"
+    },
+    {
+     "id": 1447,
+     "name": "Tacheta Zougara",
+     "ar_name": "تاشتة زقاغة",
+     "post_code": "44033"
+    },
+    {
+     "id": 1448,
+     "name": "Tarik Ibn Ziad",
+     "ar_name": "طارق بن زياد",
+     "post_code": "44034"
+    },
+    {
+     "id": 1449,
+     "name": "Tiberkanine",
+     "ar_name": "تبركانين",
+     "post_code": "44035"
+    },
+    {
+     "id": 1450,
+     "name": "Zeddine",
+     "ar_name": "زدين",
+     "post_code": "44036"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "code": "DZ-45",
+   "name": "Naâma",
+   "ar_name": "النعامة",
+   "localities": [
+    {
+     "id": 1451,
+     "name": "Ain Ben Khellil",
+     "ar_name": "عين بن خليل",
+     "post_code": "45001"
+    },
+    {
+     "id": 1452,
+     "name": "Ain Sefra",
+     "ar_name": "عين الصفراء",
+     "post_code": "45002"
+    },
+    {
+     "id": 1453,
+     "name": "Ain Sefra",
+     "ar_name": "عسلة",
+     "post_code": "45003"
+    },
+    {
+     "id": 1454,
+     "name": "Djeniene Bourezg",
+     "ar_name": "جنين بورزق",
+     "post_code": "45004"
+    },
+    {
+     "id": 1455,
+     "name": "El Biod",
+     "ar_name": "البيوض",
+     "post_code": "45005"
+    },
+    {
+     "id": 1456,
+     "name": "Kasdir",
+     "ar_name": "القصدير",
+     "post_code": "45006"
+    },
+    {
+     "id": 1457,
+     "name": "Mekmen Ben Amar",
+     "ar_name": "مكمن بن عمار",
+     "post_code": "45007"
+    },
+    {
+     "id": 1458,
+     "name": "Mecheria",
+     "ar_name": "المشرية",
+     "post_code": "45008"
+    },
+    {
+     "id": 1459,
+     "name": "Moghrar",
+     "ar_name": "مغرار",
+     "post_code": "45009"
+    },
+    {
+     "id": 1460,
+     "name": "Naama",
+     "ar_name": "النعامة",
+     "post_code": "45010"
+    },
+    {
+     "id": 1461,
+     "name": "Sfissifa",
+     "ar_name": "سفيسيفة",
+     "post_code": "45011"
+    },
+    {
+     "id": 1462,
+     "name": "Tiout",
+     "ar_name": "تيوت",
+     "post_code": "45012"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "code": "DZ-46",
+   "name": "Aïn Témouchent",
+   "ar_name": "عين تموشنت",
+   "localities": [
+    {
+     "id": 1463,
+     "name": "Aghlal",
+     "ar_name": "أغلال",
+     "post_code": "46001"
+    },
+    {
+     "id": 1464,
+     "name": "Ain Larbaa",
+     "ar_name": "عين الأربعاء",
+     "post_code": "46002"
+    },
+    {
+     "id": 1465,
+     "name": "Ain El Kihal",
+     "ar_name": "عين الكيحل",
+     "post_code": "46003"
+    },
+    {
+     "id": 1466,
+     "name": "Ain Temouchent",
+     "ar_name": "عين تموشنت",
+     "post_code": "46004"
+    },
+    {
+     "id": 1467,
+     "name": "Ain Tolba",
+     "ar_name": "عين الطلبة",
+     "post_code": "46005"
+    },
+    {
+     "id": 1468,
+     "name": "Agbal",
+     "ar_name": "عقب الليل",
+     "post_code": "46006"
+    },
+    {
+     "id": 1469,
+     "name": "Beni Saf",
+     "ar_name": "بني صاف",
+     "post_code": "46007"
+    },
+    {
+     "id": 1470,
+     "name": "Bouzedjar",
+     "ar_name": "بوزجار",
+     "post_code": "46008"
+    },
+    {
+     "id": 1471,
+     "name": "Oulhaça El Gheraba",
+     "ar_name": "شعبة اللحم",
+     "post_code": "46009"
+    },
+    {
+     "id": 1472,
+     "name": "Chentouf",
+     "ar_name": "شنتوف",
+     "post_code": "46010"
+    },
+    {
+     "id": 1473,
+     "name": "El Amria",
+     "ar_name": "العامرية",
+     "post_code": "46011"
+    },
+    {
+     "id": 1474,
+     "name": "El Malah",
+     "ar_name": "المالح",
+     "post_code": "46012"
+    },
+    {
+     "id": 1475,
+     "name": "El Messaid",
+     "ar_name": "المساعيد",
+     "post_code": "46013"
+    },
+    {
+     "id": 1476,
+     "name": "El Emir Abdelkader",
+     "ar_name": "الأمير عبد القادر",
+     "post_code": "46014"
+    },
+    {
+     "id": 1477,
+     "name": "Hammam Bou Hadjar",
+     "ar_name": "حمام بوحجر",
+     "post_code": "46015"
+    },
+    {
+     "id": 1478,
+     "name": "El Hassasna",
+     "ar_name": "الحساسنة",
+     "post_code": "46016"
+    },
+    {
+     "id": 1479,
+     "name": "Hassi El Ghella",
+     "ar_name": "حاسي الغلة",
+     "post_code": "46017"
+    },
+    {
+     "id": 1480,
+     "name": "Oued Berkeche",
+     "ar_name": "وادي برقش",
+     "post_code": "46018"
+    },
+    {
+     "id": 1481,
+     "name": "Oued Sabah",
+     "ar_name": "وادي الصباح",
+     "post_code": "46019"
+    },
+    {
+     "id": 1482,
+     "name": "Ouled Boudjemaa",
+     "ar_name": "أولاد بوجمعة",
+     "post_code": "46020"
+    },
+    {
+     "id": 1483,
+     "name": "Ouled El Kihal",
+     "ar_name": "أولاد الكيحل",
+     "post_code": "46021"
+    },
+    {
+     "id": 1484,
+     "name": "Oulhaça El Gheraba",
+     "ar_name": "ولهاصة الغرابة",
+     "post_code": "46022"
+    },
+    {
+     "id": 1485,
+     "name": "Sidi Ben Adda",
+     "ar_name": "سيدي بن عدة",
+     "post_code": "46023"
+    },
+    {
+     "id": 1486,
+     "name": "Sidi Boumediene",
+     "ar_name": "سيدي بومدين",
+     "post_code": "46024"
+    },
+    {
+     "id": 1487,
+     "name": "Sidi Ouriache",
+     "ar_name": "سيدي ورياش",
+     "post_code": "46025"
+    },
+    {
+     "id": 1488,
+     "name": "Sidi Safi",
+     "ar_name": "سيدي صافي",
+     "post_code": "46026"
+    },
+    {
+     "id": 1489,
+     "name": "Tamzoura",
+     "ar_name": "تامزورة",
+     "post_code": "46027"
+    },
+    {
+     "id": 1490,
+     "name": "Tarzout",
+     "ar_name": "تارقة",
+     "post_code": "46028"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "code": "DZ-47",
+   "name": "Ghardaïa",
+   "ar_name": "غرداية",
+   "localities": [
+    {
+     "id": 1491,
+     "name": "Berriane",
+     "ar_name": "بريان",
+     "post_code": "47001"
+    },
+    {
+     "id": 1492,
+     "name": "Bounoura",
+     "ar_name": "بونورة",
+     "post_code": "47002"
+    },
+    {
+     "id": 1493,
+     "name": "Daya Ben Dahoua",
+     "ar_name": "ضاية بن ضحوة",
+     "post_code": "47003"
+    },
+    {
+     "id": 1494,
+     "name": "El Atteuf",
+     "ar_name": "العطف",
+     "post_code": "47004"
+    },
+    {
+     "id": 1496,
+     "name": "Ghardaia",
+     "ar_name": "غرداية",
+     "post_code": "47005"
+    },
+    {
+     "id": 1497,
+     "name": "Guerrara",
+     "ar_name": "القرارة",
+     "post_code": "47006"
+    },
+    {
+     "id": 1500,
+     "name": "Mansoura",
+     "ar_name": "المنصورة",
+     "post_code": "47007"
+    },
+    {
+     "id": 1501,
+     "name": "Metlili",
+     "ar_name": "متليلي",
+     "post_code": "47008"
+    },
+    {
+     "id": 1502,
+     "name": "Sebseb",
+     "ar_name": "سبسب",
+     "post_code": "47009"
+    },
+    {
+     "id": 1503,
+     "name": "Zelfana",
+     "ar_name": "زلفانة",
+     "post_code": "47010"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "code": "DZ-48",
+   "name": "Relizane",
+   "ar_name": "غليزان",
+   "localities": [
+    {
+     "id": 1504,
+     "name": "Ain Rahma",
+     "ar_name": "عين الرحمة",
+     "post_code": "48001"
+    },
+    {
+     "id": 1505,
+     "name": "Ain Tarek",
+     "ar_name": "عين طارق",
+     "post_code": "48002"
+    },
+    {
+     "id": 1506,
+     "name": "Ammi Moussa",
+     "ar_name": "عمي موسى",
+     "post_code": "48003"
+    },
+    {
+     "id": 1507,
+     "name": "Belaassel Bouzegza",
+     "ar_name": "بلعسل بوزقزة",
+     "post_code": "48004"
+    },
+    {
+     "id": 1508,
+     "name": "Ben Daoud",
+     "ar_name": "بن داود",
+     "post_code": "48005"
+    },
+    {
+     "id": 1509,
+     "name": "Beni Dergoun",
+     "ar_name": "بني درقن",
+     "post_code": "48006"
+    },
+    {
+     "id": 1510,
+     "name": "Beni Zentis",
+     "ar_name": "بني زنطيس",
+     "post_code": "48007"
+    },
+    {
+     "id": 1511,
+     "name": "Dar Ben Abdallah",
+     "ar_name": "دار بن عبد الله",
+     "post_code": "48008"
+    },
+    {
+     "id": 1512,
+     "name": "Djediouia",
+     "ar_name": "جديوية",
+     "post_code": "48009"
+    },
+    {
+     "id": 1513,
+     "name": "El Hassi",
+     "ar_name": "الحاسي",
+     "post_code": "48010"
+    },
+    {
+     "id": 1514,
+     "name": "El Hamdna",
+     "ar_name": "الحمادنة",
+     "post_code": "48011"
+    },
+    {
+     "id": 1515,
+     "name": "El Ouldja",
+     "ar_name": "الولجة",
+     "post_code": "48012"
+    },
+    {
+     "id": 1516,
+     "name": "El Outar",
+     "ar_name": "القطار",
+     "post_code": "48013"
+    },
+    {
+     "id": 1517,
+     "name": "El Matmar",
+     "ar_name": "المطمر",
+     "post_code": "48014"
+    },
+    {
+     "id": 1518,
+     "name": "Had Echkalla",
+     "ar_name": "حد الشكالة",
+     "post_code": "48015"
+    },
+    {
+     "id": 1519,
+     "name": "Hamri",
+     "ar_name": "حمري",
+     "post_code": "48016"
+    },
+    {
+     "id": 1520,
+     "name": "El Kaala",
+     "ar_name": "القلعة",
+     "post_code": "48017"
+    },
+    {
+     "id": 1521,
+     "name": "Lahlef",
+     "ar_name": "لحلاف",
+     "post_code": "48018"
+    },
+    {
+     "id": 1522,
+     "name": "Mazouna",
+     "ar_name": "مازونة",
+     "post_code": "48019"
+    },
+    {
+     "id": 1523,
+     "name": "Mediouna",
+     "ar_name": "مديونة",
+     "post_code": "48020"
+    },
+    {
+     "id": 1524,
+     "name": "Mendas",
+     "ar_name": "منداس",
+     "post_code": "48021"
+    },
+    {
+     "id": 1525,
+     "name": "Merja Sidi Abed",
+     "ar_name": "مرجة سيدي عابد",
+     "post_code": "48022"
+    },
+    {
+     "id": 1526,
+     "name": "Oued Rhiou",
+     "ar_name": "واريزان",
+     "post_code": "48023"
+    },
+    {
+     "id": 1527,
+     "name": "Oued Djemaa",
+     "ar_name": "وادي الجمعة",
+     "post_code": "48024"
+    },
+    {
+     "id": 1528,
+     "name": "Oued Es Salam",
+     "ar_name": "وادي السلام",
+     "post_code": "48025"
+    },
+    {
+     "id": 1529,
+     "name": "Oued Rhiou",
+     "ar_name": "وادي رهيو",
+     "post_code": "48026"
+    },
+    {
+     "id": 1530,
+     "name": "Ouled Yaich",
+     "ar_name": "أولاد يعيش",
+     "post_code": "48027"
+    },
+    {
+     "id": 1531,
+     "name": "Ouled Sidi El Mihoub",
+     "ar_name": "أولاد سيدي الميهوب",
+     "post_code": "48028"
+    },
+    {
+     "id": 1532,
+     "name": "Ramka",
+     "ar_name": "الرمكة",
+     "post_code": "48029"
+    },
+    {
+     "id": 1533,
+     "name": "Relizane",
+     "ar_name": "غليزان",
+     "post_code": "48030"
+    },
+    {
+     "id": 1534,
+     "name": "Sidi Khettab",
+     "ar_name": "سيدي  خطاب",
+     "post_code": "48031"
+    },
+    {
+     "id": 1535,
+     "name": "Sidi Lazreg",
+     "ar_name": "سيدي لزرق",
+     "post_code": "48032"
+    },
+    {
+     "id": 1536,
+     "name": "Sidi M'hamed Ben Ali",
+     "ar_name": "سيدي أمحمد بن علي",
+     "post_code": "48033"
+    },
+    {
+     "id": 1537,
+     "name": "Sidi M'hamed Ben Aouda",
+     "ar_name": "سيدي امحمد بن عودة",
+     "post_code": "48034"
+    },
+    {
+     "id": 1538,
+     "name": "Sidi Saada",
+     "ar_name": "سيدي سعادة",
+     "post_code": "48035"
+    },
+    {
+     "id": 1539,
+     "name": "Souk El Had",
+     "ar_name": "سوق الحد",
+     "post_code": "48036"
+    },
+    {
+     "id": 1540,
+     "name": "Yellel",
+     "ar_name": "يلل",
+     "post_code": "48037"
+    },
+    {
+     "id": 1541,
+     "name": "Zemmoura",
+     "ar_name": "زمورة",
+     "post_code": "48038"
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "code": "DZ-49",
+   "name": "Timimoun",
+   "ar_name": "تيميمون",
+   "localities": [
+    {
+     "id": 3,
+     "name": "Aougrout",
+     "ar_name": "أوقروت",
+     "post_code": "49001"
+    },
+    {
+     "id": 7,
+     "name": "Charouine",
+     "ar_name": "شروين",
+     "post_code": "49002"
+    },
+    {
+     "id": 8,
+     "name": "Deldoul",
+     "ar_name": "دلدول",
+     "post_code": "49003"
+    },
+    {
+     "id": 11,
+     "name": "Ksar Kaddour",
+     "ar_name": "قصر قدور",
+     "post_code": "49004"
+    },
+    {
+     "id": 12,
+     "name": "Metarfa",
+     "ar_name": "المطارفة",
+     "post_code": "49005"
+    },
+    {
+     "id": 14,
+     "name": "Ouled Aissa",
+     "ar_name": "أولاد عيسى",
+     "post_code": "49006"
+    },
+    {
+     "id": 15,
+     "name": "Ouled Said",
+     "ar_name": "أولاد السعيد",
+     "post_code": "49007"
+    },
+    {
+     "id": 19,
+     "name": "Talmine",
+     "ar_name": "طالمين",
+     "post_code": "49008"
+    },
+    {
+     "id": 24,
+     "name": "Timimoun",
+     "ar_name": "تيميمون",
+     "post_code": "49009"
+    },
+    {
+     "id": 25,
+     "name": "Tinerkouk",
+     "ar_name": "تنركوك",
+     "post_code": "49010"
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "code": "DZ-50",
+   "name": "Bordj Badji Mokhtar",
+   "ar_name": "برج باجي مختار",
+   "localities": [
+    {
+     "id": 5,
+     "name": "Bordj Badji Mokhtar",
+     "ar_name": "برج باجي مختار",
+     "post_code": "50001"
+    },
+    {
+     "id": 23,
+     "name": "Timiaouine",
+     "ar_name": "تيمياوين",
+     "post_code": "50002"
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "code": "DZ-51",
+   "name": "Ouled Djellal",
+   "ar_name": "أولاد جلال",
+   "localities": [
+    {
+     "id": 232,
+     "name": "Besbes",
+     "ar_name": "بسباس",
+     "post_code": "51001"
+    },
+    {
+     "id": 237,
+     "name": "El Chaiba",
+     "ar_name": "الشعيبة",
+     "post_code": "51002"
+    },
+    {
+     "id": 240,
+     "name": "Doucen",
+     "ar_name": "الدوسن",
+     "post_code": "51003"
+    },
+    {
+     "id": 255,
+     "name": "Ouled Djellal",
+     "ar_name": "أولاد جلال",
+     "post_code": "51004"
+    },
+    {
+     "id": 258,
+     "name": "Ras El Miaad",
+     "ar_name": "رأس الميعاد",
+     "post_code": "51005"
+    },
+    {
+     "id": 259,
+     "name": "Sidi Khaled",
+     "ar_name": "سيدي  خالد",
+     "post_code": "51006"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "code": "DZ-52",
+   "name": "Béni Abbès",
+   "ar_name": "بني عباس",
+   "localities": [
+    {
+     "id": 265,
+     "name": "Beni Abbes",
+     "ar_name": "بني عباس",
+     "post_code": "52001"
+    },
+    {
+     "id": 266,
+     "name": "Beni Ikhlef",
+     "ar_name": "بن يخلف",
+     "post_code": "52002"
+    },
+    {
+     "id": 269,
+     "name": "El Ouata",
+     "ar_name": "الواتة",
+     "post_code": "52003"
+    },
+    {
+     "id": 271,
+     "name": "Igli",
+     "ar_name": "إقلي",
+     "post_code": "52004"
+    },
+    {
+     "id": 273,
+     "name": "Kerzaz",
+     "ar_name": "كرزاز",
+     "post_code": "52005"
+    },
+    {
+     "id": 274,
+     "name": "Ksabi",
+     "ar_name": "القصابي",
+     "post_code": "52006"
+    },
+    {
+     "id": 279,
+     "name": "Ouled Khoudir",
+     "ar_name": "أولاد خضير",
+     "post_code": "52007"
+    },
+    {
+     "id": 282,
+     "name": "Tamtert",
+     "ar_name": "تامترت",
+     "post_code": "52008"
+    },
+    {
+     "id": 283,
+     "name": "Timoudi",
+     "ar_name": "تيمودي",
+     "post_code": "52009"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "code": "DZ-53",
+   "name": "In Salah",
+   "ar_name": "عين صالح",
+   "localities": [
+    {
+     "id": 357,
+     "name": "In Salah",
+     "ar_name": "عين صالح",
+     "post_code": "53001"
+    },
+    {
+     "id": 358,
+     "name": "Foggaret Ezzaouia",
+     "ar_name": "فقارة الزوى",
+     "post_code": "53002"
+    },
+    {
+     "id": 360,
+     "name": "In Ghar",
+     "ar_name": "إينغر",
+     "post_code": "53003"
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "code": "DZ-54",
+   "name": "In Guezzam",
+   "ar_name": "عين قزام",
+   "localities": [
+    {
+     "id": 356,
+     "name": "In Guezzam",
+     "ar_name": "عين قزام",
+     "post_code": "54001"
+    },
+    {
+     "id": 363,
+     "name": "Tinzaouatine",
+     "ar_name": "تين زواتين",
+     "post_code": "54002"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "code": "DZ-55",
+   "name": "Touggourt",
+   "ar_name": "تقرت",
+   "localities": [
+    {
+     "id": 1090,
+     "name": "Ben Nacer",
+     "ar_name": "بن ناصر",
+     "post_code": "55001"
+    },
+    {
+     "id": 1091,
+     "name": "Beldate Ameur",
+     "ar_name": "بلدة اعمر",
+     "post_code": "55002"
+    },
+    {
+     "id": 1092,
+     "name": "El Alia",
+     "ar_name": "العالية",
+     "post_code": "55003"
+    },
+    {
+     "id": 1094,
+     "name": "El Hedjira",
+     "ar_name": "الحجيرة",
+     "post_code": "55004"
+    },
+    {
+     "id": 1097,
+     "name": "Megarine",
+     "ar_name": "المقارين",
+     "post_code": "55005"
+    },
+    {
+     "id": 1098,
+     "name": "El Meghaier",
+     "ar_name": "المنقر",
+     "post_code": "55006"
+    },
+    {
+     "id": 1099,
+     "name": "Nezla",
+     "ar_name": "النزلة",
+     "post_code": "55007"
+    },
+    {
+     "id": 1104,
+     "name": "Sidi Slimane",
+     "ar_name": "سيدي سليمان",
+     "post_code": "55008"
+    },
+    {
+     "id": 1105,
+     "name": "El Tibat",
+     "ar_name": "الطيبات",
+     "post_code": "55009"
+    },
+    {
+     "id": 1106,
+     "name": "Tebesbest",
+     "ar_name": "تبسبست",
+     "post_code": "55010"
+    },
+    {
+     "id": 1107,
+     "name": "Tebesbest",
+     "ar_name": "تماسين",
+     "post_code": "55011"
+    },
+    {
+     "id": 1108,
+     "name": "Touggourt",
+     "ar_name": "تقرت",
+     "post_code": "55012"
+    },
+    {
+     "id": 1109,
+     "name": "Zaouia El Abidia",
+     "ar_name": "الزاوية العابدية",
+     "post_code": "55013"
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "code": "DZ-56",
+   "name": "Djanet",
+   "ar_name": "جانت",
+   "localities": [
+    {
+     "id": 1158,
+     "name": "Bordj El Haouès",
+     "ar_name": "برج الحواس",
+     "post_code": "56001"
+    },
+    {
+     "id": 1161,
+     "name": "Djanet",
+     "ar_name": "جانت",
+     "post_code": "56002"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "code": "DZ-57",
+   "name": "El M'Ghair",
+   "ar_name": "المغير",
+   "localities": [
+    {
+     "id": 1281,
+     "name": "Djamaa",
+     "ar_name": "جامعة",
+     "post_code": "57001"
+    },
+    {
+     "id": 1284,
+     "name": "El M'Ghair",
+     "ar_name": "المغير",
+     "post_code": "57002"
+    },
+    {
+     "id": 1293,
+     "name": "Mrara",
+     "ar_name": "المرارة",
+     "post_code": "57003"
+    },
+    {
+     "id": 1296,
+     "name": "Oum Touyour",
+     "ar_name": "أم الطيور",
+     "post_code": "57004"
+    },
+    {
+     "id": 1300,
+     "name": "Sidi Amrane",
+     "ar_name": "سيدي عمران",
+     "post_code": "57005"
+    },
+    {
+     "id": 1302,
+     "name": "Sidi Khellil",
+     "ar_name": "سيدي خليل",
+     "post_code": "57006"
+    },
+    {
+     "id": 1303,
+     "name": "Still",
+     "ar_name": "سطيل",
+     "post_code": "57007"
+    },
+    {
+     "id": 1306,
+     "name": "Tendla",
+     "ar_name": "تندلة",
+     "post_code": "57008"
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "code": "DZ-58",
+   "name": "El Meniaa",
+   "ar_name": "المنيعة",
+   "localities": [
+    {
+     "id": 1495,
+     "name": "El Meniaa",
+     "ar_name": "المنيعة",
+     "post_code": "58001"
+    },
+    {
+     "id": 1498,
+     "name": "Hassi El Fehal",
+     "ar_name": "حاسي الفحل",
+     "post_code": "58002"
+    },
+    {
+     "id": 1499,
+     "name": "Hassi El Gara",
+     "ar_name": "حاسي القارة",
+     "post_code": "58003"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "ar_name": "الجزائر",
+    "fr_name": "Algérie",
+    "currency": "DZD",
+    "phone_prefix": "+213",
+    "phone_pattern": "^0[567]\\d{8}$",
+    "levels": {
+      "region": {
+        "ar": "الولاية",
+        "fr": "Wilaya",
+        "en": "Province"
+      },
+      "locality": {
+        "ar": "البلدية",
+        "fr": "Commune",
+        "en": "Municipality"
+      }
+    },
+    "active": true
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "ar_name": "تونس",
+    "fr_name": "Tunisie",
+    "currency": "TND",
+    "phone_prefix": "+216",
+    "phone_pattern": "^[2459]\\d{7}$",
+    "levels": {
+      "region": {
+        "ar": "الولاية",
+        "fr": "Gouvernorat",
+        "en": "Governorate"
+      },
+      "locality": {
+        "ar": "المعتمدية",
+        "fr": "Délégation",
+        "en": "Delegation"
+      }
+    },
+    "active": true,
+    "test": true
+  }
+]

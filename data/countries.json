@@ -19,7 +19,21 @@
         "en": "Municipality"
       }
     },
-    "active": true
+    "active": true,
+    "divisions": [
+      {
+        "code": "",
+        "ar": "58 ولاية",
+        "fr": "58 wilayas",
+        "en": "58 provinces"
+      },
+      {
+        "code": "69",
+        "ar": "69 ولاية",
+        "fr": "69 wilayas",
+        "en": "69 provinces"
+      }
+    ]
   },
   {
     "code": "TN",

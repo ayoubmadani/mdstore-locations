@@ -43,3 +43,15 @@ test('unknown country / region return 404, responses are cacheable', async () =>
   assert.match(headers.get('cache-control'), /s-maxage/);
   assert.equal(headers.get('access-control-allow-origin'), '*');
 });
+
+test('Algeria 69 wilayas is a division of DZ (?division=69), not a separate country', async () => {
+  const { body: countries } = await get('/v1/countries');
+  const dz = countries.find((c) => c.code === 'DZ');
+  assert.deepEqual(dz.divisions.map((d) => d.code), ['', '69']);
+  const { body } = await get('/v1/countries/DZ/regions?division=69');
+  assert.equal(body.length, 69);
+  const r59 = body.find((r) => r.code === 'DZ-59');
+  assert.equal(r59.ship_as, 3);
+  assert.equal((await get('/v1/countries/DZ/regions')).body.length, 58);
+  assert.equal((await get('/v1/countries/DZ/regions?division=77')).status, 404);
+});

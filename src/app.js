@@ -12,7 +12,8 @@ app.use('*', async (c, next) => {
 });
 
 const notFound = (c, msg) => c.json({ error: msg }, 404);
-const withCountry = (c) => getCountryData(c.req.param('cc'));
+// ?division=69 ← تقسيم آخر لنفس الدولة (الجزائر 69 ولاية)
+const withCountry = (c) => getCountryData(c.req.param('cc'), c.req.query('division'));
 
 app.get('/', async (c) => c.json({ service: 'mdstore-locations', version: 1, countries: (await listCountries()).map((x) => x.code) }));
 

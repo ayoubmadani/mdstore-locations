@@ -35,11 +35,15 @@ export async function listCountries() {
 }
 
 const indexes = new WeakMap();
-export async function getCountryData(code) {
+// division: تقسيم الدولة ('' = الأساسي <CC>.json، '69' = <CC>-69.json — الجزائر 69 ولاية)
+export async function getCountryData(code, division) {
   const cc = String(code || '').toUpperCase();
+  const div = String(division ?? '').trim();
+  if (div && !/^[0-9A-Za-z]{1,8}$/.test(div)) return null;
   const meta = (await listCountries()).find((c) => c.code === cc);
   if (!meta) return null;
-  const file = await load(`${cc}.json`);
+  if (div && !(meta.divisions || []).some((d) => String(d.code ?? '') === div)) return null;
+  const file = await load(div ? `${cc}-${div}.json` : `${cc}.json`);
   if (!file) return null;
   if (!indexes.has(file)) {
     const regions = file.regions;
